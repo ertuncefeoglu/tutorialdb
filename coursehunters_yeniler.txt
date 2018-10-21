@@ -1,0 +1,29 @@
+﻿https://coursehunters.net/course/laravel-mnogopolzovatelskie-komponenty-single-database
+https://coursehunters.net/course/prakticheskie-komponenty-vue
+https://coursehunters.net/course/sozdayte-slack-chat-s-pomoshchyu-react-redux-i-firebase
+https://coursehunters.net/course/veb-razrabotka-full-stack-node-sql-react-i-mnogoe-drugoe
+https://coursehunters.net/course/postroyte-react-prilozhenie-s-renderingom-na-storone-servera-s-next-js
+? rusça https://coursehunters.net/course/react-patterny
+https://coursehunters.net/course/izuchi-redis-polnyy-kurs-po-redis
+https://coursehunters.net/course/react-redux-professionalnaya-razrabotka
+https://coursehunters.net/course/vvedenie-v-mongodb
+https://coursehunters.net/course/vvedenie-v-node-js
+https://coursehunters.net/course/spa-forum-s-pusher-laravel-i-vuejs
+https://coursehunters.net/course/sozdayte-prilozhenie-s-pomoshchyu-aspnet-core-i-angular-s-nulya
+? https://coursehunters.net/course/javascript-patterny-proektirovaniya
+https://coursehunters.net/course/stroim-e-commerce-platformu
+https://coursehunters.net/course/advanced-javascript
+https://coursehunters.net/course/understanding-typescript
+https://coursehunters.net/course/mongodb-polnoe-rukovodstvo
+https://coursehunters.net/course/javascript-zhestkie-chasti-obektno-orientirovannogo-programmirovaniya
+https://coursehunters.net/course/dinamicheskie-formy-s-vue-js
+https://coursehunters.net/course/validaciya-form-s-vue-js
+https://coursehunters.net/course/osnovy-vue-js
+https://coursehunters.net/course/vue-js-firebase-authentication
+https://coursehunters.net/course/vue-js-firebase-realtime-database
+https://coursehunters.net/course/vuex-dlya-vseh
+https://coursehunters.net/course/luchshiy-javascript
+https://coursehunters.net/course/full-stack-vue-s-graphql-polnoe-rukovodstvo
+https://coursehunters.net/course/sovremennyy-graphql-bootcamp-advanced-node-js
+? rusça https://coursehunters.net/course/javascript-ninja-video-s-patreon
+https://coursehunters.net/course/intermediate-react
