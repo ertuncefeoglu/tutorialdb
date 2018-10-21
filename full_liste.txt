@@ -1,0 +1,2561 @@
+﻿5 TB
+____
+
+ Volume in drive F is Seagate Backup Plus Drive
+ Volume Serial Number is 8EEF-9673
+
+ Directory of F:\UNSORTED
+
+14/10/2018  07:59    <DIR>          .
+14/10/2018  07:59    <DIR>          ..
+20/08/2018  18:33    <DIR>          + AdamWathan - Advanced Vue Component Design
+13/07/2018  00:04    <DIR>          + Knp University
+13/07/2018  00:06    <DIR>          + PHP Academy (Codecourse)
+13/07/2018  00:07    <DIR>          + Shipping Docker
+11/10/2018  22:27    <DIR>          - ebook
+11/10/2018  22:33    <DIR>          - misc
+20/08/2018  18:28    <DIR>          - Reach - Advanced React.js Full Course
+11/10/2018  22:28    <DIR>          --- DOWNLOADS ---
+13/07/2018  00:08    <DIR>          Adam Wathan - Test Driven Laravel
+20/08/2018  18:12    <DIR>          Code4StartUp -  Build Collaborative editor and Real-time video call with NodeJS
+13/07/2018  00:08    <DIR>          Frontend Masters - A Practical Guide to Algorithms with JavaScript
+13/07/2018  00:08    <DIR>          Frontend Masters - Advanced GraphQL
+13/07/2018  00:09    <DIR>          Frontend Masters - Advanced React Patterns
+13/07/2018  00:09    <DIR>          Frontend Masters - Advanced Vue.js Features from the Ground Up
+13/07/2018  00:09    <DIR>          Frontend Masters - Build Cross-Platform Desktop Apps with Electron
+20/08/2018  18:14    <DIR>          Frontend Masters - Deep JavaScript Foundations
+13/07/2018  00:09    <DIR>          Frontend Masters - Introduction to Vue.js
+13/07/2018  00:10    <DIR>          Frontend Masters - Introduction to Web Development, v2
+11/10/2018  22:04    <DIR>          Laracasts
+26/09/2018  18:43    <DIR>          Laravel
+13/07/2018  07:45    <DIR>          Laravel Kitap
+20/08/2018  18:34    <DIR>          Level UpTutorials - Level 2 React
+20/08/2018  18:29    <DIR>          Level UpTutorials - Vue.js For Everyone
+13/07/2018  07:45    <DIR>          Linkedin - C# Framework Design
+20/08/2018  18:15    <DIR>          Linkedin - Code Clinic JavaScript 2018
+13/07/2018  00:21    <DIR>          Linkedin - Entity Framework Core Essential Training
+13/07/2018  00:21    <DIR>          Linkedin - Learning Composer PHP Dependency Manager
+13/07/2018  00:22    <DIR>          Linkedin - PHP Object-Oriented Programming
+13/07/2018  07:45    <DIR>          Linkedin - PHP Object-oriented Programming Databases
+13/07/2018  00:22    <DIR>          Linkedin - Xamarin Essential Training
+13/07/2018  00:22    <DIR>          Linux Academy - Nginx And The LEMP Stack
+18/07/2018  13:14    <DIR>          Lynda - Advanced Express - Web Application Development
+13/07/2018  00:22    <DIR>          Lynda - Advanced PHP
+20/08/2018  18:35    <DIR>          Lynda - Building APIs in PHP Using the Slim Micro Framework
+13/07/2018  00:22    <DIR>          Lynda - C# Best Practices for Developers
+18/07/2018  13:15    <DIR>          Lynda - Databases for Node.js Developers
+18/07/2018  13:15    <DIR>          Lynda - ES6 The Right Parts
+13/07/2018  00:22    <DIR>          Lynda - JavaScript Essential Training
+13/07/2018  00:23    <DIR>          Lynda - Laravel 5 Essential Training 1 Basics
+13/07/2018  00:23    <DIR>          Lynda - Learning App Building Vanilla JavaScript
+13/07/2018  00:23    <DIR>          Lynda - Learning PHP
+13/07/2018  00:23    <DIR>          Lynda - Learning Redis
+13/07/2018  00:23    <DIR>          Lynda - Linux for PHP Developers
+13/07/2018  00:23    <DIR>          Lynda - NodeJS Build Your First Microservice
+13/07/2018  00:23    <DIR>          Lynda - PHP - Performance Optimization
+13/07/2018  00:23    <DIR>          Lynda - PHP - Resizing and Watermarking Images
+13/07/2018  00:23    <DIR>          Lynda - PHP 7 New Features
+20/08/2018  18:36    <DIR>          Lynda - PHP Clean URLs on Apache Server
+18/07/2018  13:20    <DIR>          Lynda - PHP Object Oriented Programming
+13/07/2018  00:24    <DIR>          Lynda - PHP Object Oriented Programming Databases
+13/07/2018  00:23    <DIR>          Lynda - PHP Tips, Tricks, and Techniques
+13/07/2018  00:24    <DIR>          Lynda - Reactjs Essential Training
+13/07/2018  00:24    <DIR>          Lynda - Real-Time Web with Node.js
+13/07/2018  00:24    <DIR>          Lynda - Up and Running in Vue
+13/07/2018  00:25    <DIR>          MongoDB with PHP - Build OOP Website Prepare for the future
+13/07/2018  00:25    <DIR>          Oreilly - Up to Speed with PHP 7
+20/08/2018  18:16    <DIR>          Packt - Advanced Server-Side Programming with Node.js
+13/07/2018  00:26    <DIR>          Packt - Beginning API Development with Node.js
+13/07/2018  00:26    <DIR>          Packt - Beginning Asp.Net
+13/07/2018  00:26    <DIR>          Packt - Beginning Object Oriented Programming
+13/07/2018  00:26    <DIR>          Packt - Building PHP Restful Web Services
+13/07/2018  00:26    <DIR>          Packt - Building Single Page Application Javascript
+13/07/2018  00:26    <DIR>          Packt - Building Your First Advanced CRUD Application with Vue 2
+13/07/2018  00:27    <DIR>          Packt - Design Patterns Using C# and .Net Core
+13/07/2018  00:27    <DIR>          Packt - Extending Laravel First Packages
+13/07/2018  00:27    <DIR>          Packt - Functional PHP 7
+18/07/2018  13:27    <DIR>          Packt - Getting Started with ASP.NET Core MVC
+13/07/2018  00:27    <DIR>          Packt - Getting Started with Microservices PHP
+13/07/2018  00:27    <DIR>          Packt - Getting Started with Object-Oriented Programming in Python 3
+13/07/2018  00:27    <DIR>          Packt - Getting Started with PHP 7
+13/07/2018  00:27    <DIR>          Packt - Getting Started with PHP Reactive Programming
+13/07/2018  00:28    <DIR>          Packt - Hands-on Web Development with VueJS
+13/07/2018  00:28    <DIR>          Packt - Learn Python in 3 Hours
+13/07/2018  00:28    <DIR>          Packt - Learning PHP 7
+13/07/2018  00:28    <DIR>          Packt - Learning React Native Development
+20/08/2018  18:38    <DIR>          Packt - Mastering Clean Code in JavaScript
+13/07/2018  00:28    <DIR>          Packt - PHP 7 Programming Solutions
+20/08/2018  18:36    <DIR>          Packt - React Native The Practical Guide
+13/07/2018  00:28    <DIR>          Packt - Test Driven Development with C Sharp and DOTNET Core MVC
+13/07/2018  00:32    <DIR>          Packt - The Ultimate Vue JS 2 Developers Course
+13/07/2018  00:32    <DIR>          Packt - Web Development with Vue.js 2
+20/08/2018  18:16    <DIR>          Pluralsight - Advanced Node.js
+20/08/2018  18:17    <DIR>          Pluralsight - ASP.NET Core Fundamentals
+13/07/2018  00:33    <DIR>          Pluralsight - Become a Full-stack .NET Developer - Architecture and Testing
+13/07/2018  00:33    <DIR>          Pluralsight - Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
+13/07/2018  07:46    <DIR>          Pluralsight - Building Javascript Development Environment
+13/07/2018  00:33    <DIR>          Pluralsight - Building Web Applications with Node.js and Express 4.0
+20/08/2018  18:18    <DIR>          Pluralsight - Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017
+13/07/2018  00:34    <DIR>          Pluralsight - Docker Deep Dive
+13/07/2018  00:34    <DIR>          Pluralsight - Eclipse for Java Developers
+18/07/2018  13:32    <DIR>          Pluralsight - JavaScript Best Practices
+13/07/2018  00:34    <DIR>          Pluralsight - JavaScript Design Patterns
+13/07/2018  00:34    <DIR>          Pluralsight - PHP Predefined Variables
+18/07/2018  13:37    <DIR>          Pluralsight - Practical Design Patterns in JavaScript
+18/07/2018  13:41    <DIR>          Pluralsight - Rapid ES6 Training
+13/07/2018  00:34    <DIR>          Pluralsight - React.js Getting Started
+13/07/2018  00:34    <DIR>          React Kitab’
+18/07/2018  13:46    <DIR>          Treehouse - Building Applications with React and Redux
+18/07/2018  13:48    <DIR>          Treehouse - CRUD Operations with PHP
+13/07/2018  00:35    <DIR>          Treehouse - Regular Expressions in JavaScript
+13/07/2018  00:35    <DIR>          Treehouse - Vue Js Basics
+20/08/2018  18:40    <DIR>          TutsPlus - Building JavaScript Web Apps
+20/08/2018  18:18    <DIR>          TutsPlus - Easier JavaScript with TypeScript
+20/08/2018  18:18    <DIR>          TutsPlus - Essential Tools for JavaScript Developers
+20/08/2018  18:19    <DIR>          TutsPlus - Functional Programming in JavaScript
+20/08/2018  18:23    <DIR>          Udacity - Web Developer Nanodegree
+13/07/2018  00:36    <DIR>          Udemy - 2018 Fullstack Laravel 5.6 with QRCodes, APIs, AndroidiOS
+13/07/2018  00:36    <DIR>          Udemy - Angular 5 Concept Mastery Course
+13/07/2018  00:36    <DIR>          Udemy - AWS Serverless APIs & Apps - A Complete Introduction
+20/08/2018  18:44    <DIR>          Udemy - Become a Master of JavaScript from Scratch in 2018
+13/07/2018  00:37    <DIR>          Udemy - Beginner Firebase and Vue.js
+18/07/2018  14:35    <DIR>          Udemy - Beginners ES6 Programming Code For The Web In Javascript
+13/07/2018  00:37    <DIR>          Udemy - Build A Real World Responsive Website with Html 5 CSS 3 & JS
+18/07/2018  13:13    <DIR>          Udemy - Build a Simple Chat System in JavaScript
+20/08/2018  18:55    <DIR>          Udemy - Build an app with React, Redux and Firestore from Scratch
+18/07/2018  14:53    <DIR>          Udemy - Build Blog CMS with Laravel 5
+13/07/2018  00:37    <DIR>          Udemy - Build Your Own Messenger With Object Oriented PHP & Flexbox
+06/06/2018  16:08    <DIR>          Udemy - Building A ToDo App with Django and Python
+13/07/2018  07:46    <DIR>          Udemy - Byte-Sized-Chunks Dynamic Prototypes in Javascript
+13/07/2018  00:38    <DIR>          Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding - English
+02/07/2018  15:44    <DIR>          Udemy - Car Racer JavaScript Game Exercise Vanilla JavaScript
+13/07/2018  07:46    <DIR>          Udemy - Complete Javascript ES6 Course
+13/07/2018  00:39    <DIR>          Udemy - Create a High End Social Network Like Twitter in PHP Mysql
+22/06/2018  18:26    <DIR>          Udemy - Data Structures in JavaScript
+12/06/2018  22:31    <DIR>          Udemy - Electron React Tutorial
+20/08/2018  17:54    <DIR>          Udemy - Full-Stack React, GraphQL and Apollo Boost
+11/05/2018  15:45    <DIR>          Udemy - Fundamentals of VueJS
+18/07/2018  15:01    <DIR>          Udemy - Git and GitHub Bootcamp
+20/08/2018  17:54    <DIR>          Udemy - JavaScript and ES6 Challenges
+11/07/2018  20:50    <DIR>          Udemy - JavaScript Exercise Local Storage Task List
+13/07/2018  06:37    <DIR>          Udemy - Javascript for Beginners Learn by Doing Practical Exercises
+18/07/2018  15:09    <DIR>          Udemy - JavaScript for Beginners Practical Project Based Course
+13/07/2018  06:37    <DIR>          Udemy - JavaScript for Beginners To Web Development
+13/07/2018  06:38    <DIR>          Udemy - JavaScript Game Development Step by Step
+18/07/2018  15:12    <DIR>          Udemy - Javascript Object-oriented Programming
+20/08/2018  17:56    <DIR>          Udemy - JSON - Beginners Guide to learning JSON with JavaScript - Tutsem
+13/07/2018  06:38    <DIR>          Udemy - Laravel 5.6 Zero Base Introduction
+13/07/2018  06:39    <DIR>          Udemy - Learn Expressjs for Beginners
+13/07/2018  06:39    <DIR>          Udemy - Learn JavaScript for Web Development
+18/07/2018  15:12    <DIR>          Udemy - Learn JSON with JavaScript Objects and APIs in 1 hour
+20/08/2018  18:29    <DIR>          Udemy - Learn Modern Responsive Web Design with Example Step by Step
+13/07/2018  06:40    <DIR>          Udemy - Learn MongoDB with PHP, PHP Basics & Advanced, Git, JSON,XML
+13/07/2018  07:50    <DIR>          Udemy - Learn PHP Programming from Scratch
+18/07/2018  15:12    <DIR>          Udemy - Learn To Use APIs With Visual Studio, C#, ASP.Net
+13/07/2018  07:50    <DIR>          Udemy - Master Advanced JavaScript React
+13/07/2018  06:40    <DIR>          Udemy - Master Electron
+13/07/2018  06:40    <DIR>          Udemy - Mastering PHP PDO PHP Data Objects with CRUD Application
+13/07/2018  06:44    <DIR>          Udemy - MERN Stack Front to Back
+13/07/2018  07:52    <DIR>          Udemy - Modern JavaScript From The Beginning
+13/07/2018  07:53    <DIR>          Udemy - Modern Javascript Mastering ES6 And ES7
+13/07/2018  06:47    <DIR>          Udemy - Modern JavaScript The Complete Course - Build +10 Projects
+20/08/2018  17:57    <DIR>          Udemy - Node JS Advanced Concepts
+13/07/2018  07:55    <DIR>          Udemy - Node with React Fullstack Web Development
+13/07/2018  06:52    <DIR>          Udemy - Node.js The Complete Guide to Build RESTful APIs
+13/07/2018  06:53    <DIR>          Udemy - Object Oriented PHP & MVC
+13/07/2018  06:53    <DIR>          Udemy - Object-Oriented Programming in JavaScript
+13/07/2018  06:54    <DIR>          Udemy - OOP Object Oriented Programming In PHP 7
+18/07/2018  15:13    <DIR>          Udemy - PHP Crash Course
+13/07/2018  06:54    <DIR>          Udemy - PHP Facebook Developer Passwordless Authentication
+18/07/2018  15:14    <DIR>          Udemy - PHP for Absolute Beginners
+20/08/2018  18:46    <DIR>          Udemy - PHP from the Ground Up
+13/07/2018  06:55    <DIR>          Udemy - PHP MVC from Scratch
+13/07/2018  07:56    <DIR>          Udemy - PHP MySQL Master from Scratch with Projects
+13/07/2018  06:55    <DIR>          Udemy - PHP OOP 100% Practical Course
+13/07/2018  06:56    <DIR>          Udemy - PHP Web Developer Course with Project
+13/07/2018  06:57    <DIR>          Udemy - Projects Electron Building Apps
+13/07/2018  06:57    <DIR>          Udemy - Projects In ReactJS
+13/07/2018  07:02    <DIR>          Udemy - React 16 - The Complete Guide (incl. React Router 4 & Redux)
+20/08/2018  18:02    <DIR>          Udemy - React Native Advanced Concepts
+13/07/2018  07:03    <DIR>          Udemy - SAP ABAP Programming for Beginners
+18/07/2018  14:09    <DIR>          Udemy - The Complete Javascript Course  Beginner To Professional
+13/07/2018  07:05    <DIR>          Udemy - The Complete JavaScript Course 2018 Build Real Projects!
+13/07/2018  07:09    <DIR>          Udemy - The Complete React Fullstack Course
+13/07/2018  07:15    <DIR>          Udemy - The Modern JavaScript Bootcamp (2018)
+13/07/2018  07:17    <DIR>          Udemy - The Ultimate Advanced Laravel Pro course (incl Vuejs)
+13/07/2018  07:20    <DIR>          Udemy - Vue JS 2 The Complete Guide (incl. Vue Router & Vuex)
+20/08/2018  19:01    <DIR>          Udemy - Vue JS Essentials with Vuex and Vue Router
+13/07/2018  07:21    <DIR>          Udemy - Vue Web Apps
+13/07/2018  07:58    <DIR>          Udemy - Vuejs 2 The Complete Guide
+13/07/2018  07:24    <DIR>          Udemy - VueJS from Beginner to Professional
+13/07/2018  07:24    <DIR>          Udemy - Write PHP Like a Pro Build a PHP MVC Framework From Scratch
+13/07/2018  07:25    <DIR>          Udemy - Xamarin Forms Build Native Cross-platform Apps with C# - English
+13/07/2018  07:26    <DIR>          Wes Bos -  React for Beginners
+               0 File(s)              0 bytes
+             185 Dir(s)  71,481,237,504 bytes free
+
+ Directory of F:\UNSORTED
+
+16/07/2017  17:19     2,035,700,465 Linkedin - Advance your Skills as a PHP Developer Core PHP.rar
+02/03/2016  21:06       819,426,097 Lynda - Accessing Databases with Object-Oriented PHP.rar
+29/05/2017  09:10       324,525,707 Lynda - Test-Driven Development in PHP with PHPUnit.rar
+24/08/2014  10:38       369,387,970 Lynda - Up and Running with Symfony2 for PHP.rar
+25/12/2015  11:54       991,826,211 Oreilly - PHP Web Services Working With APIs and PHP.rar
+17/05/2017  13:34     2,067,023,908 StoneRiver - PHP Object Oriented Programming Fundamentals.rar
+25/12/2015  10:23       851,939,863 Tutsplus - Advanced OOP in PHP With Tests.rar
+07/01/2016  12:47     1,716,849,667 Udemy - Introduction to Modern Programming with PHP.rar
+20/01/2016  23:50     1,350,604,587 Udemy - Introduction to Testing with PHPUnit.rar
+24/12/2015  18:10     1,217,543,588 Udemy - Learn How to Extract Data From Websites with PHP.rar
+01/10/2016  20:58       745,080,113 Udemy - Learn PhalconPHP Framework.rar
+02/03/2016  21:35     2,596,870,231 Udemy - Learn Top Ten PHP FrameWorks By Building Projects.rar
+28/08/2017  09:58       630,218,201 Udemy - PHP MVC Login.rar
+01/10/2016  19:40     2,084,851,159 Udemy - PHP Object Oriented Programming Fundamentals.rar
+28/08/2017  09:52     1,962,847,212 Udemy - VueJS 2 Essentials.rar
+17/05/2017  15:07     3,755,063,327 Udemy - VueJS 2 The Complete Guide.rar
+              16 File(s) 23,519,758,306 bytes
+               0 Dir(s)  71,481,233,408 bytes free
+
+ Directory of F:\UNSORTED\Laravel
+
+07/11/2013  04:05       351,977,909 -- silibebilir belki -- Tutsplus - Testing Tricks for PHP and Laravel Developers.rar
+01/10/2016  19:51       302,642,320 Pluralsight - RESTful Web Services with PHP and Laravel.rar
+14/01/2014  10:01     1,505,853,168 Tutsplus - Build an eCommerce App in Laravel.rar
+08/07/2017  11:34       355,756,487 Tutsplus - Build Your First Laravel Site.rar
+20/01/2015  01:19       523,454,695 Tutsplus - Building Multitenant Apps in Laravel.rar
+27/01/2014  21:41       344,331,180 Tutsplus - Hands-on Build a Practical Web Application with Laravel.rar
+29/01/2014  18:10       336,285,519 Tutsplus - Rails or Laravel  Building an App Twice.rar
+02/03/2016  21:37       595,191,354 Udemy - A Very Complete Introduction To Laravel.rar
+10/11/2015  19:57     1,360,440,619 Udemy - Everything About Laravel.rar
+24/12/2015  17:59       282,050,036 Udemy - Laravel 5.1 for Beginners Tutorial.rar
+10/01/2016  10:36       236,790,399 Udemy - Laravel PHP Framework Jump Start For Beginners.rar
+11/01/2016  18:57       863,389,190 Udemy - Learn to Build Web Apps using Laravel Framework.rar
+24/08/2017  21:50     2,421,431,520 Udemy - Modern Web Development with Laravel.rar
+17/05/2017  14:15     6,656,710,201 Udemy - PHP with Laravel For Beginners - Become a Master in Laravel.rar
+              14 File(s) 16,136,304,597 bytes
+               0 Dir(s)  71,481,229,312 bytes free
+
+ Directory of F:\UNSORTED\Laravel
+
+14/10/2018  08:01    <DIR>          .
+14/10/2018  08:01    <DIR>          ..
+13/07/2018  07:33    <DIR>          - Laracon 2016 Talk Recordings
+13/07/2018  07:34    <DIR>          -- silinebilir belki -- Bitfumes - Laravel 5.4
+13/07/2018  07:35    <DIR>          -- silinebilir belki youtubeda var ayn’s’ son 2 video yok listede ama -- tutor - myMovieDB
+13/07/2018  07:36    <DIR>          Codecourse - Laravel Youtube Clone
+13/07/2018  07:36    <DIR>          Codecourse - Learn Laravel
+13/07/2018  07:43    <DIR>          Laracasts
+13/07/2018  00:17    <DIR>          Laracasts - Laravel 5.4 From Scratch
+13/07/2018  07:44    <DIR>          Laravel Kitap
+13/07/2018  00:18    <DIR>          Let's Build A Forum with Laravel and TDD
+13/07/2018  00:18    <DIR>          Lynda - Laravel 5 Essential Training - 1 The Basics
+13/07/2018  00:18    <DIR>          Lynda - Laravel 5 Essential Training - 2 Testing, Securing, and Deploying
+13/07/2018  00:19    <DIR>          Packt - Integrating Elasticsearch with PHP and Laravel
+13/07/2018  00:19    <DIR>          Packt - Learning Application Deployment with Laravel
+13/07/2018  00:19    <DIR>          Pluralsight - RESTful Web Services with PHP and Laravel
+13/07/2018  00:20    <DIR>          Test Driven Laravel
+13/07/2018  00:20    <DIR>          Tutsplus - Build a CMS With Laravel
+13/07/2018  00:20    <DIR>          Tutsplus - Build Your First Laravel Site
+13/07/2018  00:20    <DIR>          Udemy - Best Laravel
+13/07/2018  00:21    <DIR>          Udemy - Projects in Laravel Learn Laravel Building 10 Projects
+13/07/2018  07:45    <DIR>          Udemy - RESTful API with Laravel 5.4 Definitive Guide
+13/07/2018  00:21    <DIR>          Udemy - Restful API with Laravel PHP Homestead Passport Hateoas
+               0 File(s)              0 bytes
+              23 Dir(s)  71,481,225,216 bytes free
+
+ Directory of F:\UNSORTED\Laravel\Laracasts
+
+14/10/2018  08:02    <DIR>          .
+14/10/2018  08:02    <DIR>          ..
+13/07/2018  07:42    <DIR>          -- X
+13/07/2018  07:42    <DIR>          Advanced Eloquent
+13/07/2018  07:42    <DIR>          Billing With Stripe
+13/07/2018  07:42    <DIR>          Commands and Domain Events
+13/07/2018  07:42    <DIR>          Digging In
+13/07/2018  07:42    <DIR>          How to be Awesome in PHPStorm
+13/07/2018  07:42    <DIR>          Incremental APIs
+13/07/2018  07:43    <DIR>          Laravel Forge
+13/07/2018  07:43    <DIR>          Laravel From Scratch
+13/07/2018  07:43    <DIR>          Let's Build Larabook From Scratch
+13/07/2018  07:43    <DIR>          Modern CSS Workflow
+13/07/2018  07:43    <DIR>          SOLID Principles in PHP
+13/07/2018  07:43    <DIR>          The Lifecycle of a New Feature
+13/07/2018  07:43    <DIR>          tutor - Laravel
+13/07/2018  07:43    <DIR>          Understand Regular Expressions
+13/07/2018  07:44    <DIR>          VueJS
+               0 File(s)              0 bytes
+              18 Dir(s)  71,481,221,120 bytes free
+
+ Directory of F:\UNSORTED\Laravel\Laracasts
+
+18/08/2014  10:05       786,055,682 Laracasts - Build Larabook From Scratch.rar
+01/10/2016  21:04       330,622,457 Laracasts - Design Patterns in PHP.rar
+16/10/2017  15:17       235,670,256 Laracasts - How to be Awesome in PHPStorm.rar
+24/12/2015  15:20       608,619,440 Laracasts - Intermediate Laravel.rar
+28/11/2014  10:18       389,782,516 Laracasts - Laravel 5 From Scratch.rar
+28/03/2015  13:26     1,602,835,533 Laracasts - Laravel 5 Fundamentals.rar
+20/06/2015  12:57       171,862,644 Laracasts - Laravel and the Front-end (2014).rar
+25/05/2014  14:18     2,440,753,645 Laracasts - Laravel Lessons Clean and Classy PHP Framework.rar
+24/12/2015  15:21       463,304,575 Laracasts - PHP OOP.rar
+03/11/2014  23:04       411,274,422 Laracasts - What's New in Laravel 5.0.rar
+              10 File(s)  7,440,781,170 bytes
+               0 Dir(s)  71,481,217,024 bytes free
+
+ Directory of F:\UNSORTED\Laracasts
+
+14/10/2018  08:03    <DIR>          .
+14/10/2018  08:03    <DIR>          ..
+13/07/2018  00:10    <DIR>          Laracasts - Advanced Eloquent
+13/07/2018  00:10    <DIR>          Laracasts - Code Katas in PHP
+13/07/2018  00:10    <DIR>          Laracasts - Code Reflections
+13/07/2018  00:10    <DIR>          Laracasts - CSS Grids for Everyone
+13/07/2018  00:10    <DIR>          Laracasts - Design Patterns in PHP
+13/07/2018  00:10    <DIR>          Laracasts - Discover Symfony Components
+13/07/2018  00:10    <DIR>          Laracasts - Eloquent Techniques
+13/07/2018  00:11    <DIR>          Laracasts - ES6 Cliffsnotes
+13/07/2018  00:11    <DIR>          Laracasts - Get Real with Laravel Echo
+13/07/2018  00:11    <DIR>          Laracasts - Git Me Some Version Control
+13/07/2018  00:11    <DIR>          Laracasts - How to Build Command Line Apps in PHP
+13/07/2018  00:11    <DIR>          Laracasts - How to Manage An Open Source Project
+13/07/2018  00:11    <DIR>          Laracasts - Incremental API Development
+13/07/2018  00:11    <DIR>          Laracasts - Intermediate Laravel
+13/07/2018  00:12    <DIR>          Laracasts - Laravel and Vue
+13/07/2018  00:12    <DIR>          Laracasts - Laravel Authentication Techniques
+13/07/2018  00:12    <DIR>          Laracasts - Laravel from Scratch 2017
+13/07/2018  00:12    <DIR>          Laracasts - Learn Flexbox Through Examples
+13/07/2018  00:12    <DIR>          Laracasts - Learn Laravel and Redis Through Examples
+13/07/2018  00:12    <DIR>          Laracasts - Learn Vue 2 Step by Step
+13/07/2018  00:13    <DIR>          Laracasts - Lets Build a Forum with Laravel
+13/07/2018  00:13    <DIR>          Laracasts - Object-oriented Bootcamp in PHP
+13/07/2018  00:13    <DIR>          Laracasts - Painless Builds with Laravel Elixir
+13/07/2018  00:13    <DIR>          Laracasts - PHP for Beginners
+13/07/2018  00:14    <DIR>          Laracasts - PHP7 Up and Running
+13/07/2018  00:14    <DIR>          Laracasts - PHPUnit Testing in Laravel
+13/07/2018  00:14    <DIR>          Laracasts - Professional PHP Workflow in Sublime Text
+13/07/2018  00:14    <DIR>          Laracasts - Real-time-laravel-with-socket-io
+13/07/2018  00:14    <DIR>          Laracasts - Russian Doll Caching in Laravel
+13/07/2018  00:14    <DIR>          Laracasts - Server Management with Forge
+13/07/2018  00:14    <DIR>          Laracasts - Simple Rules for Simpler Code
+13/07/2018  00:14    <DIR>          Laracasts - Solid Principles in PHP
+13/07/2018  00:14    <DIR>          Laracasts - Sublime Text Mastery
+13/07/2018  00:14    <DIR>          Laracasts - Testing Vue
+13/07/2018  00:14    <DIR>          Laracasts - The PHP Practitioner
+13/07/2018  00:14    <DIR>          Laracasts - Understanding Regular Expressions
+13/07/2018  00:14    <DIR>          Laracasts - Vue 2 Step By Step
+13/07/2018  00:14    <DIR>          Laracasts - Webpack for Everyone
+13/07/2018  00:15    <DIR>          Laracasts - What's New in Laravel 5.5
+13/07/2018  00:15    <DIR>          Laracasts - Whatcha Working On
+13/07/2018  00:15    <DIR>          Laracasts - Whip Monstrous Code into Shape
+               0 File(s)              0 bytes
+              43 Dir(s)  71,481,212,928 bytes free
+
+ Directory of F:\UNSORTED\- Recent
+
+14/10/2018  08:07    <DIR>          .
+14/10/2018  08:07    <DIR>          ..
+16/07/2018  13:09    <DIR>          + ES6 in Motion
+16/07/2018  13:17    <DIR>          + Knp University
+16/07/2018  13:18    <DIR>          + Shipping Docker
+16/07/2018  13:19    <DIR>          + watchandcode
+20/08/2018  18:28    <DIR>          - Reach - Advanced React.js Full Course
+16/07/2018  13:20    <DIR>          - Screencasts
+16/07/2018  13:20    <DIR>          - xxx - Lynda - Building and Deploying a Full-Stack React Application
+16/07/2018  13:21    <DIR>          -- ayn’ysa sil -- Udemy - the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert
+16/07/2018  13:21    <DIR>          -- egghead - develop-web-apps-with-vue-js
+16/07/2018  13:22    <DIR>          -- experience-design-patterns
+16/07/2018  13:25    <DIR>          -- Full-stack JavaScript with Node and React
+16/07/2018  13:26    <DIR>          -- PHP MVC from Scratch
+16/07/2018  13:26    <DIR>          -- react-native-building-mobile-apps
+16/07/2018  13:27    <DIR>          -- The Complete Jenkins Course for Developers and Devops
+16/07/2018  13:27    <DIR>          -- The JavaScript Trilogy by Douglas Crockford
+16/07/2018  13:31    <DIR>          -- Treehouse
+16/07/2018  13:31    <DIR>          -- xx -- Test Driven Laravel
+16/07/2018  13:33    <DIR>          -- xx -- Udemy - React 2nd Edition
+16/07/2018  13:33    <DIR>          -- xx -- Udemy - The Complete Angular Master Class Beginner to Advanced
+16/07/2018  13:34    <DIR>          -- xx -- Udemy - The Complete Javascript Course
+16/07/2018  13:35    <DIR>          -- xx -- Udemy - The Complete React Native and Redux Course
+16/07/2018  13:35    <DIR>          -- xxx -- Packt - Getting Started with PHP Reactive Programming
+16/07/2018  13:41    <DIR>          CodeSchool
+16/07/2018  13:41    <DIR>          Ebook - Current
+16/07/2018  13:43    <DIR>          Ebooks - Dropbox
+16/07/2018  13:43    <DIR>          edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master
+16/07/2018  13:44    <DIR>          egghead - develop-web-apps-with-vue-js
+16/07/2018  13:49    <DIR>          egghead.io
+16/07/2018  13:50    <DIR>          Forward - Full-stack JavaScript with Node and React
+16/07/2018  14:18    <DIR>          Frontend Masters
+16/07/2018  14:19    <DIR>          Frontend Masters - Advanced State Management in React Applications
+16/07/2018  14:20    <DIR>          Frontend Masters - API Design in Node v2
+16/07/2018  14:21    <DIR>          Frontend Masters - CSS Grids and Flexbox in Responsive Web Design
+16/07/2018  14:22    <DIR>          Frontend Masters - Full Stack for Front End Engineers
+16/07/2018  14:22    <DIR>          Frontend Masters - Full Stack for Front End Engineers, Part 2
+16/07/2018  14:23    <DIR>          Frontend Masters - Git In-depth
+16/07/2018  14:23    <DIR>          Frontend Masters - GraphQL
+16/07/2018  14:24    <DIR>          Frontend Masters - JavaScript From Fundamentals to Functional JS, v2
+16/07/2018  14:24    <DIR>          Frontend Masters - Mastering Chrome Developer Tools
+16/07/2018  14:27    <DIR>          Frontend Masters - Progressive Web Applications and Offline
+16/07/2018  14:28    <DIR>          Frontend Masters - REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)
+16/07/2018  14:28    <DIR>          Frontend Masters - Testing and Modular Front-End
+16/07/2018  14:29    <DIR>          Frontend Masters - Visual Studio Code
+16/07/2018  14:30    <DIR>          Frontend Masters - Web Security
+16/07/2018  14:30    <DIR>          Frontend Masters - Webpack 2 Deep Dive
+16/07/2018  14:30    <DIR>          Laracasts - Advanced Eloquent
+16/07/2018  14:31    <DIR>          Laracasts - Code Katas in PHP
+16/07/2018  14:31    <DIR>          Laracasts - Code Reflections
+16/07/2018  14:31    <DIR>          Laracasts - CSS Grids for Everyone
+16/07/2018  14:31    <DIR>          Laracasts - Design Patterns in PHP
+16/07/2018  14:31    <DIR>          Laracasts - Discover Symfony Components
+16/07/2018  14:31    <DIR>          Laracasts - Eloquent Techniques
+16/07/2018  14:31    <DIR>          Laracasts - ES6 Cliffsnotes
+16/07/2018  14:31    <DIR>          Laracasts - Get Real with Laravel Echo
+16/07/2018  14:31    <DIR>          Laracasts - Git Me Some Version Control
+16/07/2018  14:31    <DIR>          Laracasts - How to Build Command Line Apps in PHP
+16/07/2018  14:32    <DIR>          Laracasts - How to Manage An Open Source Project
+16/07/2018  14:32    <DIR>          Laracasts - Incremental API Development
+16/07/2018  14:32    <DIR>          Laracasts - Intermediate Laravel
+16/07/2018  14:32    <DIR>          Laracasts - Laravel Authentication Techniques
+16/07/2018  14:32    <DIR>          Laracasts - Laravel from Scratch 2017
+16/07/2018  14:32    <DIR>          Laracasts - Learn Flexbox Through Examples
+16/07/2018  14:32    <DIR>          Laracasts - Learn Laravel and Redis Through Examples
+16/07/2018  14:33    <DIR>          Laracasts - Learn Vue 2 Step by Step
+16/07/2018  14:34    <DIR>          Laracasts - Lets Build a Forum with Laravel
+16/07/2018  14:34    <DIR>          Laracasts - Object-oriented Bootcamp in PHP
+16/07/2018  14:34    <DIR>          Laracasts - Painless Builds with Laravel Elixir
+16/07/2018  14:35    <DIR>          Laracasts - PHP for Beginners
+16/07/2018  14:35    <DIR>          Laracasts - PHP7 Up and Running
+16/07/2018  14:35    <DIR>          Laracasts - PHPUnit Testing in Laravel
+16/07/2018  14:35    <DIR>          Laracasts - Professional PHP Workflow in Sublime Text
+16/07/2018  14:35    <DIR>          Laracasts - Real-time-laravel-with-socket-io
+16/07/2018  14:35    <DIR>          Laracasts - Russian Doll Caching in Laravel
+16/07/2018  14:35    <DIR>          Laracasts - Server Management with Forge
+16/07/2018  14:35    <DIR>          Laracasts - Simple Rules for Simpler Code
+16/07/2018  14:35    <DIR>          Laracasts - Simple-rules-for-simpler-code
+16/07/2018  14:35    <DIR>          Laracasts - Solid Principles in PHP
+16/07/2018  14:35    <DIR>          Laracasts - Sublime Text Mastery
+16/07/2018  14:36    <DIR>          Laracasts - Testing Vue
+16/07/2018  14:36    <DIR>          Laracasts - The PHP Practitioner
+16/07/2018  14:36    <DIR>          Laracasts - Understanding Regular Expressions
+16/07/2018  14:36    <DIR>          Laracasts - Webpack for Everyone
+16/07/2018  14:36    <DIR>          Laracasts - What's New in Laravel 5.5
+16/07/2018  14:37    <DIR>          Laracasts - Whatcha Working On
+16/07/2018  14:37    <DIR>          Laracasts - Whip Monstrous Code into Shape
+16/07/2018  14:37    <DIR>          Laravel Kitap
+16/07/2018  14:37    <DIR>          Learntoprogram.tv - JavaScript Crash Course
+16/07/2018  14:38    <DIR>          Linkedin - Building Applications with Angular, ASP.NET Core, and Entity Framework Core
+16/07/2018  14:38    <DIR>          Linkedin - Building Apps Angular ASP.NET Entity
+16/07/2018  14:38    <DIR>          Linkedin - Database Clinic SQLite
+16/07/2018  14:38    <DIR>          Linkedin - Docker .Net Developers Visual Studio
+16/07/2018  14:39    <DIR>          Linkedin - Docker for Java Developers
+16/07/2018  14:39    <DIR>          Linkedin - Entity Framework Core Essential Training 1
+16/07/2018  14:39    <DIR>          Linkedin - Learning Composer PHP Dependency Manager
+16/07/2018  14:39    <DIR>          Linkedin - Learning Full-Stack Javascript Development MongoDB, Node and React
+16/07/2018  14:40    <DIR>          Linkedin - Node.js Essential Training
+16/07/2018  14:40    <DIR>          Linkedin - PHP Object-Oriented Programming
+16/07/2018  14:40    <DIR>          Linkedin - React Managing Complex Interactions
+16/07/2018  14:40    <DIR>          Linkedin - Single Page Apps AspNET Javascriptservices
+16/07/2018  14:41    <DIR>          Lynda - Angular 2+ Creating CRUD Apps
+16/07/2018  14:41    <DIR>          Lynda - Angular API Communication and Authentication
+16/07/2018  14:41    <DIR>          Lynda - API Development in DOTNET with GraphQL
+16/07/2018  14:41    <DIR>          Lynda - Building Angular and ASP.NET Core Apps with Authentication
+16/07/2018  14:41    <DIR>          Lynda - Building Angular and Node Apps with Authentication
+16/07/2018  14:42    <DIR>          Lynda - CSS Shorts Weekly
+16/07/2018  14:42    <DIR>          Lynda - Database Clinic MongoDB
+16/07/2018  14:42    <DIR>          Lynda - ES6 The Right Parts
+16/07/2018  14:43    <DIR>          Lynda - JavaScript Essential Training (2017)
+16/07/2018  14:44    <DIR>          Lynda - Learn ASP NET Core MVC The Basics
+16/07/2018  14:44    <DIR>          Lynda - Learning Apollo
+16/07/2018  14:44    <DIR>          Lynda - Learning Azure
+16/07/2018  14:44    <DIR>          Lynda - Learning Enterprise Web Application Performance
+16/07/2018  14:44    <DIR>          Lynda - Learning HTML5 Game Development
+16/07/2018  14:45    <DIR>          Lynda - Learning PHP
+16/07/2018  14:45    <DIR>          Lynda - Learning Redis
+16/07/2018  14:45    <DIR>          Lynda - PHP - Performance Optimization
+16/07/2018  14:45    <DIR>          Lynda - PHP - Resizing and Watermarking Images
+16/07/2018  14:45    <DIR>          Lynda - PHP 7 New Features
+16/07/2018  14:45    <DIR>          Lynda - PHP Tips, Tricks, and Techniques
+16/07/2018  14:45    <DIR>          Lynda - React - ES6, ES2016, and Beyond
+16/07/2018  14:46    <DIR>          Lynda - Real-Time Web with Node.js
+16/07/2018  14:46    <DIR>          Lynda - WordPress REST API - Building an Interactive Web App
+16/07/2018  14:46    <DIR>          Oreilly - Enterprise Software with Python
+16/07/2018  14:46    <DIR>          Oreilly - Event-Driven Microservices
+16/07/2018  14:47    <DIR>          Oreilly - Git for Visual Studio
+16/07/2018  14:47    <DIR>          Oreilly - Learning Data Structures and Algorithms
+16/07/2018  14:48    <DIR>          Oreilly - Learning Docker
+16/07/2018  14:48    <DIR>          Oreilly - Learning Doctrine
+16/07/2018  14:49    <DIR>          Oreilly - Node for Frontend Developers
+16/07/2018  14:50    <DIR>          Oreilly - Offline Web
+16/07/2018  14:50    <DIR>          Oreilly - Python Beyond the Basics Object-Oriented Programming
+16/07/2018  14:51    <DIR>          Oreilly - Software Architecture Fundamentals Understanding the Basics
+16/07/2018  14:51    <DIR>          Packt - Advanced Server Side Programming NodeJS
+16/07/2018  14:51    <DIR>          Packt - Architectural Patterns and Best Practices with Python
+16/07/2018  14:52    <DIR>          Packt - Beginning Docker
+16/07/2018  14:52    <DIR>          Packt - Building Databases with Redis
+16/07/2018  14:53    <DIR>          Packt - Building PHP Restful Web Services
+16/07/2018  14:53    <DIR>          Packt - Building Serverless Applications
+16/07/2018  14:53    <DIR>          Packt - Building Your Application with React Native
+16/07/2018  14:53    <DIR>          Packt - Building Your First Application with Go
+16/07/2018  14:53    <DIR>          Packt - Devops for Web Developers
+16/07/2018  14:54    <DIR>          Packt - Docker for Web Developers
+16/07/2018  14:54    <DIR>          Packt - Extending Laravel First Packages
+16/07/2018  14:54    <DIR>          Packt - Getting Started with Microservices PHP
+16/07/2018  14:54    <DIR>          Packt - Go for Web Develeopment
+16/07/2018  14:55    <DIR>          Packt - Kotlin Programming By Example
+16/07/2018  14:55    <DIR>          Packt - Learn C# Windows Forms SQL
+16/07/2018  14:56    <DIR>          Packt - Learn Kotlin by Developing Android Apps
+16/07/2018  14:56    <DIR>          Packt - Learning Firebase
+16/07/2018  14:56    <DIR>          Packt - Learning Git
+16/07/2018  14:56    <DIR>          Packt - Learning Mongodb
+16/07/2018  14:57    <DIR>          Packt - Learning Path DevOps with Docker
+16/07/2018  14:57    <DIR>          Packt - Learning Path-Modern DevOps
+16/07/2018  14:57    <DIR>          Packt - Learning Redis
+16/07/2018  14:58    <DIR>          Packt - Mastering Clean Code in JavaScript
+16/07/2018  14:58    <DIR>          Packt - Mastering Clean Code Javascript
+16/07/2018  14:58    <DIR>          Packt - Mastering Git
+16/07/2018  14:59    <DIR>          Packt - Mastering Go Programming
+16/07/2018  15:00    <DIR>          Packt - Modern DevOps
+16/07/2018  15:00    <DIR>          Packt - MySQL 8 Recipes
+16/07/2018  15:00    <DIR>          Packt - Rapid Redis
+16/07/2018  15:04    <DIR>          Packt - ReactJS Fundamentals Second Edition
+16/07/2018  15:04    <DIR>          Packt - Serverless Javascript by Example
+16/07/2018  15:04    <DIR>          Packt - Version Control with Git
+16/07/2018  15:04    <DIR>          Packt - Web Developer Toolbox
+16/07/2018  15:05    <DIR>          Packt - Web Development with Angular and PHP
+16/07/2018  15:05    <DIR>          Pluralsight - 01 Beginer
+16/07/2018  15:06    <DIR>          Pluralsight - 02 Intermediate
+16/07/2018  15:07    <DIR>          Pluralsight - Advanced TypeScript
+16/07/2018  15:07    <DIR>          Pluralsight - Angular Component Communication
+16/07/2018  15:07    <DIR>          Pluralsight - Angular Reactive Forms
+16/07/2018  15:07    <DIR>          Pluralsight - Angular The Big Picture
+16/07/2018  15:08    <DIR>          Pluralsight - ASP.NET Core MVC Enterprise Application
+16/07/2018  15:08    <DIR>          Pluralsight - Building a JavaScript Development Environment
+16/07/2018  15:09    <DIR>          Pluralsight - Building a RESTful API with ASP.NET Core
+16/07/2018  15:09    <DIR>          Pluralsight - Building a Site with Angular and PHP
+16/07/2018  15:09    <DIR>          Pluralsight - Building an Enterprise App with WPF, MVVM, and Entity Framework Code First
+16/07/2018  15:10    <DIR>          Pluralsight - Building an Enterprise Application with ASP.NET Core MVC
+16/07/2018  15:10    <DIR>          Pluralsight - Building Cross-platform Applications with .NET Core
+16/07/2018  15:11    <DIR>          Pluralsight - Building Data-driven React Applications with Relay, GraphQL and Flux
+16/07/2018  15:11    <DIR>          Pluralsight - Building Javascript Development Environment
+16/07/2018  15:12    <DIR>          Pluralsight - Building Real-time Apps with React, Socket.io and RethinkDB
+16/07/2018  15:12    <DIR>          Pluralsight - Building Your First API with ASP.NET Core
+16/07/2018  15:12    <DIR>          Pluralsight - Building Your First ASP.NET Core Web Application
+16/07/2018  15:13    <DIR>          Pluralsight - Building Your First Mobile Application with Xamarin Forms and Visual Studio 2017
+16/07/2018  15:13    <DIR>          Pluralsight - Clean Architecture Patterns, Practices, and Principles
+16/07/2018  15:13    <DIR>          Pluralsight - Constructing a User Interface with Angular
+16/07/2018  15:14    <DIR>          Pluralsight - Creating Web Applications with Go
+16/07/2018  15:14    <DIR>          Pluralsight - Domain-Driven Design in Practice
+16/07/2018  15:14    <DIR>          Pluralsight - Dynamic C# Fundamentals
+16/07/2018  15:14    <DIR>          Pluralsight - Entity Framework Core Getting Started
+16/07/2018  15:15    <DIR>          Pluralsight - Getting Started with ASP.NET Core and OAuth
+16/07/2018  15:15    <DIR>          Pluralsight - Getting Started with Docker on Windows
+16/07/2018  15:15    <DIR>          Pluralsight - Getting Started with Docker on Windows by Wes Higbee
+16/07/2018  15:16    <DIR>          Pluralsight - Implementing and Securing an API with ASP.NET Core
+16/07/2018  15:16    <DIR>          Pluralsight - Integrating Angular with ASP.NET Core RESTful Services
+16/07/2018  15:16    <DIR>          Pluralsight - Javascript Getting Started
+16/07/2018  15:17    <DIR>          Pluralsight - Modern Asynchronous JavaScript
+16/07/2018  15:17    <DIR>          Pluralsight - NodeJS Advanced
+16/07/2018  15:17    <DIR>          Pluralsight - Progressive Web App Fundamentals
+16/07/2018  15:18    <DIR>          Pluralsight - Rapid JavaScript Training
+16/07/2018  15:18    <DIR>          Pluralsight - React Big Picture
+16/07/2018  15:18    <DIR>          Pluralsight - Redux Saga
+16/07/2018  15:18    <DIR>          Pluralsight - Single Page Applications with Vue.js
+16/07/2018  15:19    <DIR>          Pluralsight - Starting in Symfony 2
+16/07/2018  15:19    <DIR>          Pluralsight - TypeScript In Depth
+16/07/2018  15:19    <DIR>          Pluralsight - Using MongoDB with ASP.NET MVC
+16/07/2018  15:19    <DIR>          Pluralsight - Vue.js Getting Started
+16/07/2018  15:20    <DIR>          Pluralsight - Web Development Intro
+16/07/2018  15:21    <DIR>          Pluralsight - x02 Intermediate
+16/07/2018  15:22    <DIR>          Pluralsight - x03 Advanced
+16/07/2018  15:24    <DIR>          TR
+16/07/2018  15:24    <DIR>          Treehouse - CRUD Operations with PHP
+16/07/2018  15:24    <DIR>          Treehouse - Dependency Management-with Gradle
+16/07/2018  15:24    <DIR>          Treehouse - Designing-Interfaces in PHP
+16/07/2018  15:24    <DIR>          Tutsplus - Automated Testing With PHP
+16/07/2018  15:25    <DIR>          Tutsplus - Build a CMS With ASP.NET and Git
+16/07/2018  15:25    <DIR>          Tutsplus - Build a Social App With React Native
+16/07/2018  15:25    <DIR>          Tutsplus - Continuous Integration Workflow
+16/07/2018  15:25    <DIR>          Tutsplus - Create a REST API With Phalcon
+16/07/2018  15:25    <DIR>          Tutsplus - Develop and Deploy With Docker
+16/07/2018  15:26    <DIR>          Tutsplus - Get Started With React Native
+16/07/2018  15:26    <DIR>          Tutsplus - JavaScript for Web Designers
+16/07/2018  15:26    <DIR>          Tutsplus - Use Firebase as the Back-End
+16/07/2018  15:27    <DIR>          Udemy - Advanced CSS and SASS
+16/07/2018  15:28    <DIR>          Udemy - Angular 2 and Nodejs The Practical Guide
+16/07/2018  15:29    <DIR>          Udemy - Angular 4 Master Class for Beginners
+16/07/2018  15:29    <DIR>          Udemy - Asp.Net MVC With Entity Framework From Scratch
+16/07/2018  15:30    <DIR>          Udemy - Blockchain and Bitcoin Fundamentals
+16/07/2018  15:30    <DIR>          Udemy - Bootstrap 4 from Scratch with 5 Projects
+16/07/2018  15:30    <DIR>          Udemy - Build a Complete Fiverr Clone with Node + Algolia + Paypal
+16/07/2018  15:31    <DIR>          Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+)
+16/07/2018  15:31    <DIR>          Udemy - Building Better APIs with GraphQL
+16/07/2018  15:31    <DIR>          Udemy - C# Advanced Topics
+16/07/2018  15:32    <DIR>          Udemy - C# Advanced Topics Take Your C# Skills to the Next Level
+16/07/2018  15:32    <DIR>          Udemy - C# Developers Learn the Art of Writing Clean Code
+16/07/2018  15:32    <DIR>          Udemy - C# Intermediate Classes, Interfaces and OOP
+16/07/2018  15:33    <DIR>          Udemy - Complete Javascript ES6 Course
+16/07/2018  15:33    <DIR>          Udemy - Comprehensive Course on MongoDB and Data Modeling
+16/07/2018  15:33    <DIR>          Udemy - Design Patterns in C# and .NET
+16/07/2018  15:34    <DIR>          Udemy - Docker for Java Developers
+16/07/2018  15:35    <DIR>          Udemy - Docker Mastery The Complete Toolset From a Docker Captain
+16/07/2018  15:36    <DIR>          Udemy - ES6
+16/07/2018  15:36    <DIR>          Udemy - Essential HTML, CSS & HTML5 Training
+16/07/2018  15:36    <DIR>          Udemy - Ethereum Developer
+16/07/2018  15:36    <DIR>          Udemy - Flexbox Tutorial
+16/07/2018  15:38    <DIR>          Udemy - Full Stack Web Apps with Meteor and React
+16/07/2018  15:38    <DIR>          Udemy - Fundamentals of VueJS
+16/07/2018  15:39    <DIR>          Udemy - Git a Web Developer Job Mastering the Modern Workflow
+16/07/2018  15:39    <DIR>          Udemy - Git Bootcamp with Github Learn Step by Step
+16/07/2018  15:39    <DIR>          Udemy - Go The Complete Developers Guide
+16/07/2018  15:40    <DIR>          Udemy - GraphQL
+16/07/2018  15:40    <DIR>          Udemy - JavaScript Interview Prep Practice Problems
+16/07/2018  15:43    <DIR>          Udemy - JavaScript Specialist
+16/07/2018  15:44    <DIR>          Udemy - Javascript Top Rated Web Developer
+16/07/2018  15:45    <DIR>          Udemy - Kotlin Developer Masterclass Build 12 Apps
+16/07/2018  15:45    <DIR>          Udemy - Laravel E-Commerce Restful API
+16/07/2018  15:46    <DIR>          Udemy - Learn By Example The Foundations of HTML, CSS & Javascript
+16/07/2018  15:47    <DIR>          Udemy - Learn C# by Building Applications
+16/07/2018  15:47    <DIR>          Udemy - Learn Docker Hands-on
+16/07/2018  15:48    <DIR>          Udemy - Learn Laravel 5 Framework by Building a Professional Website
+16/07/2018  15:48    <DIR>          Udemy - Learn MongoDB Leading Nosql Database from Scratch
+16/07/2018  15:49    <DIR>          Udemy - Learn Mongodb The Nosql Leader with Clarity and Confidence
+16/07/2018  15:50    <DIR>          Udemy - Learn PHP 5 & 7 This Way to Rise Above & Beyond Competition!
+16/07/2018  15:53    <DIR>          Udemy - Learn PHP Programming from Scratch
+16/07/2018  15:54    <DIR>          Udemy - Learn to Build Web Apps using Laravel Framework
+16/07/2018  15:54    <DIR>          Udemy - Master Advanced JavaScript React
+16/07/2018  15:54    <DIR>          Udemy - MEAN Stack For Web Developers Build Websites on Javascript
+16/07/2018  15:57    <DIR>          Udemy - Modern JavaScript From The Beginning
+16/07/2018  15:58    <DIR>          Udemy - Modern Web Development with Laravel 5.2 (PHP Framework)
+16/07/2018  15:58    <DIR>          Udemy - NodeJS Express Project CMS and Shopping Cart
+16/07/2018  15:59    <DIR>          Udemy - Object-oriented PHP MVC
+16/07/2018  15:59    <DIR>          Udemy - OOP Object-oriented Programming in PHP 7
+16/07/2018  16:00    <DIR>          Udemy - Parallel Dotnet
+16/07/2018  16:02    <DIR>          Udemy - PHP for Beginners - Become a PHP Master and Make Money Fast
+16/07/2018  16:04    <DIR>          Udemy - PHP for Beginners How to Build an E-Commerce Store
+16/07/2018  16:04    <DIR>          Udemy - PHP MVC from Scratch
+16/07/2018  16:05    <DIR>          Udemy - PHP Object Oriented Programming Fundamentals (OOP)
+16/07/2018  16:05    <DIR>          Udemy - PHP OOP & PDO with Projects For Beginners
+16/07/2018  16:06    <DIR>          Udemy - Progressive Web Apps (PWA) - The Complete Guide
+16/07/2018  16:07    <DIR>          Udemy - Projects In ReactJS The Complete React Learning Course
+16/07/2018  16:09    <DIR>          Udemy - Python and Django Full Stack Web Developer Bootcamp
+16/07/2018  16:09    <DIR>          Udemy - Python Master Web Scraping Course Doing 20 Real Projects
+16/07/2018  16:09    <DIR>          Udemy - REACT - Up and Running with React ES6 and Open Source API
+16/07/2018  16:12    <DIR>          Udemy - React 16
+16/07/2018  16:13    <DIR>          Udemy - React Native Advanced
+16/07/2018  16:14    <DIR>          Udemy - React Native Practical Guide
+16/07/2018  16:15    <DIR>          Udemy - React Native The Practical Guide
+16/07/2018  16:18    <DIR>          Udemy - React The Complete Guide with Redux
+16/07/2018  16:18    <DIR>          Udemy - ReactJS and Redux Mastering Web Apps
+16/07/2018  16:19    <DIR>          Udemy - Scrapy Powerful Web Scraping & Crawling with Python
+16/07/2018  16:20    <DIR>          Udemy - Server-side JavaScript with Nodejs
+16/07/2018  16:20    <DIR>          Udemy - Server-side Rendering with React and Redux
+16/07/2018  16:24    <DIR>          Udemy - Spotify Clone
+16/07/2018  16:25    <DIR>          Udemy - The Complete Developers Guide to Mongodb
+16/07/2018  16:25    <DIR>          Udemy - The Complete Flexbox Tutorial Learn CSS3 Flexbox in 2017
+16/07/2018  16:26    <DIR>          Udemy - The Complete Javascript Course
+16/07/2018  16:28    <DIR>          Udemy - The Complete JavaScript Course - Beginner to Professional
+16/07/2018  16:29    <DIR>          Udemy - The Complete React and Redux Course Build Modern Apps
+16/07/2018  16:30    <DIR>          Udemy - The Complete React Native and Redux Course
+16/07/2018  16:32    <DIR>          Udemy - The Complete Web Developer in 2018 Zero to Mastery
+16/07/2018  16:33    <DIR>          Udemy - The Essential Kotlin Programming Course Android Developers
+16/07/2018  16:33    <DIR>          Udemy - The Full JavaScript & ES6 Tutorial (including ES7 & React)
+16/07/2018  16:36    <DIR>          Udemy - The Full Stack Web Development
+16/07/2018  16:37    <DIR>          Udemy - The Ultimate MySQL Bootcamp_ Go from SQL Beginner to Expert
+16/07/2018  16:37    <DIR>          Udemy - The Ultimate Vue 2 Crash Course Learn by Example
+16/07/2018  16:38    <DIR>          Udemy - Tinder Clone
+16/07/2018  16:38    <DIR>          Udemy - TodoMVC Application Vue React Angular
+16/07/2018  16:38    <DIR>          Udemy - Vagrant Basics Beginners
+16/07/2018  16:39    <DIR>          Udemy - Visual Studio 2017 Essentials and Beyond
+16/07/2018  16:39    <DIR>          Udemy - Visual Studio Tips Tricks
+16/07/2018  16:40    <DIR>          Udemy - Vue JS 2 From Beginner to Professional (includes Vuex)
+16/07/2018  16:42    <DIR>          Udemy - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+16/07/2018  16:43    <DIR>          Udemy - Vue JS 2.0 - Mastering Web Apps
+16/07/2018  16:45    <DIR>          Udemy - VueJS 2 The Complete Guide
+16/07/2018  16:45    <DIR>          Udemy - Web Design Modern Singlepage Website From Scratch Bootstrap
+16/07/2018  16:45    <DIR>          Udemy - Webpack 2 The Complete Developer's Guide
+16/07/2018  16:45    <DIR>          Udemy - Webpack 2 The Complete Developers Guide
+16/07/2018  16:46    <DIR>          Udemy - Website and Web App Performance Optimization
+16/07/2018  16:47    <DIR>          Udemy - Xamarin Forms Build Native Cross-platform Apps with C#
+16/07/2018  16:47    <DIR>          watchandcode
+16/07/2018  16:48    <DIR>          Wes Bos - React For Beginners
+               0 File(s)              0 bytes
+             324 Dir(s)  71,481,217,024 bytes free
+
+ Directory of F:\UNSORTED\- Recent
+
+28/12/2016  22:46       805,726,200 -- Packt - Mastering JavaScript.rar
+10/01/2016  10:34     2,271,361,545 -- Udemy - React JS and Flux Web Development for Beginners.rar
+02/03/2016  21:39     3,689,186,464 -- Udemy - The Complete Guide to Angular 2.rar
+29/10/2017  11:16       998,951,885 --- aynisi var sil - Udemy - Angular 4 Front to Back.rar
+28/08/2017  15:07    18,767,531,401 Full-stack JavaScript with Node and React.rar
+28/08/2017  15:07        76,582,136 Lynda - Cloud Architecture Core Concepts.rar
+               6 File(s) 26,609,339,631 bytes
+               0 Dir(s)  71,481,221,120 bytes free
+
+ Directory of F:\UNSORTED\- Recent\-- Treehouse
+
+14/10/2018  08:13    <DIR>          .
+14/10/2018  08:13    <DIR>          ..
+16/07/2018  13:27    <DIR>          Android Tools
+16/07/2018  13:28    <DIR>          Bonus
+16/07/2018  13:29    <DIR>          Build a Responsive Website
+16/07/2018  13:29    <DIR>          Console Foundations
+16/07/2018  13:29    <DIR>          CSS Foundations
+16/07/2018  13:29    <DIR>          CSS Layout Techniques
+16/07/2018  13:29    <DIR>          Database Foundations
+16/07/2018  13:30    <DIR>          Design Foundations
+16/07/2018  13:30    <DIR>          Framework Basics
+16/07/2018  13:30    <DIR>          Git Basics
+16/07/2018  13:30    <DIR>          HTML
+16/07/2018  13:30    <DIR>          HTML Email Design
+16/07/2018  13:30    <DIR>          JavaScript Foundations
+16/07/2018  13:30    <DIR>          Object-Oriented PHP Basics
+16/07/2018  13:31    <DIR>          Sass Basics
+16/07/2018  13:31    <DIR>          Website Optimization
+               0 File(s)              0 bytes
+              18 Dir(s)  71,481,212,928 bytes free
+
+ Directory of F:\UNSORTED\- Recent\+ Knp University
+
+14/10/2018  08:14    <DIR>          .
+14/10/2018  08:14    <DIR>          ..
+16/07/2018  13:10    <DIR>          Animated_Deployment_with_Ansistrano
+16/07/2018  13:10    <DIR>          Ansible_for_Automation
+16/07/2018  13:10    <DIR>          BDD_Behat_Mink_and_other_Wonderful_Things
+16/07/2018  13:10    <DIR>          BDD_Behat_version_25_Mink_and_other_Wonderful_Things
+16/07/2018  13:10    <DIR>          Course_1_How_to_win_friends__develop_in_PHP
+16/07/2018  13:10    <DIR>          Course_2_How_to_stop_worrying__start_writing_PHP
+16/07/2018  13:10    <DIR>          Course_3_Talking_to_a_MySQL_Database_in_PHP
+16/07/2018  13:10    <DIR>          Dependency_Injection_and_the_art_of_services_and_containers
+16/07/2018  13:11    <DIR>          Doctrine_Collections_ManyToMany_Forms__other_Complex_Relations
+16/07/2018  13:11    <DIR>          Drupal_8_Under_the_Hood
+16/07/2018  13:11    <DIR>          EasyAdminBundle_for_an_Amazing_Admin_Interface
+16/07/2018  13:11    <DIR>          FOSUserBundle_FTW
+16/07/2018  13:11    <DIR>          FOSUserBundle_FTW_v13
+16/07/2018  13:11    <DIR>          Getting_Crazy_with_Form_Themes
+16/07/2018  13:11    <DIR>          Go_Pro_with_Doctrine_Queries
+16/07/2018  13:11    <DIR>          Gulp_Refreshment_for_Your_Frontend_Assets
+16/07/2018  13:11    <DIR>          How_to_Upgrade_to_Symfony_28_then_30
+16/07/2018  13:12    <DIR>          JavaScript_for_PHP_Geeks
+16/07/2018  13:12    <DIR>          JavaScript_for_PHP_Geeks_ES6ES2015_New_JavaScript
+16/07/2018  13:12    <DIR>          JavaScript_for_PHP_Geeks_Webpack_for_Module_Loading_Awesomeness
+16/07/2018  13:12    <DIR>          Journey_to_the_Center_of_Symfony_HttpKernel_RequestResponse
+16/07/2018  13:12    <DIR>          Journey_to_the_Center_of_Symfony_The_Dependency_Injection_Container
+16/07/2018  13:12    <DIR>          Joyful_Development_with_Symfony_3
+16/07/2018  13:12    <DIR>          Lean_and_Mean_Dev_with_PhpStorm_for_Symfony
+16/07/2018  13:14    <DIR>          Learn Symfony 3
+16/07/2018  13:14    <DIR>          Making_Fixtures_Really_Awesome_with_Alice
+16/07/2018  13:14    <DIR>          Mastering_Doctrine_Relationships_in_Symfony
+16/07/2018  13:15    <DIR>          OAuth2_in_8_Steps
+16/07/2018  13:15    <DIR>          Object_Oriented_Programming_Course_1
+16/07/2018  13:15    <DIR>          OOP_Course_2_Services_Dependency_Injection_and_Containers
+16/07/2018  13:15    <DIR>          OOP_course_3_Inheritance_Abstract_Classes_Interfaces_and_other_amazing_things
+16/07/2018  13:15    <DIR>          OOP_course_4_Static_methods_Namespaces_Exceptions__Traits_Woh
+16/07/2018  13:15    <DIR>          PHPUnit_Testing_with_a_Bite
+16/07/2018  13:15    <DIR>          PHP_7_The_Important_Stuff
+16/07/2018  13:15    <DIR>          PHP_Namespaces_in_120_Seconds
+16/07/2018  13:15    <DIR>          Question_and_Answer_Day_March_27th_2013
+16/07/2018  13:15    <DIR>          RESTful_APIs_in_the_Real_World_Course_1
+16/07/2018  13:15    <DIR>          RESTful_APIs_in_the_Real_World_Course_2
+16/07/2018  13:15    <DIR>          Starting_in_Symfony2_Course_1_24
+16/07/2018  13:16    <DIR>          Starting_in_Symfony2_Course_2_24
+16/07/2018  13:16    <DIR>          Starting_in_Symfony2_Course_3_24
+16/07/2018  13:16    <DIR>          Starting_in_Symfony2_Course_4_24
+16/07/2018  13:16    <DIR>          Stripe_Killer_Payment_Processing____Profit
+16/07/2018  13:16    <DIR>          Stripe_Level_2_Subscriptions_Discounts_Webhooks_oh_my
+16/07/2018  13:16    <DIR>          Symfony_33_Upgrade_Autowiring__Autoconfigure
+16/07/2018  13:16    <DIR>          Symfony_Best_Practices
+16/07/2018  13:16    <DIR>          Symfony_Doctrine__the_Database
+16/07/2018  13:16    <DIR>          Symfony_Forms_Build_Render__Conquer
+16/07/2018  13:16    <DIR>          Symfony_Fundamentals_Bundles_Configuration__Environments
+16/07/2018  13:16    <DIR>          Symfony_Level_up_with_Services_and_the_Container
+16/07/2018  13:17    <DIR>          Symfony_RESTful_API_Authentication_with_JWT_Course_4
+16/07/2018  13:17    <DIR>          Symfony_RESTful_API_Basics_Course_3
+16/07/2018  13:17    <DIR>          Symfony_RESTful_API_Course_1
+16/07/2018  13:17    <DIR>          Symfony_RESTful_API_Errors_Course_2
+16/07/2018  13:17    <DIR>          Symfony_RESTful_API_Hypermedia_Links__Bonuses_Course_5
+16/07/2018  13:17    <DIR>          Symfony_Security_Beautiful_Authentication_Powerful_Authorization
+16/07/2018  13:17    <DIR>          Symfony_Security_Voters_free_cookies
+16/07/2018  13:17    <DIR>          The_new_Awesome_of_Symfony_30
+16/07/2018  13:17    <DIR>          The_Symfony_MicroFramework
+16/07/2018  13:17    <DIR>          Twig_Templating_for_Friendly_Frontend_Devs
+16/07/2018  13:17    <DIR>          Whats_new_in_Symfony_22__ESI_Fragments_Bonus
+16/07/2018  13:17    <DIR>          Wonderful_World_of_Composer
+               0 File(s)              0 bytes
+              64 Dir(s)  71,481,204,736 bytes free
+
+ Directory of F:\UNSORTED\- Recent\CodeSchool
+
+14/10/2018  08:21    <DIR>          .
+14/10/2018  08:21    <DIR>          ..
+16/07/2018  13:35    <DIR>          Database
+16/07/2018  13:37    <DIR>          JavaScript
+16/07/2018  13:38    <DIR>          Learn AngularJS With Bootstrap
+16/07/2018  13:40    <DIR>          Screencasts
+16/07/2018  13:41    <DIR>          The MEAN Stack
+16/07/2018  13:41    <DIR>          [] Codeschool - Angular 2
+16/07/2018  13:41    <DIR>          [] CodeSchool - ES2015 The Shape of JavaScript to Come
+               0 File(s)              0 bytes
+               9 Dir(s)  104,189,460,480 bytes free
+
+ Directory of F:\UNSORTED\- Recent\egghead.io
+
+14/10/2018  08:24    <DIR>          .
+14/10/2018  08:24    <DIR>          ..
+16/07/2018  13:47    <DIR>          egghead - add-routing-to-react-apps-using-react-router-v4
+16/07/2018  13:45    <DIR>          egghead - angular-2-dependency-injection-di-explained
+16/07/2018  13:45    <DIR>          egghead - angular-2-fundamentals
+16/07/2018  13:44    <DIR>          egghead - angular-and-webpack-for-modular-applications
+16/07/2018  13:44    <DIR>          egghead - angular-automation-with-gulp
+16/07/2018  13:44    <DIR>          egghead - angular-material-introduction
+16/07/2018  13:44    <DIR>          egghead - angularjs-app-from-scratch-getting-started
+16/07/2018  13:44    <DIR>          egghead - angularjs-application-architecture
+16/07/2018  13:44    <DIR>          egghead - angularjs-authentication-with-jwt
+16/07/2018  13:44    <DIR>          egghead - angularjs-data-modeling
+16/07/2018  13:45    <DIR>          egghead - animate-angular-2-web-applications
+16/07/2018  13:47    <DIR>          egghead - animate-react-native-ui-elements
+16/07/2018  13:46    <DIR>          egghead - build-a-graphql-server
+16/07/2018  13:47    <DIR>          egghead - build-a-react-native-todo-application
+16/07/2018  13:45    <DIR>          egghead - build-an-angular-2-instant-search-component
+16/07/2018  13:44    <DIR>          egghead - build-angular-1-x-apps-with-redux
+16/07/2018  13:46    <DIR>          egghead - build-complex-3d-models-with-webgl
+16/07/2018  13:45    <DIR>          egghead - build-complex-layouts-with-css-grid-layout
+16/07/2018  13:46    <DIR>          egghead - build-interactive-javascript-charts-with-d3-v4
+16/07/2018  13:47    <DIR>          egghead - build-node-js-apis-with-openapi-spec-swagger
+16/07/2018  13:47    <DIR>          egghead - build-your-first-production-quality-react-app
+16/07/2018  13:48    <DIR>          egghead - build-your-first-react-js-application
+16/07/2018  13:45    <DIR>          egghead - building-a-time-machine-with-angular-2-and-rxjs
+16/07/2018  13:44    <DIR>          egghead - building-an-angular-1-x-ionic-application
+16/07/2018  13:45    <DIR>          egghead - building-angular-2-components
+16/07/2018  13:48    <DIR>          egghead - building-react-applications-with-idiomatic-redux
+16/07/2018  13:49    <DIR>          egghead - chrome-devtools-network-panel
+16/07/2018  13:49    <DIR>          egghead - chrome-devtools-sources-panel
+16/07/2018  13:46    <DIR>          egghead - create-3d-graphics-in-javascript-using-webgl
+16/07/2018  13:46    <DIR>          egghead - create-an-svg-icon-system
+16/07/2018  13:45    <DIR>          egghead - create-native-mobile-apps-with-nativescript-for-angular
+16/07/2018  13:46    <DIR>          egghead - creating-custom-web-elements-with-polymer
+16/07/2018  13:48    <DIR>          egghead - cycle-js-fundamentals
+16/07/2018  13:49    <DIR>          egghead - deploy-web-apps-with-zeit-now
+16/07/2018  13:49    <DIR>          egghead - develop-web-apps-with-vue-js
+16/07/2018  13:45    <DIR>          egghead - flexbox-fundamentals
+16/07/2018  13:47    <DIR>          egghead - get-started-with-postgresql
+16/07/2018  13:47    <DIR>          egghead - getting-started-with-express-js
+16/07/2018  13:48    <DIR>          egghead - getting-started-with-react-router
+16/07/2018  13:48    <DIR>          egghead - getting-started-with-redux
+16/07/2018  13:46    <DIR>          egghead - gif-loop-coder-for-creating-animation
+16/07/2018  13:46    <DIR>          egghead - how-to-contribute-to-an-open-source-project-on-github
+16/07/2018  13:49    <DIR>          egghead - how-to-use-npm-scripts-as-your-build-tool
+16/07/2018  13:46    <DIR>          egghead - how-to-write-an-open-source-javascript-library
+16/07/2018  13:45    <DIR>          egghead - intro-to-angular-2-forms
+16/07/2018  13:45    <DIR>          egghead - intro-to-angular-2-router
+16/07/2018  13:46    <DIR>          egghead - introduction-to-d3
+16/07/2018  13:47    <DIR>          egghead - introduction-to-node-servers-with-hapi-js
+16/07/2018  13:47    <DIR>          egghead - introduction-to-node-the-fundamentals
+16/07/2018  13:48    <DIR>          egghead - introduction-to-reactive-programming
+16/07/2018  13:44    <DIR>          egghead - ionic-quickstart-for-windows
+16/07/2018  13:46    <DIR>          egghead - javascript-arrays-in-depth
+16/07/2018  13:46    <DIR>          egghead - js-console-for-power-users
+16/07/2018  13:45    <DIR>          egghead - learn-advanced-css-layout-techniques
+16/07/2018  13:46    <DIR>          egghead - learn-es6-ecmascript-2015
+16/07/2018  13:46    <DIR>          egghead - learn-how-to-use-immutable-js
+16/07/2018  13:46    <DIR>          egghead - learn-html5-graphics-and-animation
+16/07/2018  13:45    <DIR>          egghead - learn-protractor-testing-for-angularjs
+16/07/2018  13:45    <DIR>          egghead - learn-the-best-and-most-useful-scss
+16/07/2018  13:49    <DIR>          egghead - learn-to-use-vim
+16/07/2018  13:48    <DIR>          egghead - manage-complex-state-in-react-apps-with-mobx
+16/07/2018  13:46    <DIR>          egghead - mastering-asynchronous-programming-the-end-of-the-loop
+16/07/2018  13:46    <DIR>          egghead - nativescript-layout-basics
+16/07/2018  13:47    <DIR>          egghead - natural-language-processing-in-javascript-with-natural
+16/07/2018  13:49    <DIR>          egghead - practical-git-for-everyday-professional-use
+16/07/2018  13:47    <DIR>          egghead - professor-frisby-introduces-composable-functional-javascript
+16/07/2018  13:47    <DIR>          egghead - publish-javascript-packages-on-npm
+16/07/2018  13:48    <DIR>          egghead - react-flux-architecture-es6
+16/07/2018  13:48    <DIR>          egghead - react-fundamentals
+16/07/2018  13:48    <DIR>          egghead - react-native-fundamentals
+16/07/2018  13:48    <DIR>          egghead - react-testing-cookbook
+16/07/2018  13:49    <DIR>          egghead - record-badass-screencasts-for-egghead-io
+16/07/2018  13:47    <DIR>          egghead - reduce-data-with-javascript
+16/07/2018  13:47    <DIR>          egghead - regex-in-javascript
+16/07/2018  13:48    <DIR>          egghead - rxjs-beyond-the-basics-creating-observables-from-scratch
+16/07/2018  13:48    <DIR>          egghead - rxjs-beyond-the-basics-operators-in-depth
+16/07/2018  13:48    <DIR>          egghead - rxjs-subjects-and-multicasting-operators
+16/07/2018  13:49    <DIR>          egghead - start-building-accessible-web-applications-today
+16/07/2018  13:46    <DIR>          egghead - start-using-elm-to-build-web-applications
+16/07/2018  13:49    <DIR>          egghead - step-by-step-async-javascript-with-rxjs
+16/07/2018  13:45    <DIR>          egghead - understand-angular-2-directives-in-depth
+16/07/2018  13:49    <DIR>          egghead - understand-the-basics-of-http
+16/07/2018  13:49    <DIR>          egghead - up-and-running-with-typescript
+16/07/2018  13:49    <DIR>          egghead - use-grep-for-fast-search-from-the-command-line
+16/07/2018  13:49    <DIR>          egghead - use-higher-order-observables-in-rxjs-effectively
+16/07/2018  13:45    <DIR>          egghead - use-objective-c-swift-and-java-api-s-in-nativescript-for-angular-ios-and-android-apps
+16/07/2018  13:49    <DIR>          egghead - use-types-effectively-in-typescript
+16/07/2018  13:45    <DIR>          egghead - using-angular-2-patterns-in-angular-1-x-apps
+16/07/2018  13:49    <DIR>          egghead - using-chrome-developer-tools-elements
+16/07/2018  13:47    <DIR>          egghead - using-postgres-window-functions
+16/07/2018  13:47    <DIR>          egghead - using-webpack-for-production-javascript-applications
+16/07/2018  13:49    <DIR>          egghead - wrangle-your-terminal-with-tmux
+16/07/2018  13:47    <DIR>          egghead - write-simple-asynchronous-code-with-javascript-generators
+               0 File(s)              0 bytes
+              95 Dir(s)  104,189,403,136 bytes free
+
+ Directory of F:\UNSORTED\- Recent\Frontend Masters
+
+14/10/2018  08:26    <DIR>          .
+14/10/2018  08:26    <DIR>          ..
+16/07/2018  13:51    <DIR>          -- sil ayn’s’ varsa -- Frontend Masters - Deep JavaScript Foundations
+16/07/2018  13:52    <DIR>          Advanced JavaScript
+16/07/2018  13:53    <DIR>          Advanced JS Fundamentals to jQuery & Pure DOM Scripting
+16/07/2018  13:55    <DIR>          API Design in Node.js (using Express & Mongo)
+16/07/2018  13:56    <DIR>          Asynchronous Programming in JavaScript (with Rx.js Observables)
+16/07/2018  13:56    <DIR>          Build Cross-Platform Desktop Apps with Electron
+16/07/2018  13:58    <DIR>          Build Web Apps with Angular 2
+16/07/2018  13:59    <DIR>          Building Web Apps (with React, Ampersand, ES6 and Webpack)
+16/07/2018  14:00    <DIR>          Coercion in JavaScript
+16/07/2018  14:01    <DIR>          Complete Intro to React v2 (feat. Router v4 and Redux)
+16/07/2018  14:03    <DIR>          Complete Introduction to React (feat. Redux and React Router)
+16/07/2018  14:03    <DIR>          Debugging and Fixing Common JavaScript Errors
+16/07/2018  14:04    <DIR>          Deep JavaScript Foundations
+16/07/2018  14:05    <DIR>          ES6- The Right Parts
+16/07/2018  14:05    <DIR>          Four Semesters of Computer Science in 5 Hours
+16/07/2018  14:06    <DIR>          Front-End Tooling and Workflows with Grunt and Beyond
+16/07/2018  14:06    <DIR>          Full Stack for Front End Engineers
+16/07/2018  14:07    <DIR>          Functional-Lite JavaScript
+16/07/2018  14:08    <DIR>          Hardcore Functional Programming in JavaScript
+16/07/2018  14:08    <DIR>          Introduction to JavaScript Programming
+16/07/2018  14:09    <DIR>          Introduction to Vue.js
+16/07/2018  14:09    <DIR>          JavaScript the Good Parts
+16/07/2018  14:10    <DIR>          JavaScript- From Fundamentals to Functional JS
+16/07/2018  14:11    <DIR>          JS.Next- ES6 - ES2015
+16/07/2018  14:12    <DIR>          Lean Front-End Engineering
+16/07/2018  14:13    <DIR>          Mastering Chrome Developer Tools
+16/07/2018  14:14    <DIR>          Organizing JavaScript Functionality
+16/07/2018  14:15    <DIR>          React Native (feat. Redux)
+16/07/2018  14:16    <DIR>          React.js (with Introduction to Flux Architecture)
+16/07/2018  14:16    <DIR>          Reactive Angular 2 with ngrx
+16/07/2018  14:17    <DIR>          Responsive Web Design
+16/07/2018  14:17    <DIR>          Secure Authentication for Web Apps & APIs Using JWTs
+16/07/2018  14:17    <DIR>          The Good Parts of JavaScript and the Web
+16/07/2018  14:18    <DIR>          Vue.js Advanced Features from the Ground Up
+16/07/2018  14:18    <DIR>          Web UI Architecture
+               0 File(s)              0 bytes
+              37 Dir(s)  104,275,030,016 bytes free
+
+ Directory of F:\UNSORTED\+ PHP Academy (Codecourse)
+
+14/10/2018  08:29    <DIR>          .
+14/10/2018  08:29    <DIR>          ..
+13/07/2018  00:04    <DIR>          Best Beginner PHP Tutorial
+13/07/2018  00:04    <DIR>          Building a Responsive Website with Bootstrap
+13/07/2018  00:04    <DIR>          Chrome Developer Tools Tutorial
+13/07/2018  00:04    <DIR>          CodeIgniter Tutorials_ Basic Website
+13/07/2018  00:05    <DIR>          CodeIgniter Tutorials_ Facebook Connect Login
+13/07/2018  00:05    <DIR>          CodeIgniter Tutorials_ Introduction to CodeIgniter
+13/07/2018  00:05    <DIR>          Common PHP Errors
+13/07/2018  00:05    <DIR>          CSS_CSS3 Tutorials
+13/07/2018  00:05    <DIR>          Dynamic RSS Feed For Your Website Content
+13/07/2018  00:05    <DIR>          HTML5 Tutorials
+13/07/2018  00:05    <DIR>          JavaScript AJAX File Upload with Progress Indicator
+13/07/2018  00:05    <DIR>          More PHP Tutorials
+13/07/2018  00:05    <DIR>          PHP Bloopers
+13/07/2018  00:05    <DIR>          PHP CodeIgniter Registration & Login
+13/07/2018  00:05    <DIR>          PHP Data Objects (PDO)
+13/07/2018  00:05    <DIR>          PHP OOP Tutorials
+13/07/2018  00:05    <DIR>          PHP String Functions You Should Know!
+13/07/2018  00:05    <DIR>          PHP Tips
+13/07/2018  00:05    <DIR>          PHP Tutorials-Advert Rotation System
+13/07/2018  00:05    <DIR>          PHP Tutorials_ 7 PHP String Functions You Should Know
+13/07/2018  00:05    <DIR>          PHP Tutorials_ Advert Rotation System
+13/07/2018  00:05    <DIR>          PHP Tutorials_ Auto Suggest Drop Down Field
+13/07/2018  00:05    <DIR>          PHP Tutorials_ BBCode
+13/07/2018  00:05    <DIR>          PHP Tutorials_ Check if Website is Up or Down
+13/07/2018  00:05    <DIR>          PHP Tutorials_ Contact Form
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Create a 'Like' Button
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Create a CMS
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Create a Spellchecker
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Creating a Blog
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Email Piping
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Full URL Shortener
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Mini Shopping Cart
+13/07/2018  00:06    <DIR>          PHP Tutorials_ PayPal IPN User Premium Membership
+13/07/2018  00:06    <DIR>          PHP Tutorials_ PHP_AJAX Chat Application [233 MB 10 Videos]
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Reading XML_RSS_Atom Feeds
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Register & Login New
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Regular Expressions
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Search Engine
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Secure File Upload
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Thumbnail Image Generator
+13/07/2018  00:06    <DIR>          PHP Tutorials_ Translate Page Language
+13/07/2018  00:06    <DIR>          PHP Tutorial_ Non-database Photo Album, plus LightBox!
+13/07/2018  00:06    <DIR>          Security
+13/07/2018  00:06    <DIR>          Set up a Cloud Server (Part 1_9)_ Introduction to Cloud Hosting
+               0 File(s)              0 bytes
+              46 Dir(s)  104,275,030,016 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\AngularJS
+
+14/10/2018  08:31    <DIR>          .
+14/10/2018  08:31    <DIR>          ..
+16/07/2018  17:03    <DIR>          Archieved
+16/07/2018  17:06    <DIR>          Frontend Masters - Building Awesomer Apps with Angular
+16/07/2018  17:07    <DIR>          Lynda - Angular API Communication and Authentication
+16/07/2018  17:07    <DIR>          Lynda - Angular Progressive Web Apps
+16/07/2018  17:07    <DIR>          Packt - Angular 2 Essentials
+16/07/2018  17:07    <DIR>          Pluralsight - Angular Services
+16/07/2018  17:07    <DIR>          Pluralsight - Rapid Angular Training
+16/07/2018  17:08    <DIR>          Udemy - Angular 2 From The Ground Up
+16/07/2018  17:08    <DIR>          Udemy - Angular 4 Front To Back
+16/07/2018  17:10    <DIR>          Udemy - Angular 4 The Complete Guide
+16/07/2018  17:10    <DIR>          Udemy - Angular Advanced Masterclass
+16/07/2018  17:10    <DIR>          Udemy - Angular Firebase Application
+16/07/2018  17:11    <DIR>          Udemy - Angular2 Advanced
+16/07/2018  17:11    <DIR>          Udemy - The Complete Angular Course - Beginner to Advanced (2017)
+16/07/2018  17:13    <DIR>          Udemy - The Complete Angular Master Class
+16/07/2018  17:14    <DIR>          Udemy - The Complete Angular Master Class Beginner to Advanced
+               0 File(s)              0 bytes
+              18 Dir(s)  104,275,030,016 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\AngularJS
+
+01/10/2016  18:25       792,889,052 Codeschool - Accelerating Through Angular 2.rar
+28/08/2017  13:17       152,889,531 Linkedin - Angular 2 Widget-Based Architectures.rar
+23/12/2016  15:37       479,728,373 Lynda - Angular 2 Essential Training.rar
+01/10/2016  19:05       216,066,015 Lynda - Angular 2 Forms Data Binding and Validation.rar
+23/12/2016  15:40     2,289,323,719 Lynda - Angular2 for NET Developers.rar
+29/05/2017  09:26       134,930,403 Lynda - Learning Ionic.rar
+17/05/2017  13:16       906,210,811 Packt - Angular 2 Core Concepts.rar
+28/12/2016  20:55       554,821,591 Pluralsight - Angular 2 Getting Started.rar
+01/10/2016  19:40       422,925,746 Pluralsight - Angular Material Fundamentals.rar
+12/01/2016  00:48       553,804,871 Pluralsight - Building RealTime Angular Controls.rar
+01/10/2016  20:12       573,419,281 Pluralsight - Play By Play Angular Internationalization With John Papa And Brian Clark.rar
+01/10/2016  19:47       340,008,346 Pluralsight - Preparing for and Migrating Applications to Angular 2.rar
+17/05/2017  13:20     2,469,815,578 StoneRiver - Starting with Angular 4.rar
+01/10/2016  20:49       116,538,604 Tutsplus - Testing Angular End To End With Protractor And Cucumber.rar
+01/10/2016  20:48        77,017,727 Tutsplus - Testing Angular Services.rar
+01/10/2016  19:51       225,200,645 Tutsplus - Upgrade Your App to Angular 2.rar
+28/08/2017  16:12     1,474,312,148 Udemy - Angular 2 and Nodejs The Practical Guide.rar
+23/12/2016  15:53       533,403,814 Udemy - Angular 2 Demystified.rar
+23/12/2016  15:18     3,043,769,689 Udemy - Angular 2 From The Ground Up.rar
+17/05/2017  14:09       386,907,712 Udemy - Angular 2 Jump Start With Typescript.rar
+01/10/2016  20:09     1,247,482,838 Udemy - Angular 2 Master Class.rar
+28/12/2016  22:37     2,898,200,775 Udemy - Angular 2 The Complete Guide (Updated to final version).rar
+23/12/2016  15:18     2,916,055,728 Udemy - Angular 2 The Complete Guide.rar
+01/10/2016  20:08       817,230,365 Udemy - Angular 2 with TypeScript for Beginners The Pragmatic Guide.rar
+28/08/2017  15:34     1,046,787,774 Udemy - Angular Crash Course for Beginners.rar
+28/08/2017  11:48       990,394,771 Udemy - Angular ngrx.rar
+28/08/2017  15:45     4,432,140,209 Udemy - Angular The Complete Guide.rar
+01/10/2016  20:13       240,566,634 Udemy - AngularJS for Beginners, Single Page Applications Made Easy.rar
+01/10/2016  20:13       191,423,316 Udemy - AngularJS For Net Developers From Scratch.rar
+28/08/2017  16:12     1,418,207,539 Udemy - Build a Real-world App with Angular 2 and ASP.NET Core.rar
+17/05/2017  13:22     2,715,783,076 Udemy - Learn Angular 2 Development By Building 12 Apps.rar
+28/08/2017  10:01     1,743,196,142 Udemy - Learn Angular 2 from Beginner to Advanced.rar
+28/08/2017  15:32       287,840,383 Udemy - Testing Angular Apps.rar
+01/10/2016  21:15     5,039,490,887 Udemy - The Complete Guide to Angular 2.rar
+              34 File(s) 41,728,784,093 bytes
+               0 Dir(s)  104,275,025,920 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\AngularJS\Archieved
+
+21/04/2014  14:12       541,485,791 -- The Complete Book on AngularJS.rar
+01/10/2016  21:45     1,870,432,386 Codeschool - Build a Note-taking App With AngularJS.rar
+21/05/2014  11:39       831,191,364 Codeschool - Shaping up with Angular.js.rar
+21/05/2014  08:38       711,497,547 Codeschool - Soup to Bits Shaping Up With Angular.js.rar
+12/02/2014  20:30       834,001,030 Egghead.io - Angular JS.rar
+30/05/2015  16:25       646,472,051 Lynda - Building a Data-Driven App with AngularJS.rar
+12/10/2015  16:54       658,159,355 Lynda - Building a Mobile App with AngularJS and Ionic.rar
+28/12/2016  20:45       741,287,518 Lynda - Building Custom HTML5 Video Playback with AngularJS.rar
+07/01/2016  21:01       658,075,758 Lynda - Building Mobile App with AngularJS and Ionic.rar
+16/10/2015  23:29       283,670,075 Packt - Introducing AngularJS.rar
+16/10/2015  22:02       414,914,767 Packt - Web Development with AngularJS and Bootstrap.rar
+05/03/2015  21:57       729,100,454 Pluralsight - An AngularJS Playbook.rar
+20/08/2015  20:30     1,377,648,606 Pluralsight - Angular Application Development.rar
+23/05/2015  00:15       573,411,613 Pluralsight - Angular Front to Back with Web API.rar
+27/10/2015  16:27       348,822,465 Pluralsight - Angular Routing In-depth.rar
+23/05/2015  00:16        82,233,156 Pluralsight - Angular The Big Picture.rar
+14/08/2015  22:58       582,590,844 Pluralsight - Angular with TypeScript.rar
+03/11/2014  21:57       897,203,271 Pluralsight - AngularJS Line of Business Applications.rar
+17/10/2014  21:51       902,899,569 Pluralsight - AngularJS Patterns Clean Code.rar
+05/03/2015  21:57       228,692,731 Pluralsight - AngularJS Security Fundamentals.rar
+05/03/2015  20:57       523,459,702 Pluralsight - AngularJS Services In-depth.rar
+07/01/2016  20:52       475,485,679 Pluralsight - AngularJS Unit Testing in Depth Using ngMock.rar
+04/02/2015  14:45       618,849,178 Pluralsight - AngularUI Fundamentals.rar
+31/05/2014  15:51       769,963,897 Pluralsight - Application Building Patterns with AngularJS.rar
+15/11/2015  13:23       417,798,752 Pluralsight - Building a Site with AngularJS and PHP.rar
+06/11/2015  22:48       715,570,520 Pluralsight - Building a SPA Framework Using AngularJS.rar
+17/01/2016  12:12     1,306,887,328 Pluralsight - Building Apps with Angular and Breeze - Part 1.rar
+17/01/2016  12:11       744,955,925 Pluralsight - Building Apps with Angular and Breeze - Part 2.rar
+17/10/2014  21:55     2,158,164,548 Pluralsight - Building End-to-End Multi Client Service Oriented Applications Angular Edition.rar
+06/11/2015  22:48       532,843,132 Pluralsight - Building Strongly-typed AngularJS Apps with ASP.NET MVC 5.rar
+04/06/2015  20:20       834,556,707 Pluralsight - Creating Apps With Angular, Node, and Token Authentication.rar
+02/04/2015  18:26     1,127,789,008 Pluralsight - HTML5 Offline Applications with Angular, IndexedDB and Bootstrap.rar
+26/11/2014  12:17     1,011,028,517 Pluralsight - Play by Play - Learning AngularJS With Ken Cenerelli and John Papa.rar
+23/05/2015  00:17       690,458,530 Pluralsight - Play by Play Angular Testing.rar
+05/08/2015  20:46       463,183,887 Pluralsight - Using TypeScript For Large AngularJS Applications.rar
+20/06/2015  09:15       659,391,976 Pluralsight - Windows Store Apps Data Binding in Depth.rar
+26/05/2015  20:11       454,316,603 Pluralsight-  Animating AngularJS Applications.rar
+27/05/2015  16:52       229,378,348 Treehouse - AngularJS.rar
+05/10/2015  20:16     1,266,104,574 Tutsplus - AngularJS for Test-Driven Development.rar
+27/10/2015  15:40       758,905,084 Tutsplus - Animate Your Site With AngularJS.rar
+07/01/2016  16:43       779,268,216 Tutsplus - Better Web Apps With AngularUI.rar
+20/01/2015  23:24       973,231,563 Tutsplus - Building a Web App From Scratch With AngularJS.rar
+26/05/2015  20:27       702,000,460 Tutsplus - Creating Angular Directives.rar
+08/01/2016  17:34       327,190,550 Tutsplus - Easier JavaScript Apps with AngularJS.rar
+27/10/2015  16:53       392,062,007 Tutsplus - Mobile Apps With Ionic and Firebase.rar
+25/12/2015  11:55     1,214,797,634 Tutsplus - Real Time Web Apps With AngularJS and Firebase.rar
+01/10/2016  20:02       391,689,563 Tutsplus - Single-Page Apps With Angular UI-Router.rar
+24/12/2015  17:59     2,114,228,051 Udemy -  Projects in AngularJS ~ Learn by building 10 Projects.rar
+06/11/2015  19:52       301,125,312 Udemy - AngularJS Crash Course for Beginners.rar
+19/07/2015  20:19       135,938,255 Udemy - AngularJS For ASP.NET MVC Developers.rar
+15/11/2015  16:41       521,977,462 Udemy - AngularJS for the Real World ~ Learn by creating a WebApp.rar
+01/10/2016  20:14       521,948,048 Udemy - AngularJS for the Real World.rar
+01/10/2016  20:17       638,795,353 Udemy - AngularJS Get Started and Become Expert with Practicals.rar
+27/05/2015  16:52       355,035,060 Udemy - AngularJS Jumpstart.rar
+01/10/2016  20:17       638,795,167 Udemy - AngularJS Practical Session with Basic To Expert Level.rar
+07/01/2016  21:23       452,169,604 Udemy - Just Enough Angular for Designers.rar
+28/08/2017  16:01       697,003,332 Udemy - Learn and Understand Angularjs.rar
+07/01/2016  21:11     2,114,254,796 Udemy - Learn AngularJS Development.rar
+27/10/2015  14:01       697,179,928 Udemy - Learn Angularjs.rar
+01/10/2016  21:25       489,679,759 Udemy - Protractor End to End testing framework for AngularJS Apps.rar
+24/12/2015  18:17       488,586,269 Udemy - Shopping List with AngularJS, PHP and SQLite.rar
+14/02/2016  17:49       810,560,722 Udemy - Ultimate AngularJS Build a Real-World App from Scratch.rar
+02/03/2016  21:36       349,432,739 Udemy - Unit Testing AngularJS Write Bugfree Apps That Always Work.rar
+07/01/2015  10:00     5,316,074,443 vngrs - AngularJS Bootcamp.rar
+              64 File(s) 51,095,906,539 bytes
+               0 Dir(s)  104,275,017,728 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\ASP.NET
+
+20/06/2015  11:21       328,966,442 AppDev - Object Oriented Programming.rar
+07/01/2016  17:05     3,254,225,016 Learnvisualstudio - Application Architecture Fundamentals.rar
+28/08/2015  19:41     4,030,067,624 LiveLessons - ASP.NET MVC 5.rar
+28/08/2017  15:10       195,550,928 Lynda - ASP.NET Core Test-Driven Development.rar
+24/12/2015  15:25       632,220,376 Lynda - C# Essential Training.rar
+24/12/2015  15:31       292,000,103 Lynda - Code Clinic C#.rar
+15/07/2017  11:55       269,573,255 Lynda - Intermediate C# Design Patterns Part 1.rar
+29/05/2017  09:04       178,446,924 Lynda - Intermediate C# Design Patterns Part 2.rar
+29/05/2017  09:04       202,522,604 Lynda - Intermediate C# Design Patterns Part 3.rar
+24/12/2015  15:11     1,204,446,757 Oreilly - Beginning C# Programming.rar
+01/10/2016  19:40       416,128,553 Pluralsight - Applying Functional Principles in C#.rar
+08/07/2017  11:50       816,057,283 Pluralsight - ASP .Net Core 1.0 Fundamentals.rar
+14/01/2016  18:49       136,505,803 Pluralsight - Authenticating Your Angular Spa With ASP .Net Web APA And Auth0.rar
+03/01/2015  08:55       337,918,761 Pluralsight - Automated ASP.NET MVC Testing End to End.rar
+07/07/2017  19:57     1,145,248,445 Pluralsight - Become a Full-stack .NET Developer - Advanced Topics.rar
+17/05/2017  11:12     1,116,018,851 Pluralsight - Become a Full-stack .NET Developer - Architecture and Testing.rar
+07/07/2017  19:26     1,374,532,127 Pluralsight - Become a Full-stack .NET Developer - Fundamentals.rar
+07/02/2015  11:02       990,886,004 Pluralsight - Becoming a .NET Developer.rar
+12/10/2015  16:51       287,285,199 Pluralsight - Best Practices in ASP.NET Entities, Validation, and View Models.rar
+08/07/2017  11:51       941,841,408 Pluralsight - Building a RESTful API with ASP.NET Core.rar
+10/11/2015  19:43     1,155,709,013 Pluralsight - Building a Web App with ASP NET 5, MVC 6, EF7, and AngularJS.rar
+01/10/2016  19:41       522,433,876 Pluralsight - Building Strongly-typed AngularJS Apps with ASP.NET MVC 5.rar
+01/10/2016  19:41       652,060,677 Pluralsight - Building Web Apps & Services with Entity Framework and Web API.rar
+23/05/2015  00:18       488,813,242 Pluralsight - Building Windows 8 MVVM XAML Apps.rar
+08/07/2017  11:50       843,476,339 Pluralsight - Building Your First ASP.NET Core Web Application.rar
+01/10/2016  19:40       415,730,836 Pluralsight - C# 6 From Scratch.rar
+04/06/2015  20:22       463,825,576 Pluralsight - C# From Scratch.rar
+17/05/2017  16:14       811,008,353 Pluralsight - C# Fundamentals with C# 5.0 by Scott Allen.rar
+27/10/2015  16:29       578,922,846 Pluralsight - C# Fundamentals with Visual Studio 2015.rar
+14/01/2016  18:50       463,376,617 Pluralsight - Consolidating MVC Views Using Single Page Techniques.rar
+25/12/2015  12:31     2,026,520,054 Pluralsight - Design Patterns Library.rar
+12/10/2015  16:51       177,432,314 Pluralsight - Entity Framework Database Performance Anti-patterns.rar
+17/05/2017  16:17     1,080,867,366 Pluralsight - Entity Framework in the Enterprise.rar
+17/09/2015  20:23       243,429,439 Pluralsight - Getting Started With Asynchronous Programming In .Net.rar
+03/08/2015  19:28       275,730,087 Pluralsight - Getting Started With Elasticsearch for .NET Developers.rar
+17/05/2017  16:16       406,052,204 Pluralsight - Getting Started with Entity Framework 6.rar
+12/11/2015  21:18       485,835,818 Pluralsight - Getting Started with JSON in C# Using Json NET.rar
+01/08/2015  20:35       352,498,160 Pluralsight - IDisposable Best Practices for C# Developers.rar
+01/06/2017  21:06     1,065,707,092 Pluralsight - Implementing and Securing an API with ASP.NET Core.rar
+26/05/2015  18:17     1,005,854,312 Pluralsight - Integrating ASP.NET MVC With the Facebook Graph API.rar
+22/07/2015  21:07       603,613,915 Pluralsight - Integration Services Fundamentals.rar
+03/01/2015  08:51       206,457,303 Pluralsight - Introduction to .NET Testing with NUnit.rar
+06/06/2015  17:42     1,564,143,872 Pluralsight - Introduction to Building Universal Store Apps With C# and XAML.rar
+06/05/2015  22:43       718,386,445 Pluralsight - Introduction to SAP Integration for .NET Developers.rar
+23/12/2016  15:00       636,970,618 Pluralsight - LINQ Fundamentals with C# 6.0.rar
+23/12/2016  15:48       852,790,262 Pluralsight - Making Your C# Code More Object-oriented.rar
+06/05/2015  22:58       321,403,858 Pluralsight - Patterns for Pragmatic Unit Testing.rar
+23/05/2015  00:21       291,663,986 Pluralsight - PowerShell Cmdlet Development in C# - The Ins and Outs.rar
+17/06/2015  21:36       475,569,547 Pluralsight - Serialization in .NET 4.5.rar
+12/11/2015  21:17       264,533,722 Pluralsight - Stateful Reactive Concurrent SPAs with SignalR and Akka NET.rar
+23/05/2015  00:22       529,147,029 Pluralsight - Tactical Design Patterns in .NET Managing Responsibilities.rar
+12/10/2015  16:47       227,749,478 Pluralsight - The MVC Request Life Cycle.rar
+08/02/2016  21:36       317,655,533 Pluralsight - Understanding ASP.Net 5.rar
+24/12/2015  16:38       359,713,170 Pluralsight - Using MongoDB with ASP.NET MVC.rar
+17/05/2017  11:12       912,012,670 Pluralsight - WPF and MVVM Test Driven Development of ViewModels.rar
+12/10/2015  16:47       335,762,228 Pluralsight - WPF MVVM In Depth.rar
+07/01/2016  16:25       472,884,577 Tutsplus - 30 Days to Learn C#.rar
+04/06/2015  20:17     1,099,819,754 Tutsplus - Advanced C#.rar
+20/06/2015  12:34     1,217,830,257 Tutsplus - Authentication With ASP.NET Identity.rar
+01/10/2016  19:54     1,083,624,193 Tutsplus - Build A CMS With ASP .Net And GIT.rar
+21/01/2015  23:59       831,633,039 Tutsplus - Build a CMS With ASP .NET Web Pages.rar
+02/02/2015  21:27       328,634,326 Tutsplus - Building iOS Apps in C# With Xamarin.rar
+04/06/2015  20:16       538,661,110 Tutsplus - Design Patterns in C#.rar
+11/10/2015  17:52     1,651,933,387 Tutsplus - Get Started with ASP .NET MVC 6.rar
+03/08/2015  19:30     1,640,218,824 Tutsplus - Getting Started With ASP.NET MVC6.rar
+23/05/2015  00:23       406,529,676 Tutsplus - Improving C# With Version 6.rar
+21/01/2015  22:43       522,694,366 Tutsplus - Multi-Platform Apps In C#.rar
+01/10/2016  20:18       694,954,757 Udemy - ASP.NET Core 1.0 Fundamentals.rar
+19/07/2015  20:43     1,087,949,027 Udemy - Asp.Net MVC Web App On 3 Tier Architecture.rar
+24/07/2015  21:04     1,341,482,770 Udemy - Asp.Net MVC With Entity Framework From Scratch.rar
+30/06/2015  20:07     3,085,199,776 Udemy - C# .NET from Scratch.rar
+17/05/2017  16:15       287,845,717 Udemy - C# Advanced Topics - Take Your C# Skills to the Next Level.rar
+17/05/2017  10:06     1,215,902,679 Udemy - C# and Visual Studio 2017 Create Your First Apps.rar
+20/01/2016  21:38       617,085,833 Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding.rar
+23/12/2016  15:53       792,579,928 Udemy - Entity Framework in Depth.rar
+08/02/2015  21:24     1,194,151,701 Udemy - Learn C# With Microsoft Visual Studio Community.rar
+17/05/2017  16:18     1,392,622,195 Udemy - The Complete ASP.NET MVC 5 Course.rar
+15/11/2015  13:21     3,096,603,486 Udemy - The Complete Selenium with C# Build a Framework.rar
+27/08/2015  20:38       825,425,940 Udemy - The Comprehensive Guide to C#.rar
+              79 File(s) 65,709,567,638 bytes
+               0 Dir(s)  104,275,009,536 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\ASP.NET
+
+14/10/2018  08:34    <DIR>          .
+14/10/2018  08:34    <DIR>          ..
+16/07/2018  17:33    <DIR>          Archieved
+16/07/2018  17:33    <DIR>          Lynda - New Features Xamarin and Visual Studio 2017
+16/07/2018  17:33    <DIR>          Oreilly - Learning C# Design Patterns
+16/07/2018  17:35    <DIR>          Oreilly - Learning Path - CSharp
+16/07/2018  17:36    <DIR>          Packt - .NET Core Microservices
+16/07/2018  17:36    <DIR>          Packt - Building a Basic App Using Xamarin and Xamarin.Forms
+16/07/2018  17:36    <DIR>          Packt - RESTful Services with ASP.NET Web API
+16/07/2018  17:36    <DIR>          Pluralsight - Building an Enterprise Application with ASP.NET Core MVC
+16/07/2018  17:37    <DIR>          Pluralsight - Entity Framework in the Enterprise
+16/07/2018  17:37    <DIR>          Pluralsight - Making Your C# Code More Object-oriented
+16/07/2018  17:37    <DIR>          Pluralsight - Securing Multi-tenant ASP.NET Web Apps
+16/07/2018  17:38    <DIR>          Pluralsight - Testing .NET Core Code with xUnit.net Getting Started
+16/07/2018  17:38    <DIR>          Udemy - Build a Real-world App with Angular 2 and ASP.NET Core
+16/07/2018  17:39    <DIR>          Udemy - Building a MVC 5 Membership Website
+16/07/2018  17:40    <DIR>          Udemy - C# and Visual Studio 2017 Create Your First Apps
+16/07/2018  17:40    <DIR>          Udemy - Design Patterns in C# and .NET
+               0 File(s)              0 bytes
+              18 Dir(s)  104,275,005,440 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\ASP.NET\Archieved
+
+19/06/2014  01:09     1,642,791,097 Appdev - Learning to Program in Visual C#.rar
+05/06/2014  23:07     1,296,715,635 Infiniteskills - C# .Net Programming.rar
+04/06/2015  21:00       167,834,747 Infiniteskills - Learning C# Best Practices.rar
+05/06/2014  07:50     5,561,585,047 Livelessons - C# 2012 Fundamentals LiveLessons Parts I, II, III, and IV.rar
+11/09/2014  21:34       957,666,696 Lynda - ASP NET MVC 5 Essential Training.rar
+19/01/2015  00:58       943,122,826 Lynda - Introduction to Transact-SQL.rar
+22/06/2014  08:20       716,475,995 Lynda - Up and Running with ASP.NET.rar
+08/06/2014  08:18       361,001,790 Lynda - Up and Running with C#.rar
+23/12/2016  14:55       459,210,798 Lynda - Visual Studio 2015 Essentials 13 - Data Tools.rar
+28/12/2016  23:00       763,730,469 Lynda - Windows Presentation Foundation 1 - Build Dramatic Desktop Applications.rar
+28/12/2016  22:59       382,196,811 Lynda - Windows Presentation Foundation 2 - Layout.rar
+28/04/2014  13:48       408,049,926 Packt - RESTful Services with ASP.NET Web API.rar
+30/05/2014  21:52       725,822,695 Pluralsight - .NET Single Page Apps with HTML5 Web API Knockout and jQuery.rar
+14/07/2014  19:59       764,961,707 Pluralsight - Accelerated C# Fundamentals.rar
+08/06/2014  10:11       841,714,212 Pluralsight - ASP.NET MVC 5 Fundamentals.rar
+11/08/2014  08:01       766,677,135 Pluralsight - Build Your Own Application Framework with ASP.NET MVC 5.rar
+10/05/2015  09:21       502,130,754 Pluralsight - Building and Securing a RESTful API for Multiple Clients in ASP.NET.rar
+02/06/2014  00:16       312,593,493 Pluralsight - C# Fundamentals Part1.rar
+01/06/2014  23:23       221,748,374 Pluralsight - C# Fundamentals Part2.rar
+12/07/2014  18:54       437,742,848 Pluralsight - C# Programming Paradigms.rar
+11/07/2014  22:42     4,674,570,418 Pluralsight - Courses in ASP.NET Part 1.rar
+11/07/2014  22:39     1,159,924,022 Pluralsight - Courses in ASP.NET Part 2.rar
+01/06/2014  18:49       347,469,307 Pluralsight - Creating N-Tier Applications in C#, Part 1.rar
+01/06/2014  20:32       183,325,973 Pluralsight - Creating N-Tier Applications in C#, Part 2.rar
+10/10/2013  10:01       530,873,680 Pluralsight - Creating N-Tier Applications in C#, Parts 1 & 2.rar
+10/07/2014  22:14       662,311,357 Pluralsight - Defensive Coding in C#.rar
+14/11/2014  22:32     1,538,165,052 Pluralsight - Entity Framework 6 - Ninja Edition - What's New in EF6.rar
+10/03/2015  20:06       326,580,930 Pluralsight - Entity Framework in the Enterprise.rar
+01/06/2014  23:05       548,873,981 Pluralsight - Hack-proofing Your ASP.NET Web Applications.rar
+11/07/2014  22:59       328,824,338 Pluralsight - Identity and Access Control in ASP.NET 4.5 (MP4).rar
+02/06/2014  00:17       489,549,820 Pluralsight - Introduction to C# and .NET.rar
+30/10/2014  21:46       847,437,862 Pluralsight - Introduction to the .NET Compiler Platform.rar
+17/10/2014  21:22       996,554,957 Pluralsight - Introduction to Windows Forms.rar
+10/07/2014  23:49       178,810,639 Pluralsight - Making .NET Applications Faster.rar
+13/07/2014  16:59       585,114,332 Pluralsight - Object-Oriented Programming Fundamentals in C#.rar
+01/07/2014  23:14       305,798,016 Pluralsight - Practical Data Modeling With C# and SQL Server Tutorial.rar
+29/10/2014  12:42       656,173,075 Pluralsight - Windows Store Apps Data Binding in Depth.rar
+18/07/2014  23:13       430,355,675 Pluralsight - XAML Jumpstart Getting Started With XAML.rar
+12/11/2014  21:25       601,126,553 Tutsplus - ASP.NET At Your Service Web API.rar
+01/06/2014  15:03     3,995,880,859 Tutsplus - ASP.NET Web Pages, Web Forms, and MVC.rar
+19/12/2014  23:12       427,990,202 Tutsplus - Building Android Apps In C# With Xamarin.rar
+24/01/2014  11:03     2,142,949,773 Tutsplus - Building Ribbit in ASP.NET MVC.rar
+04/06/2015  20:18     2,278,613,556 Tutsplus - Learning TDD in C#.rar
+04/06/2015  20:16       256,024,063 Tutsplus - SOLID Design Patterns in C#.rar
+27/03/2014  10:21       454,470,933 Tutsplus - Windows App From Scratch.rar
+07/06/2014  11:28       860,196,649 VTC - Designing and Developing ASP.NET 4.0 Web Applications.rar
+12/11/2012  23:09       184,687,560 VTC - Microsoft LINQ.rar
+07/11/2014  19:27       777,640,751 Wiley - ASP.NET 4 24-Hour Trainer.rar
+              48 File(s) 45,004,067,388 bytes
+               0 Dir(s)  104,274,997,248 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Electron
+
+14/10/2018  08:35    <DIR>          .
+14/10/2018  08:35    <DIR>          ..
+16/07/2018  17:40    <DIR>          Udemy - Electron React Tutorial
+16/07/2018  17:41    <DIR>          Udemy - Master Electron
+               0 File(s)              0 bytes
+               4 Dir(s)  104,274,997,248 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\ES6
+
+14/10/2018  08:35    <DIR>          .
+14/10/2018  08:35    <DIR>          ..
+16/07/2018  17:43    <DIR>          Lynda - ES6 - The Right Parts
+16/07/2018  17:44    <DIR>          Udemy - Beginners ES6 Programming Code for the Web in JavaScript
+16/07/2018  17:44    <DIR>          Udemy - ES6 Bootcamp Next Generation Javascript
+16/07/2018  17:44    <DIR>          Udemy - ES6 in Depth
+16/07/2018  17:44    <DIR>          Udemy - Javascript ES6 A Complete Reference Guide to Javascript ES6
+16/07/2018  17:45    <DIR>          Wes Bos - ES6 For Everyone
+               0 File(s)              0 bytes
+               8 Dir(s)  104,274,989,056 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\ES6
+
+29/05/2017  09:04       942,321,443 Frontend Masters - ES6 The Right Parts.rar
+17/05/2017  15:38       328,633,075 Pluralsight - Object-Oriented Programming in JavaScript ES6.rar
+17/05/2017  11:11       321,121,612 Pluralsight - Rapid ES6 Training.rar
+17/05/2017  15:35       604,977,838 Tutsplus - JavaScript ES6 Fundamentals.rar
+07/01/2016  21:53       850,962,341 Tutsplus - Object-Oriented JavaScript with ES6.rar
+17/05/2017  10:06     1,245,454,131 Udemy - Javascript ES6 A Complete Reference Guide to Javascript ES6.rar
+28/08/2017  16:02       848,704,608 Udemy - Javascript ES6.rar
+17/05/2017  10:34     4,169,375,323 Wes Bos - ES6 For Everyone.rar
+               8 File(s)  9,311,550,371 bytes
+               0 Dir(s)  104,274,984,960 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\HTML
+
+07/01/2016  16:54       916,246,909 Lynda - Bootstrap Layouts Responsive Single-Page Design.rar
+29/05/2017  09:25       207,141,519 Lynda - Learning Web Components.rar
+18/05/2017  13:58     1,568,256,567 Packt - Mastering Bootstrap 4.rar
+07/01/2016  21:26       335,255,703 Pluralsight - Get Started With HTML5 Boilerplate.rar
+07/01/2016  20:56       302,835,484 Pluralsight - Mobile First Responsive Web Design.rar
+07/02/2016  12:25       181,028,880 Pluralsight - Modern Web Layout With FlexBox And CSS Grid.rar
+08/01/2016  17:10        32,042,092 Treehouse - Build A Simple Website.rar
+23/12/2016  15:12       916,725,150 Udemy - Bootstrap 4.rar
+15/07/2017  12:01     3,576,295,033 Udemy - Git a Web Developer Job Mastering the Modern Workflow.rar
+               9 File(s)  8,035,827,337 bytes
+               0 Dir(s)  104,274,980,864 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\HTML
+
+14/10/2018  08:36    <DIR>          .
+14/10/2018  08:36    <DIR>          ..
+16/07/2018  18:07    <DIR>          Archieved
+16/07/2018  18:08    <DIR>          Oreilly - Building Mobile Apps with HTML, CSS, and JavaScript
+16/07/2018  18:09    <DIR>          Udemy - Learn Bootstrap 4 The Most Popular HTML5 CSS3 JS Framework
+               0 File(s)              0 bytes
+               5 Dir(s)  104,274,980,864 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\HTML\Archieved
+
+28/01/2015  20:31     1,005,502,458 Codeschool - Blasting Off with Bootstrap.rar
+09/06/2014  21:48       143,251,066 Codeschool - CSS.rar
+24/11/2014  16:07     1,009,717,635 Codeschool - Front-end Foundations.rar
+09/06/2014  21:50       784,222,047 Codeschool - HTML5.rar
+24/12/2015  15:14     1,751,745,222 Digital Tutors - Creating a Physics-Based Web Game in JavaScript and HTML5.rar
+16/06/2015  18:38     1,506,778,558 Frontend Masters - Responsive Web Design.rar
+12/06/2015  23:55     1,219,154,810 Frontend Masters - Web UI Architecture.rar
+16/06/2015  22:59     2,115,822,171 Frontend Masters - Website Performance.rar
+14/03/2014  01:57       396,456,273 Gîrsel.TV - CSSOgreniyorum.rar
+14/03/2014  01:57       294,168,554 Gîrsel.TV - HTMLOgreniyorum.rar
+24/01/2014  15:53       775,369,207 Infiniteskills - Advanced HTML5 Programming.rar
+03/01/2015  08:49       263,692,530 InfiniteSkills - CSS3 Dropdown Menu.rar
+01/06/2014  17:27       364,505,261 Infiniteskills - Learning Bootstrap 3.rar
+30/12/2014  23:25     1,129,231,481 Infiniteskills - Learning CSS3.rar
+07/02/2014  15:29     1,125,001,080 Infiniteskills - Learning HTML 5.rar
+05/06/2015  19:47       776,186,120 Infiniteskills - Learning ZURB Foundation.rar
+17/06/2014  08:59     3,582,541,714 LearnToProgram - HTML5 Mobile App Development.rar
+03/06/2014  21:00     4,236,392,269 Livelessons - CSS Fundamentals.rar
+31/01/2014  18:26       701,128,374 Livelessons - HTML5 for Developers.rar
+31/05/2014  20:32       456,006,185 Lynda - Bootstrap 3 Advanced Web Development.rar
+25/09/2014  19:26       991,084,771 Lynda - Building a Responsive Single Page Design.rar
+12/12/2014  19:52       901,716,382 Lynda - Cascading Style Sheets Page Layouts.rar
+05/12/2014  20:05       639,293,925 Lynda - Creating a Responsive HTML Email.rar
+27/07/2012  19:32       364,790,024 Lynda - CSS For Developers.rar
+27/08/2014  11:56       550,774,176 Lynda - CSS Frameworks and Grids.rar
+03/01/2015  18:32       236,257,080 Lynda - CSS Visual Optimization.rar
+27/08/2014  11:56       397,866,703 Lynda - Customizing Bootstrap 3 with LESS.rar
+22/11/2014  18:12     1,479,731,317 Lynda - HTML Essential Training 2014.rar
+18/01/2015  20:24       872,778,942 Lynda - HTML Essential Training.rar
+06/11/2015  19:54       124,818,464 Lynda - HTML5 File API in Depth.rar
+24/12/2015  14:53       931,512,972 Lynda - HTML5 First Look.rar
+27/08/2014  11:55        76,318,841 Lynda - HTML5 Geolocation in Depth.rar
+17/10/2014  21:21       338,379,852 Lynda - HTML5 Local Storage and Offline Applications in Depth.rar
+07/11/2013  04:00        84,965,117 Lynda - HTML5 Projects Advanced To-Do List.rar
+08/02/2015  21:21       523,848,713 Lynda - HTML5 Structure, Syntax, and Semantics.rar
+21/12/2014  12:16       371,151,238 Lynda - Mapping the Modern Web Design Process.rar
+28/11/2012  19:04       967,579,987 Lynda - Mobile Web Design & Development Fundamentals.rar
+28/09/2014  15:34       424,156,751 Lynda - Responsive CSS with SASS and Compass.rar
+16/11/2014  12:16     2,682,576,966 Lynda - Responsive Design Bundle.rar
+29/01/2015  20:09       564,956,396 Lynda - Understanding Cascading Style Sheets CSS.rar
+03/01/2015  18:59       425,017,192 Lynda - Up and Running with Bootstrap 3.rar
+29/10/2014  13:15       619,976,343 Lynda - Up and Running with Foundation 5.rar
+05/12/2014  16:53       983,050,370 Lynda - Web Design Fundamentals.rar
+06/11/2015  19:54       829,007,771 Lynda - Web Form Design Best Practices.rar
+05/07/2014  00:01       483,631,197 Lynda - XHTML & HTML Essential Training.rar
+24/12/2015  14:58     2,643,905,168 Microsoft - Developing in HTML5 with JavaScript and CSS3 Jump Start.rar
+29/06/2014  12:51     5,704,932,849 Oreilly - HTML5 Mobile Web Development.rar
+24/12/2015  15:50     3,871,233,966 Oreilly - Web Apps without Web Servers.rar
+29/01/2015  16:27       841,268,480 OSTraining - Introduction to CSS.rar
+09/06/2015  23:14       811,500,070 Packt - Building a Responsive Website with Bootstrap.rar
+16/08/2014  14:38       381,044,206 Packt - HTML5 Game Development.rar
+21/10/2015  16:35       811,452,641 Packtpub - Building a Responsive Website with Bootstrap.rar
+21/10/2015  16:36     1,016,916,061 Packtpub - Mastering CSS.rar
+09/06/2014  09:23     1,745,555,641 Peachpit - Responsive Web Design.rar
+14/07/2014  19:11       174,531,104 Pluralsight - A Better CSS LESS and SASS.rar
+03/10/2014  23:04       499,507,984 Pluralsight - Architecting Device-Driven Web Solutions.rar
+12/02/2014  20:14     1,457,093,110 Pluralsight - Bootstrap 3.rar
+23/05/2015  00:18       154,266,489 Pluralsight - Creating a Cross-Platform Mobile Game in HTML5 and JavaScript.rar
+18/06/2014  19:23     2,211,420,685 Pluralsight - CSS3 In-Depth.rar
+12/10/2015  16:53       468,793,904 Pluralsight - Extending Bootstrap with CSS, JavaScript, and jQuery.rar
+31/05/2014  11:30       399,800,595 Pluralsight - Front End Web Development Getting Started.rar
+01/06/2014  21:07       282,605,729 Pluralsight - Fundamentals of HTML5.rar
+03/01/2015  08:51     1,096,893,097 Pluralsight - Hands On Responsive Web Design.rar
+01/06/2014  23:04       260,289,622 Pluralsight - HTML5 Advanced Topics.rar
+04/09/2014  20:13     1,914,081,666 Pluralsight - HTML5 Audio, Video, and WebRTC.rar
+04/10/2013  21:02       225,973,134 Pluralsight - HTML5 From Scratch.rar
+10/05/2015  09:12       566,022,738 Pluralsight - HTML5 Web Component Fundamentals.rar
+27/08/2015  20:39       487,233,147 Pluralsight - Introduction to Building Website Layouts.rar
+31/05/2014  10:46     1,256,772,592 Pluralsight - Introduction to HTML5 and CSS3.rar
+23/05/2015  00:21     1,521,720,092 Pluralsight - Introduction to Web Development.rar
+05/03/2015  20:24       572,401,787 Pluralsight - Practical HTML5.rar
+26/06/2014  13:19     1,219,022,960 Pluralsight - Web UI Architecture.rar
+03/02/2015  14:21     1,101,977,073 Pluralsight - Build Your Own Bootstrap Business Application Template in MVC.rar
+18/12/2014  18:28     1,311,202,476 Skillfeed - HTML5 & CSS3 Site Design.rar
+20/06/2015  15:44       155,355,098 Train Simple - CSS3 Box Model.rar
+20/06/2015  15:35       911,002,533 Train Simple - HTML5 Forms.rar
+05/07/2014  11:20       311,689,341 Train Simple - HTML5 Fundamentals.rar
+06/07/2014  13:57       313,520,171 Train Simple - HTML5 Structure and Semantics.rar
+28/06/2014  17:32       269,223,631 Train Simple - Web Design Techniques.rar
+28/11/2014  21:55       342,586,183 Treehouse - Advanced Sass.rar
+07/06/2014  13:18       342,196,034 Treehouse - Build a Responsive Website.rar
+09/06/2014  16:45       575,882,374 Treehouse - Build an Interactive Website.rar
+26/11/2014  21:20       262,723,366 Treehouse - Building Websites with Bootstrap 3.rar
+29/11/2014  20:36        34,628,922 Treehouse - Club CSS.rar
+28/11/2014  23:59       286,469,382 Treehouse - Coding Your First HTML5 Game.rar
+06/11/2015  19:53       601,569,977 Treehouse - CSS Basic.rar
+26/11/2014  21:19       939,089,094 Treehouse - Framework Basics.rar
+30/11/2014  09:50       636,258,635 Treehouse - Free Workshops.rar
+05/07/2014  09:42     4,505,518,750 Treehouse - Front-End Web Development.rar
+29/11/2014  16:27       151,196,056 Treehouse - HTML Forms.rar
+29/11/2014  16:28       104,749,104 Treehouse - HTML Tables.rar
+26/11/2014  23:53       129,013,855 Treehouse - HTML Video and Audio.rar
+29/11/2014  11:53       289,954,692 Treehouse - Modular CSS with Sass.rar
+11/05/2014  16:03       160,722,075 Treehouse - Sass Basics.rar
+29/11/2014  11:22       187,761,368 Treehouse - Workshop New Features in CSS.rar
+16/12/2014  10:51       309,848,152 Treehouse - HTML Email Design.rar
+20/01/2015  23:24     1,281,724,591 Tutsplus - Become a CSS Superhero With Stylus.rar
+01/02/2015  22:57     1,206,093,239 Tutsplus - Bombproof Web Design.rar
+15/11/2014  17:57       802,570,386 Tutsplus - Building Easy Responsive Layouts With Jeet.rar
+02/02/2015  23:29       574,997,021 Tutsplus - CSS Flexbox Essentials.rar
+14/09/2013  09:40       348,318,703 Tutsplus - CSS Noob To Ninja.rar
+10/06/2014  09:07       477,274,471 Tutsplus - Design and Build Scroll-Based CSS Animations.rar
+04/02/2015  20:59     1,241,347,839 Tutsplus - Designing in the Browser With Bootstrap.rar
+15/01/2013  19:57       339,694,708 Tutsplus - Designing Web Forms.rar
+24/12/2015  16:41       910,927,160 Tutsplus - Essential CSS Libraries for Web Designers.rar
+09/06/2015  23:12       276,247,500 Tutsplus - Exploring CSS Pseudo-Elements.rar
+24/12/2015  16:42       973,829,726 Tutsplus - Getting to Know Material Design Tutorial.rar
+01/06/2014  00:40       678,047,254 Tutsplus - HTML Tips and Tricks.rar
+13/02/2015  23:42       677,450,239 Tutsplus - Introduction to HTML.rar
+31/05/2014  17:58       225,719,022 Tutsplus - Less is More.rar
+03/06/2014  21:01       773,725,365 Tutsplus - Responsive Web Design for Beginners.rar
+03/06/2014  01:22       997,965,791 Tutsplus - Responsive Web Design Techniques.rar
+12/02/2014  20:12     1,488,814,504 Tutsplus - Responsive Web Design with Foundation.rar
+11/10/2015  17:49       360,088,185 Tutsplus - Semantic HTML How to Structure Web Pages.rar
+16/12/2014  16:05       489,751,517 Tutsplus - Responsive Web Design Revisited.rar
+25/12/2015  11:50       317,397,781 Udemy - Build a HTML5 Business Web Application.rar
+18/01/2015  00:20       963,345,794 Udemy - Build a Website from Scratch with HTML & CSS.rar
+11/10/2015  17:50       983,159,010 Udemy - Build Websites from Scratch with HTML & CSS.rar
+27/10/2015  14:23     2,619,761,299 Udemy - Design and Develop a Killer Website with HTML5 and CSS3.rar
+16/10/2015  21:40       892,416,829 Udemy - Next Level Web Development Top Tools the Pros Use.rar
+02/07/2014  21:25       693,335,239 Udemy - Responsive Web Design with HTML5 and CSS3 - Advanced.rar
+02/07/2014  21:24       987,544,755 Udemy - Responsive Web Design with HTML5 and CSS3 - Intermediate.rar
+02/07/2014  21:25     1,218,970,117 Udemy - Responsive Web Design with HTML5 and CSS3 - Introduction.rar
+12/11/2015  21:21     1,200,380,296 Udemy - The Complete Bootstrap Masterclass Course.rar
+22/12/2012  16:40     1,175,856,934 Video2brain - HTML5 for Beginners.rar
+27/03/2011  08:20       718,881,590 VTC - CSS.2 & 3.rar
+02/06/2014  22:47     1,060,693,720 VTC - HTML5 + CSS3 Responsive Web Design.rar
+05/11/2014  19:51       459,259,601 Wiley - HTML5 24-Hour Trainer DVD.rar
+07/11/2014  19:25       512,524,041 Wiley - HTML5 Digital Classroom.rar
+             129 File(s) 115,260,606,591 bytes
+               0 Dir(s)  104,274,964,480 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Javascript
+
+14/10/2018  08:41    <DIR>          .
+14/10/2018  08:41    <DIR>          ..
+16/07/2018  18:45    <DIR>          Archieved
+16/07/2018  18:45    <DIR>          Frontend Masters - Advanced Asynchronous JavaScript
+16/07/2018  18:46    <DIR>          Frontend Masters - Data Structures and Algorithms in JavaScript
+16/07/2018  18:47    <DIR>          Frontend Masters - Functional-Light JavaScript, v2
+16/07/2018  18:50    <DIR>          Frontend Masters - JavaScript The Hard Parts
+16/07/2018  18:55    <DIR>          Frontend Masters - Organizing JavaScript Functionality
+16/07/2018  18:57    <DIR>          Frontend Masters - TypeScript Fundamentals
+16/07/2018  18:58    <DIR>          Lynda - Creating an Open Source JavaScript Library
+16/07/2018  18:58    <DIR>          Lynda - Learning App Building with Vanilla JavaScript
+16/07/2018  18:59    <DIR>          Lynda - Organizing JavaScript Functionality
+16/07/2018  18:59    <DIR>          Lynda - Rethinking Asynchronous JavaScript
+16/07/2018  18:59    <DIR>          Lynda - The DOM in JavaScript, jQuery, AngularJS, and React
+16/07/2018  19:00    <DIR>          Oreilly - Javascript Unit Testing
+16/07/2018  19:00    <DIR>          Packt - Introducing Grunt The Javascript Task Runner
+16/07/2018  19:00    <DIR>          Packt - Learning Javascript Data Structures and Algorithms
+16/07/2018  19:01    <DIR>          Packt - Learning Javascript Promises
+16/07/2018  19:01    <DIR>          Packt - Learning Meteor Application Development
+16/07/2018  19:01    <DIR>          Packt - Learning Object Oriented Javascript
+16/07/2018  19:02    <DIR>          Packt - Learning Path Reactive and Functional Javascript
+16/07/2018  19:02    <DIR>          Packt - Mastering Javascript
+16/07/2018  19:02    <DIR>          Packt - Mastering Javascript Design Patterns
+16/07/2018  19:02    <DIR>          Packt - Mastering Typescript
+16/07/2018  19:03    <DIR>          Pluralsight - Basics of Programming with JavaScript
+16/07/2018  19:03    <DIR>          Pluralsight - Building a JavaScript Development Environment
+16/07/2018  19:03    <DIR>          Pluralsight - Hardcore Functional Programming in JavaScript
+16/07/2018  19:05    <DIR>          Udemy - Javascript a Complete Guide
+16/07/2018  19:05    <DIR>          Udemy - Javascript Frameworks Comparison
+16/07/2018  19:05    <DIR>          Udemy - Javascript from Beginner to Advanced Level
+16/07/2018  19:06    <DIR>          Udemy - Javascript from Beginner to Pro
+16/07/2018  19:06    <DIR>          Udemy - Learning Data Structures in Javascript from Scratch
+16/07/2018  19:07    <DIR>          Udemy - Progressive Web Apps PWA The Complete Guide
+16/07/2018  19:08    <DIR>          Udemy - The Complete Javascript Course
+16/07/2018  19:10    <DIR>          Udemy - The Complete JavaScript Course - Beginner to Professional
+16/07/2018  19:10    <DIR>          Udemy - The Complete Javascript Developer MEAN Stack Zero to Hero
+               0 File(s)              0 bytes
+              36 Dir(s)  104,274,964,480 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Javascript
+
+15/11/2015  16:45     1,908,365,436 Codeschool - JavaScript Best Practices.rar
+15/11/2015  16:43     1,209,319,558 Douglas Crockford - JavaScript Master Class.rar
+01/10/2016  21:54     9,083,518,921 Frontend Masters - Asynchronous Programming in JavaScript.rar
+13/01/2016  20:58       606,184,396 Frontend Masters - Basics of Programming with JavaScript.rar
+01/10/2016  18:39     2,061,598,207 Frontend Masters - Choosing a JavaScript Framework.rar
+24/12/2015  15:17     1,853,180,582 Frontend Masters - Coercion in JavaScript.rar
+01/10/2016  18:54     1,875,637,659 Frontend Masters - Functional-Lite JavaScript.rar
+01/10/2016  18:56     3,116,904,395 Frontend Masters - Hardcore Functional Programming in JavaScript.rar
+01/10/2016  21:49     3,756,079,789 Frontend Masters - Rethinking Asynchronous JavaScript.rar
+17/05/2017  15:50     2,326,010,106 Frontend Masters - The Good Parts of JavaScript and the Web.rar
+17/05/2017  16:00    10,282,716,922 ITU Learning - JavaScript Essentials.rar
+01/10/2016  20:44     8,640,509,830 LetsCodeJavascript -  Lessons Learned + The Lab.rar
+01/10/2016  20:26     2,586,956,807 LetsCodeJavascript - How To's.rar
+28/08/2017  16:17     1,343,591,159 Linkedin - Creating an Open Source JavaScript Library.rar
+31/08/2017  09:31       312,553,091 Linkedin - Gulp.js, Git, and Browserify - Web Project Workflows.rar
+01/10/2016  19:24       526,872,257 Linkedin - JavaScript for Web Designers.rar
+17/05/2017  10:59       469,267,777 Linkedin - Learning Full-Stack Javascript Development.rar
+17/01/2016  18:21       469,067,922 Lynda - Debugging the Web JavaScript.rar
+13/01/2016  16:43       223,004,832 Lynda - Introducing the JavaScript Language.rar
+28/08/2017  15:10     1,086,629,611 Lynda - JavaScript Essential Training.rar
+17/05/2017  11:00       400,456,582 Lynda - JavaScript for Web Designers.rar
+17/05/2017  15:43       469,268,638 Lynda - Learning Full-Stack Javascript Development MongoDB, Node and React.rar
+23/01/2016  17:18       577,924,065 Lynda - Practical and Effective Javascript.rar
+01/06/2017  21:07     1,793,581,089 Lynda - Rethinking Asynchronous JavaScript.rar
+29/05/2017  09:22     2,757,445,458 Lynda - The Good Parts of JavaScript and the Web.rar
+24/12/2015  15:00     4,677,490,788 Microsoft - Javascript Fundamentals Development for Absolute Beginners.rar
+24/12/2015  15:04       312,595,320 Oreilly - A Beginner's Guide to Understanding JavaScript.rar
+28/12/2016  22:53     1,893,770,478 Oreilly - Beginning Programming with JavaScript, by Semmy Purewal.rar
+25/12/2015  16:17     4,794,979,131 Oreilly - Beginning Programming with JavaScript.rar
+24/12/2015  15:23       753,837,706 Oreilly - Introduction to Modern Client-Side Programming.rar
+17/05/2017  11:05       924,547,122 Oreilly - JavaScript Best Practices.rar
+28/12/2016  22:50       405,669,837 Oreilly - JavaScript Templating, by Raymond Camden.rar
+28/12/2016  22:49       362,129,525 Oreilly - JavaScript The Good Parts Master Class with Douglas Crockford.rar
+24/12/2015  15:30     2,661,569,480 Oreilly - Learning Path - Beginning JavaScript.rar
+01/10/2016  19:26       880,157,586 Oreilly - Offline Web.rar
+28/08/2017  16:16       794,558,510 Packt - Javascript Design Patterns 20 Patterns for Expert Code.rar
+24/12/2015  15:51       916,503,580 Packt - Mastering JavaScript.rar
+17/05/2017  10:22       656,228,993 Packt - Programming with ECMAScript 2015.rar
+01/10/2016  19:43     2,575,288,836 Pluralsight - Advanced JavaScript.rar
+15/01/2016  19:13       606,183,710 Pluralsight - Basics of Programming with JavaScript.rar
+17/05/2017  15:43       590,678,692 Pluralsight - Building a JavaScript Development Environment.rar
+17/01/2016  18:24     2,061,597,518 Pluralsight - Choosing a JavaScript Framework.rar
+28/07/2017  19:18       241,450,942 Pluralsight - Hands-on JavaScript Project Solar Calculator.rar
+07/01/2016  21:26       214,254,830 Pluralsight - Javascript Design Patterns.rar
+08/02/2016  21:37     1,831,992,616 Pluralsight - JavaScript From Fundamentals To Functional JS.rar
+07/01/2016  21:23       369,290,075 Pluralsight - Javascript Fundamentals.rar
+17/05/2017  15:39       186,909,079 Pluralsight - Javascript Module Fundamentals.rar
+14/01/2016  18:51       741,234,713 Pluralsight - Learning Programming Javascript.rar
+23/12/2016  15:48     1,146,797,353 Pluralsight - Modern Asynchronous JavaScript.rar
+02/03/2016  21:36       442,172,187 Pluralsight - Practical Design Patterns in JavaScript.rar
+08/02/2016  21:36       362,657,071 Pluralsight - Rapid Javascript Training.rar
+01/10/2016  19:49       242,843,001 Pluralsight - Reasoning About Asynchronous JavaScript.rar
+07/01/2016  20:50       285,386,978 Pluralsight - Structuring Javascript Code in HTML5 Applications.rar
+17/05/2017  15:51     4,656,021,489 Treehouse - Full-Stack Javascript.rar
+17/05/2017  13:43     1,599,252,877 Tutsplus - Building Javascript Web Apps.rar
+01/10/2016  20:03       355,888,020 Tutsplus - Easier JavaScript with TypeScript.rar
+23/01/2016  19:52       228,378,939 Tutsplus - Essential Tools for Javascript Developers.rar
+25/12/2015  10:24     1,096,207,456 Tutsplus - Functional Programming in JavaScript.rar
+28/12/2016  22:40       851,337,556 Tutsplus - JavaScript for PHP Developers.rar
+17/05/2017  11:22     1,197,779,138 Tutsplus - JavaScript for Web Designers.rar
+07/01/2016  21:53       258,229,128 Tutsplus - Object-Oriented JavaScript.rar
+11/01/2016  12:39       841,686,667 Tutsplus - Put JavaScript Design Patterns Into Practice.rar
+01/10/2016  20:02        94,888,181 Tutsplus - Use Web Components in Vanilla JavaScript.rar
+06/07/2017  13:08       583,969,242 Udacity - JavaScript Basics.rar
+24/12/2015  17:51     1,492,875,710 Udacity - JavaScript Design Patterns.rar
+24/12/2015  17:51     1,016,549,854 Udacity - Object-Oriented JavaScript.rar
+05/08/2015  20:40       237,780,022 Udemy - Comprehensive TypeScript.rar
+17/05/2017  15:35       355,214,083 Udemy - Javascript Advanced Programing For Modern Web Developer.rar
+28/08/2017  16:09     1,162,359,520 Udemy - Javascript Bootcamp 2016.rar
+23/12/2016  15:10     1,162,712,252 Udemy - Javascript Bootcamp.rar
+28/08/2017  10:03       610,331,143 Udemy - Javascript Complete and Comprehensive.rar
+17/05/2017  15:34       473,248,447 Udemy - JavaScript Complete JavaScript Foundation & Object Oriented.rar
+27/10/2015  16:47     1,199,500,212 Udemy - Javascript for Beginners - A Complete Guide.rar
+24/12/2015  17:59       568,049,596 Udemy - Javascript for Beginners Introduction.rar
+23/01/2016  21:16       568,050,762 Udemy - Javascript for Beginners.rar
+25/12/2015  12:28     1,226,682,315 Udemy - Javascript from Beginner to Expert.rar
+15/07/2017  12:02     1,559,281,476 Udemy - Javascript From Beginner to Pro-Build Real World JS Apps.rar
+05/08/2015  20:42     2,815,407,821 Udemy - Javascript from Scratch for Very Beginners.rar
+02/03/2016  21:10       969,394,251 Udemy - Javascript Gentle Introduction for Beginners.rar
+28/08/2017  13:24       895,176,505 Udemy - JavaScript Understanding the Weird Parts.rar
+31/08/2017  09:19       701,171,996 Udemy - Learn Gulp.rar
+14/01/2016  20:14       290,512,659 Udemy - Learn Javascript from Basic Fundamentals to Advanced.rar
+08/02/2016  21:35       286,375,417 Udemy - Practical JavaScript JavaScript Basics.rar
+29/05/2017  09:22     2,782,031,527 Udemy - The Complete JavaScript Course Build a Real-World Project.rar
+13/01/2016  16:43       248,978,136 Udemy - The Complete JavaScript Course For Web Development Beginners.rar
+28/08/2017  15:52     2,774,704,747 Udemy - The Complete Javascript Course.rar
+30/07/2017  10:54       434,633,463 Udemy - Top Javascript Interview Questions and Answers.rar
+28/08/2017  15:54     1,121,094,336 Udemy - Understanding Typescript.rar
+17/05/2017  13:42     1,548,883,010 Udemy - Using Modern JavaScript Today.rar
+08/01/2016  12:01        51,360,437 Udemy - Web Programming with Javascript for Beginners.rar
+              90 File(s) 129,985,419,136 bytes
+               0 Dir(s)  104,274,956,288 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Javascript\Archieved
+
+18/06/2014  22:30        63,741,251 AppDev - JavaScript 1.8. Functions.rar
+18/06/2014  19:46        74,417,800 AppDev - JavaScript 1.8. Objects, Arrays and Expressions.rar
+18/06/2014  19:43        38,974,056 AppDev - JavaScript 1.8. Objects, Constructors, Literals and Prototypes.rar
+18/06/2014  19:43       339,876,498 AppDev - JavaScript 1.8.rar
+17/06/2014  23:38       172,807,317 AppDev - jQuery Fundamentals.rar
+17/06/2014  23:37       159,311,933 AppDev - jQuery Mobile.rar
+17/06/2014  23:38       170,677,867 AppDev - jQuery UI Using HTML5.rar
+09/06/2014  21:48       552,282,623 Codeschool - Backbone js.rar
+09/06/2014  21:48       144,093,048 Codeschool - CoffeScript.rar
+08/06/2014  11:47       399,596,531 Codeschool - Javascript Roadtrip Part 1.rar
+08/06/2014  13:09     1,044,393,074 Codeschool - Javascript Roadtrip Part 2.rar
+08/06/2014  15:48     1,691,242,115 Codeschool - Javascript Roadtrip Part 3.rar
+16/11/2014  11:47     3,223,923,732 Codeschool - JavaScript RoadTrip.rar
+19/02/2014  18:15       839,549,661 Codeschool - jQuery The Return Flight.rar
+09/06/2014  22:04     1,114,365,876 Codeschool - JQueryAir 1.rar
+09/06/2014  22:03       570,383,665 Codeschool - JQueryAir 2.rar
+11/01/2015  00:33     1,088,237,333 Codeschool - Soup to Bits Warming Up With Ember.js.rar
+05/03/2015  19:59       749,912,386 Codeschool - Try jQuery.rar
+29/12/2014  12:15       795,056,376 Digital Tutors - Creating a Physics-Based Web Game in JavaScript and HTML5.rar
+30/11/2014  11:19       437,288,762 Digital Tutors - Quickstart to Javascript 1.rar
+12/06/2015  23:55     1,487,693,750 Frontend Masters - jQuery UI Autocomplete Walkthrough.rar
+27/10/2015  14:07       258,148,536 Infiniteskills - HTML5 APIs for Javascript a Course for Web Developers.rar
+31/05/2015  22:17       262,233,534 Infiniteskills - Improving your Workflow with Gulp.JS.rar
+27/01/2014  21:26       785,849,292 Infiniteskills - Learning JavaScript Programming.rar
+31/05/2014  22:39       392,652,777 Infiniteskills - Learning jQuery Programming.rar
+04/01/2015  14:06       261,109,060 Learnable - Introduction to jQuery.rar
+04/01/2015  12:21       197,743,083 Learnable - Your First Meteor Application.rar
+29/01/2014  12:13     1,671,444,853 Livelessons - Enterprise Ajax Building Robust Ajax Applications.rar
+30/05/2014  14:51     1,140,154,586 Livelessons - Professional JavaScript Frameworks with CoffeeScript.rar
+03/04/2014  21:38       381,840,198 Lynda - Building Facebook Applications with HTML and JavaScript.rar
+24/12/2015  15:31       435,594,415 Lynda - Code Clinic JavaScript.rar
+18/01/2015  20:57       276,204,563 Lynda - Up and Running with jQuery UI.rar
+17/01/2016  18:24     2,658,338,051 Oreilly - Building Mobile Apps with HTML, CSS, and JavaScript.rar
+24/12/2015  15:23       990,941,194 Oreilly - Introduction to IoT Programming with JavaScript.rar
+24/12/2015  15:40     2,993,806,867 Oreilly - Mobile Development with Javascript.rar
+24/12/2015  15:34       293,248,974 Oreilly - Web App Optimization with JavaScript.rar
+20/06/2015  13:45       414,523,000 OSTraining - Introduction To JavaScript.rar
+27/10/2015  13:37       371,460,837 Packt - Building Applications with Ext JS.rar
+24/12/2015  15:50       687,863,337 Packt - JavaScript High Performance.rar
+24/12/2015  15:50       360,582,087 Packt - Learning Functional JavaScript.rar
+27/10/2015  13:42       444,499,871 Packt - Learning Knockout JS.rar
+27/10/2015  13:51       695,611,392 Packt - Mastering D3 js.rar
+27/10/2015  13:43       417,396,113 Packt - Rapid D3 js.rar
+21/10/2015  16:34       687,791,492 Packtpub - JavaScript High Performance.rar
+16/10/2015  23:29       360,583,352 Packtpub - Learning Functional JavaScript.rar
+16/10/2015  23:29       225,601,751 Packtpub - Learning Meteor Application Development.rar
+07/01/2016  20:51       386,766,210 Pluralsight - Advanced Techniques In Javascript And JQuery.rar
+27/01/2015  23:11     1,054,792,576 Pluralsight - Application Building Patterns with Backbone.js.rar
+04/06/2015  20:52     1,405,785,696 Pluralsight - Build Process, Workflows and Tooling With Grunt.js and Beyond.rar
+25/12/2015  10:25     1,047,966,888 Pluralsight - Building A Realtime Web Application With Meteor Js.rar
+26/05/2015  20:13       124,541,273 Pluralsight - Creating JavaScript Modules with Browserify.rar
+20/06/2015  12:56       504,107,359 Pluralsight - Front-End Web Development Quick Start With HTML5, CSS, and JavaScript.rar
+26/05/2015  20:15       687,673,247 Pluralsight - Hardcore Functional Programming in JavaScript.rar
+31/05/2014  09:20     1,299,379,296 Pluralsight - Introduction to JavaScript & jQuery.rar
+03/01/2015  08:52       327,892,143 Pluralsight - Introduction to Koa Javascript.rar
+04/02/2015  14:45     1,071,492,817 Pluralsight - JavaScript Build Automation With Gulp.js.rar
+04/10/2013  21:03       151,058,146 Pluralsight - JavaScript From Scratch.rar
+28/09/2014  15:35       707,199,809 Pluralsight - JavaScript Fundamentals for ES6.rar
+01/06/2014  18:47     1,270,385,424 Pluralsight - JavaScript the Good Parts.rar
+12/02/2014  21:14       304,188,344 Pluralsight - Large Scale JavaScript on Client and Server.rar
+12/11/2015  21:18     1,198,451,024 Pluralsight - Modern, Modular JavaScript with SystemJS and jspm.rar
+16/06/2015  21:43       138,986,159 Pluralsight - Parent-Child Data with EF, MVC, Knockout, Ajax, and Validation.rar
+26/05/2015  20:14       413,069,754 Pluralsight - Practical TypeScript Migration.rar
+01/02/2015  12:02       230,509,009 Pluralsight - RequireJS JavaScript Dependency Injection and Module Loading.rar
+17/01/2016  12:07       498,956,932 Pluralsight - Seamless Javascript Testing With Wallaby Js.rar
+31/05/2014  13:03       962,081,699 Pluralsight - Single Page Apps Jumpstart.rar
+20/06/2015  08:09       605,175,708 Pluralsight - Extending Bootstrap with CSS, JavaScript, and jQuery.rar
+01/07/2014  23:20       144,328,312 Train Simple - JavaScript Fundamentals I.rar
+01/07/2014  23:20       181,392,193 Train Simple - JavaScript Fundamentals II.rar
+28/11/2014  23:21       656,202,306 Treehouse - AJAX Basics.rar
+29/11/2014  11:21       230,849,967 Treehouse - Interactive Web Pages with JavaScript.rar
+27/11/2014  20:19       434,381,242 Treehouse - JavaScript Basics.rar
+29/11/2014  16:28       316,088,318 Treehouse - Object-Oriented JavaScript.rar
+17/10/2014  21:18     1,112,804,021 Tutsplus - 30 Days to Learn JQuery.rar
+27/01/2013  21:13       260,590,297 Tutsplus - Advanced JavaScript Fundamentals.rar
+23/12/2016  15:00       659,477,806 Tutsplus - Build a Color-Shifting Gallery With JavaScript.rar
+01/10/2016  19:53       645,990,364 Tutsplus - Build a Credit Card Form Using JavaScript.rar
+07/11/2013  04:02       203,153,951 Tutsplus - Build your Own JavaScript Library.rar
+11/10/2015  17:46     1,208,269,764 Tutsplus - Comparing Front-End Frameworks.rar
+20/06/2015  09:17     1,384,760,953 Tutsplus - Create a Custom Yeoman Generator.rar
+28/05/2015  21:25     1,010,774,170 Tutsplus - EmberJS Framework Basics.rar
+21/01/2015  22:23     1,462,063,059 Tutsplus - Essential JS Libraries for Web Design.rar
+21/01/2015  20:23       220,379,087 Tutsplus - Getting Started with TypeScript.rar
+10/05/2015  09:26     2,387,175,543 Tutsplus - JavaScript Fundamentals.rar
+27/06/2014  20:58       190,829,039 Tutsplus - JavaScript Pro Front-End Workflows.rar
+10/01/2015  16:23       131,639,803 Tutsplus - Javascript Testing with Jasmine.rar
+04/02/2015  20:48       901,603,895 Tutsplus - JavaScript Unit Testing with Mocha, Chai and Sinon.rar
+21/01/2015  22:22       211,728,042 Tutsplus - Require JS Explained.rar
+07/06/2014  20:31       912,376,489 Tutsplus - Say Yo to Yeoman.rar
+24/12/2015  17:47       275,847,378 Tutsplus - Single Page Web Apps with Meteor.rar
+03/09/2013  21:10       185,362,212 Tutsplus - Writing Modular JavaScript.rar
+24/12/2015  17:54       242,061,721 Udemy - Amazing Javascript Code Examples From Scratch DOM Coding.rar
+27/10/2015  16:02     3,181,388,833 Udemy - D3 JS.rar
+01/10/2016  20:53       212,080,071 Udemy - JavaScript in Action JavaScript Projects.rar
+01/10/2016  20:56       367,006,793 Udemy - JavaScript Rockstar.rar
+24/12/2015  18:14     1,865,592,227 Udemy - Learn MeteorJS By Building 10 Real World Projects.rar
+              96 File(s) 68,409,706,238 bytes
+               0 Dir(s)  104,274,935,808 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Laravel
+
+02/03/2016  21:37       595,191,354 Udemy - A Very Complete Introduction To Laravel.rar
+24/08/2017  21:50     2,421,431,520 Udemy - Modern Web Development with Laravel.rar
+17/05/2017  14:15     6,656,710,201 Udemy - PHP with Laravel For Beginners - Become a Master in Laravel.rar
+               3 File(s)  9,673,333,075 bytes
+               0 Dir(s)  104,274,939,904 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Laravel
+
+14/10/2018  08:42    <DIR>          .
+14/10/2018  08:42    <DIR>          ..
+16/07/2018  19:12    <DIR>          Laracasts - Laravel 5.4 From Scratch
+16/07/2018  19:13    <DIR>          Let's Build A Forum with Laravel and TDD
+16/07/2018  19:13    <DIR>          Lynda - Laravel 5 Essential Training - 1 The Basics
+16/07/2018  19:20    <DIR>          Lynda - Laravel 5 Essential Training - 2 Testing, Securing, and Deploying
+16/07/2018  19:26    <DIR>          Packt - Integrating Elasticsearch with PHP and Laravel
+16/07/2018  19:26    <DIR>          Packt - Learning Application Deployment with Laravel
+16/07/2018  19:27    <DIR>          Pluralsight - RESTful Web Services with PHP and Laravel
+16/07/2018  19:27    <DIR>          Test Driven Laravel
+16/07/2018  19:28    <DIR>          Tutsplus - Build a CMS With Laravel
+16/07/2018  19:28    <DIR>          Tutsplus - Build Your First Laravel Site
+16/07/2018  19:29    <DIR>          Udemy - Best Laravel
+16/07/2018  19:30    <DIR>          Udemy - Projects in Laravel Learn Laravel Building 10 Projects
+16/07/2018  19:30    <DIR>          Udemy - Restful API with Laravel PHP Homestead Passport Hateoas
+               0 File(s)              0 bytes
+              15 Dir(s)  104,274,935,808 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Node.js
+
+14/10/2018  08:43    <DIR>          .
+14/10/2018  08:43    <DIR>          ..
+16/07/2018  19:41    <DIR>          Archieved
+16/07/2018  19:42    <DIR>          Devslopes - Building a RESTful API
+16/07/2018  19:42    <DIR>          Lynda - Advanced Express Web Application Development
+16/07/2018  19:43    <DIR>          Lynda - API Design in Node.js Using Express and Mongo
+16/07/2018  19:43    <DIR>          Lynda - Building a Website with Node.js and Express.js
+16/07/2018  19:43    <DIR>          Lynda - Building Complex Express Sites with Redis and Socket.IO
+16/07/2018  19:43    <DIR>          Lynda - Node.js - Testing and Code Quality
+16/07/2018  19:44    <DIR>          Oreilly - Architecture of the MEAN Stack
+16/07/2018  19:45    <DIR>          Oreilly - Getting Started with Node js
+16/07/2018  19:46    <DIR>          Oreilly - Learning Path - Node for Frontend Developers
+16/07/2018  19:46    <DIR>          Oreilly - Node js Web Apps with Express
+16/07/2018  19:46    <DIR>          Packt - Learning Express Web Application Development
+16/07/2018  19:46    <DIR>          Packt - Learning Web Development with the MEAN Stack
+16/07/2018  19:47    <DIR>          Packt - Mastering Express Web Application Development
+16/07/2018  19:47    <DIR>          Packt - Mastering MEAN Web Development
+16/07/2018  19:47    <DIR>          Packt - RESTful Web API Design with Node.js
+16/07/2018  19:48    <DIR>          Packt - Web Development with Node.JS and MongoDB
+16/07/2018  19:48    <DIR>          Pluralsight - NodeJS Advanced
+16/07/2018  19:48    <DIR>          Pluralsight - Using the Serverless Framework with Node js on AWS
+16/07/2018  19:50    <DIR>          Udemy - The Complete Nodejs Developer Course 2
+16/07/2018  19:50    <DIR>          Udemy - Web Developer Build Fiverr Twitter and MVP with Nodejs
+16/07/2018  19:51    <DIR>          Udemy - Welcome to Node with React Fullstack Web Development
+16/07/2018  19:52    <DIR>          Wes Bos - Learn Node
+               0 File(s)              0 bytes
+              25 Dir(s)  104,274,931,712 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Node.js
+
+31/08/2017  09:37     5,187,428,960 Devslopes - API Development.rar
+17/05/2017  14:04     4,741,089,674 Livelessons - Learning Node.js.rar
+23/12/2016  15:38       567,479,719 Lynda - Building a Website with Node.js and Express.js (2016).rar
+31/08/2017  09:30       344,285,453 Lynda - Building a Website with Node.js and Express.js.rar
+23/03/2015  23:20       555,008,097 Lynda - Developing for the MEAN Stack and MongoDB.rar
+23/12/2016  14:50       258,388,845 Lynda - MEAN Stack and MongoDB Development Techniques.rar
+01/10/2016  19:15       955,350,767 Lynda - Node.js Essential Training.rar
+07/01/2016  22:03     5,011,447,890 Oreilly - Architecture of the MEAN Stack.rar
+17/05/2017  13:58       363,826,456 Oreilly - Node js for PHP Developers.rar
+11/01/2016  18:56       882,614,746 Packt - Mastering MEAN Web Development.rar
+16/10/2015  22:02       882,619,974 Packtpub - Mastering MEAN Web Development.rar
+11/01/2016  18:54       655,682,607 Pluralsight - Building AngularJS and Node.js Apps with the MEAN Stack.rar
+13/01/2016  14:52       975,583,691 Pluralsight - Building Web Applications With Node JS And Express 4.0.rar
+28/01/2016  20:34       264,650,422 Pluralsight - Introduction to MEAN.JS.rar
+08/02/2016  20:12       815,115,660 Pluralsight - Play By Play Building A Node Web API.rar
+01/10/2016  21:32       359,096,220 Pluralsight - RESTful Web Services with Node.js and Express.rar
+23/12/2016  14:59       815,116,069 Tutsplus - Play by Play Building a Node Web API with Sam Artioli and John Papa.rar
+01/10/2016  20:02       114,882,965 Tutsplus - What Does Rest MEAN.rar
+17/05/2017  14:01     1,705,866,260 Udemy - Learn and Understand NodeJS.rar
+10/01/2016  18:22       136,840,632 Udemy - Learn Web Scraping with Node.js.rar
+17/05/2017  13:55       759,510,520 Udemy - Master the MEAN Stack - Learn By Example.rar
+10/01/2016  10:45       406,190,139 Udemy - MEAN Stack For Web Developers Build Websites on Javascript.rar
+23/12/2016  15:53       662,461,182 Udemy - Node JS Training and Fundamentals.rar
+23/12/2016  16:38    11,714,673,346 Udemy - The Complete Node.js Developer Course 2.0.rar
+07/01/2016  20:38     1,883,768,357 Udemy - The Complete Node.js Developer Course.rar
+28/08/2017  09:48     2,283,208,728 Wes Bos - Learn Node.rar
+              26 File(s) 43,302,187,379 bytes
+               0 Dir(s)  104,274,923,520 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Node.js\Archieved
+
+08/06/2014  15:03     1,436,278,561 Codeschool - Node.js.rar
+19/01/2015  01:01     1,436,548,711 Codeschool - Real-time Web with Node.js.rar
+29/10/2014  13:20       631,968,725 Lynda - Building a Website with Node.js and Express.js.rar
+27/01/2013  21:15       181,009,400 Lynda - Node.js First Look.rar
+05/06/2015  19:59       220,579,094 Lynda - Up and Running with NodeJS.rar
+04/07/2014  08:39     1,287,316,160 Oreilly - Croucher on Node.rar
+24/08/2014  11:50     1,475,812,213 Pluralsight - Building Web Apps With Node.js.rar
+25/01/2015  19:43       375,625,468 Pluralsight - Introduction to Node.js.rar
+05/01/2015  23:55       755,825,119 Pluralsight - Node Application Patterns.rar
+06/05/2015  23:00       773,891,495 Pluralsight - Node.js Testing Strategies.rar
+17/08/2015  19:23       894,956,012 Tutsplus - Authenticate Node js With OAuth 2 0.rar
+03/06/2014  16:34       875,274,508 Tutsplus - Node for the Front-End Developer.rar
+10/05/2015  09:21       571,953,053 Tutsplus - Node.js From Scratch.rar
+11/10/2015  18:52       685,915,707 Udemy - All about Node.js From the Ground Up and More.rar
+24/12/2015  18:10       458,651,575 Udemy - Learn MongoDB - Leading NoSQL Database from Scratch.rar
+              15 File(s) 12,061,605,801 bytes
+               0 Dir(s)  104,274,919,424 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\PHP
+
+14/10/2018  08:44    <DIR>          .
+14/10/2018  08:44    <DIR>          ..
+16/07/2018  20:02    <DIR>          Archieved
+16/07/2018  20:02    <DIR>          Linux Academy - Nginx And The LEMP Stack
+16/07/2018  20:02    <DIR>          Lynda - Advanced PHP
+16/07/2018  20:02    <DIR>          Lynda - Linux for PHP Developers
+16/07/2018  20:03    <DIR>          Oreilly - Up to Speed with PHP 7
+16/07/2018  20:03    <DIR>          Packt - Functional PHP 7
+16/07/2018  20:03    <DIR>          Packt - Getting Started with PHP 7
+16/07/2018  20:03    <DIR>          Packt - Getting Started with PHP Reactive Programming
+16/07/2018  20:03    <DIR>          Packt - Learning PHP 7
+16/07/2018  20:04    <DIR>          Packt - Learning Yii 2
+16/07/2018  20:04    <DIR>          Packt - Mastering Yii 2
+16/07/2018  20:04    <DIR>          Packt - PHP 7 Programming Solutions
+16/07/2018  20:09    <DIR>          PHP Academy (Codecourse)
+16/07/2018  20:09    <DIR>          Pluralsight - PHP Predefined Variables
+16/07/2018  20:10    <DIR>          Udemy - Create a High End Social Network Like Twitter in PHP Mysql
+16/07/2018  20:10    <DIR>          Udemy - PHP Facebook Developer Passwordless Authentication
+               0 File(s)              0 bytes
+
+ Directory of F:\VIDEO TUTORIALS\PHP
+
+16/07/2017  17:19     2,035,700,465 Linkedin - Advance your Skills as a PHP Developer Core PHP.rar
+02/03/2016  21:06       819,426,097 Lynda - Accessing Databases with Object-Oriented PHP.rar
+29/05/2017  09:10       324,525,707 Lynda - Test-Driven Development in PHP with PHPUnit.rar
+24/08/2014  10:38       369,387,970 Lynda - Up and Running with Symfony2 for PHP.rar
+25/12/2015  11:54       991,826,211 Oreilly - PHP Web Services Working With APIs and PHP.rar
+24/12/2015  15:33       393,727,187 Oreilly - Up to Speed with PHP 7.rar
+17/05/2017  13:34     2,067,023,908 StoneRiver - PHP Object Oriented Programming Fundamentals.rar
+25/12/2015  10:23       851,939,863 Tutsplus - Advanced OOP in PHP With Tests.rar
+07/01/2016  12:47     1,716,849,667 Udemy - Introduction to Modern Programming with PHP.rar
+20/01/2016  23:50     1,350,604,587 Udemy - Introduction to Testing with PHPUnit.rar
+24/12/2015  18:10     1,217,543,588 Udemy - Learn How to Extract Data From Websites with PHP.rar
+01/10/2016  20:58       745,080,113 Udemy - Learn PhalconPHP Framework.rar
+02/03/2016  21:35     2,596,870,231 Udemy - Learn Top Ten PHP FrameWorks By Building Projects.rar
+28/08/2017  09:58       630,218,201 Udemy - PHP MVC Login.rar
+01/10/2016  19:40     2,084,851,159 Udemy - PHP Object Oriented Programming Fundamentals.rar
+14/02/2016  17:48       159,597,999 Udemy - Write PHP Like a Pro Build an MVC Framework from Scratch.rar
+              16 File(s) 18,355,172,953 bytes
+               0 Dir(s)  104,274,911,232 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\PHP\Archieved
+
+08/10/2013  09:01       323,363,124 - Yii Music Store Tutorial.rar
+17/10/2014  21:21       867,794,072 Envato - Agile Design Patterns.rar
+25/01/2014  18:42     1,228,725,488 Infiniteskills - PHP Security.rar
+28/11/2014  10:18       389,782,516 Laracasts - Laravel 5 From Scratch.rar
+25/05/2014  14:18     2,440,753,645 Laravel Lessons - Clean and Classy PHP Framework.rar
+24/12/2015  15:32       480,916,563 Lynda - Code Clinic PHP.rar
+03/07/2014  18:56       474,843,830 Lynda - Creating Secure PHP Websites.rar
+07/02/2015  17:25       161,771,691 Lynda - Design Patterns in PHP.rar
+01/06/2014  13:55       460,367,622 Lynda - Exporting Data to Files with PHP.rar
+24/12/2015  14:57       831,337,574 Lynda - Introducing PHP.rar
+13/07/2015  23:39       333,758,909 Lynda - Managing PHP Persistent Sessions.rar
+28/08/2017  15:26       670,037,376 Lynda - PHP with MySQL Essential Training 1 The Basics.rar
+28/08/2017  15:26       618,355,538 Lynda - PHP with MySQL Essential Training 2 Build a CMS.rar
+24/10/2014  22:30       171,749,560 Lynda - Unit Testing with PHPUnit.rar
+08/12/2014  19:20       491,936,826 Lynda - Up and Running with Linux for PHP Developers.rar
+03/11/2014  19:39       423,219,832 Lynda - Up and Running with the Standard PHP Library.rar
+01/06/2014  12:52       315,740,093 Lynda - Uploading Files Securely With Php.rar
+09/09/2014  19:49       979,638,534 Oreilly - Intermediate PHP.rar
+24/12/2015  15:27       538,345,968 Oreilly - Learning Yii 2.rar
+16/08/2014  16:19     1,237,773,561 Packt - Beginning Yii.rar
+23/07/2015  21:19       198,025,373 Pluralsight - Object Oriented PHP Essential Constructs.rar
+24/12/2015  16:33       104,073,578 Pluralsight - What s New in PHP 7.rar
+20/06/2015  14:06       514,490,802 Skillfeed - PHP Object Oriented Programming Build a Login System.rar
+29/11/2014  16:28       112,326,412 Treehouse - Converting an HTML Site to a PHP Micro Framework.rar
+29/11/2014  13:31       150,771,920 Treehouse - Object-Oriented PHP Basics.rar
+28/11/2014  21:54       150,496,293 Treehouse - PHP Basics.rar
+04/07/2014  08:47     5,966,959,064 Treehouse - PHP Development.rar
+26/11/2014  21:17       225,878,318 Treehouse - Standards and Best Practices.rar
+03/11/2014  21:58     1,150,995,863 Tutsplus - Automated Testing With PHP.rar
+14/01/2014  10:01     1,505,853,168 Tutsplus - Build an eCommerce App in Laravel.rar
+20/01/2015  01:19       523,454,695 Tutsplus - Building Multitenant Apps in Laravel.rar
+27/01/2014  21:41       344,331,180 Tutsplus - Hands-on Build a Practical Web Application with Laravel.rar
+25/12/2013  21:03       503,645,702 Tutsplus - Object Oriented Design in PHP.rar
+25/05/2014  13:32     1,182,005,595 Tutsplus - OOP in PHP With Tests.rar
+05/04/2014  10:03       284,248,904 Tutsplus - PHP Object-Oriented Programming Fundamentals.rar
+31/05/2014  20:27       370,327,643 Tutsplus - PHP Security Pitfalls.rar
+07/06/2014  21:29       186,551,264 Tutsplus - PHP Testing Basics.rar
+15/07/2014  15:33     4,592,113,406 Tutsplus - PHP to Laravel Essentials.rar
+31/03/2014  13:41       921,729,871 Tutsplus - Use Composer.rar
+03/06/2014  11:31       260,489,167 Udemy - Learn PHP Model View Controller Pattern.rar
+07/04/2014  21:52       877,450,640 Udemy - PHP PDO, Custom Exception Handler, Namespaces for E-commerce.rar
+11/06/2014  20:30       477,124,018 Udemy - Writing Secure PHP Code.rar
+              42 File(s) 34,043,555,198 bytes
+               0 Dir(s)  104,274,907,136 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\React
+
+14/10/2018  08:55    <DIR>          .
+14/10/2018  08:55    <DIR>          ..
+16/07/2018  20:17    <DIR>          Archieved
+16/07/2018  20:19    <DIR>          Devslopes - React Flux
+16/07/2018  20:20    <DIR>          Frontend Masters - Complete Intro to React, v3 (feat. Redux, Router & Flow)
+16/07/2018  20:21    <DIR>          Frontend Masters - Firebase + React - Real-time, Serverless Web Apps
+16/07/2018  20:21    <DIR>          Lynda - Building and Deploying a Full-Stack React Application
+16/07/2018  20:21    <DIR>          Lynda - React - ES6, ES2016, and Beyond
+16/07/2018  20:21    <DIR>          Lynda - React - Lifecycles
+16/07/2018  20:22    <DIR>          Lynda - React Native Essential Training
+16/07/2018  20:22    <DIR>          Lynda - React.js Essential Training
+16/07/2018  20:24    <DIR>          Packt - Learning React.js User Interfaces
+16/07/2018  20:24    <DIR>          Packt - Redux End to End
+16/07/2018  20:24    <DIR>          Pluralsight - Advanced Redux
+16/07/2018  20:25    <DIR>          Pluralsight - Building Data-driven React Applications with Relay, GraphQL, and Flux
+16/07/2018  20:25    <DIR>          Pluralsight - React Creating Reusable Components
+16/07/2018  20:25    <DIR>          Pluralsight - ReactJS Advanced
+16/07/2018  20:26    <DIR>          Pluralsight - Reactjs on Rails Building Full Stack Web App
+16/07/2018  20:26    <DIR>          Udemy - Build Apps with React Native
+16/07/2018  20:27    <DIR>          Udemy - Learn and Understand React and Redux
+16/07/2018  20:29    <DIR>          Udemy - React 2nd Edition
+16/07/2018  20:29    <DIR>          Udemy - ReactJS Mastering Redux
+16/07/2018  20:30    <DIR>          Udemy - rxjs Reactive Angular Course
+16/07/2018  20:31    <DIR>          Udemy - The Complete React Native and Redux Course
+               0 File(s)              0 bytes
+              24 Dir(s)  104,275,017,728 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\React
+
+28/08/2017  11:43       232,705,992 Linkedin - Building a Web Interface with React.js.rar
+28/08/2017  11:44       594,055,427 Linkedin - Building and Deploying a Full-Stack React Application.rar
+15/07/2017  11:56       173,171,226 Linkedin - React Native Ecosystem and Workflow.rar
+29/05/2017  09:26       562,783,272 Lynda - Learning Redux.rar
+17/05/2017  13:20     1,618,402,162 Pluralsight - Test-Driven Development for React Redux in an Isomorphic Application.rar
+28/08/2017  10:05     1,605,721,962 Udemy - Graphql with React.rar
+28/08/2017  16:04     3,299,933,646 Udemy - Node with React Fullstack Web Development.rar
+08/07/2017  11:30     3,209,795,584 Wes Bos - React For Beginners.rar
+               8 File(s) 11,296,569,271 bytes
+               0 Dir(s)  104,275,013,632 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\React\Archieved
+
+07/01/2016  21:03       691,848,215 Lynda - Building a Polling App with Socket IO and React.js.rar
+28/01/2016  20:38     2,874,098,187 Oreilly - A Practical Introduction to React.js.rar
+10/11/2015  20:10       221,055,742 Oreilly - Getting Started with React and Angular.rar
+24/12/2015  16:30       335,923,153 Pluralsight - Building a Full-Stack App with React and Express.rar
+28/01/2016  20:35       340,394,970 Pluralsight - Building A Real Time Isomorphic App With React Flux WebPack And FireBase.rar
+07/01/2016  22:34       737,883,797 Pluralsight - Building Applications with React and Flux.rar
+04/08/2016  21:53       879,456,699 Pluralsight - Building Applications with React and Redux in ES6.rar
+01/10/2016  19:46       289,109,562 Pluralsight - React and Flux for Angular Developers.rar
+12/10/2015  16:52       178,925,758 Pluralsight - React.js Getting Started.rar
+25/12/2015  12:27     1,592,116,228 Tutsplus - Build a Microblogging App With Flux and React.rar
+01/10/2016  19:54     1,020,577,214 Tutsplus - Build a Social App With React Native.rar
+06/11/2015  23:36       804,714,805 Tutsplus - Building a Wiki With React and Firebase.rar
+09/01/2016  19:01       924,387,412 Tutsplus - Get Started With React Native.rar
+04/02/2015  19:16       663,247,778 Tutsplus - Getting Started With React.js.rar
+01/10/2016  21:36     1,435,243,439 Tutsplus - Modern Web Apps With React and Redux.rar
+01/10/2016  20:51       827,762,601 Tutsplus - React Deep Dive Build A React App With Webpack.rar
+01/10/2016  20:10     1,410,467,136 Udemy - Advanced React and Redux.rar
+01/10/2016  20:45       535,957,054 Udemy - Build Apps With React Native.rar
+04/10/2015  20:35     1,553,990,281 Udemy - Build Web Apps with React JS and Flux.rar
+04/08/2016  21:46       257,022,049 Udemy - Master ReactJS Learn React JS from Scratch.rar
+09/01/2016  20:15       998,668,825 Udemy - Modern React with Redux.rar
+07/01/2016  20:35       248,279,603 Udemy - React Tooling and Development Workflow in Action.rar
+01/10/2016  21:11     1,266,045,492 Udemy - ReactJS and Flux Learn By Building 10 Projects.rar
+10/05/2016  22:36     2,490,152,358 Udemy - ReactJS and Flux Web Development For Beginners.rar
+23/12/2016  16:25     6,767,388,337 Udemy - The Complete React Web App Developer Course.rar
+              25 File(s) 29,344,716,695 bytes
+               0 Dir(s)  104,275,009,536 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Vue
+
+14/10/2018  08:56    <DIR>          .
+14/10/2018  08:56    <DIR>          ..
+16/07/2018  20:32    <DIR>          Frontend Masters - Introduction to Vue.js
+16/07/2018  20:33    <DIR>          Laracasts - Laravel and Vue
+16/07/2018  20:33    <DIR>          Laracasts - Vue 2 Step By Step
+16/07/2018  20:33    <DIR>          Lynda - Up and Running in Vue
+16/07/2018  20:34    <DIR>          Packt - Building Your First Advanced CRUD Application with Vue 2
+16/07/2018  20:38    <DIR>          Packt - The Ultimate Vue JS 2 Developers Course
+16/07/2018  20:38    <DIR>          Packt - Web Development with Vue.js 2
+16/07/2018  20:40    <DIR>          Udemy - Vue JS 2 The Complete Guide (incl. Vue Router & Vuex)
+16/07/2018  20:40    <DIR>          Udemy - Vue Web Apps
+16/07/2018  20:41    <DIR>          Udemy - VueJS from Beginner to Professional
+               0 File(s)              0 bytes
+              12 Dir(s)  104,275,005,440 bytes free
+
+ Directory of F:\VIDEO TUTORIALS\Vue
+
+28/08/2017  09:52     1,962,847,212 Udemy - VueJS 2 Essentials.rar
+17/05/2017  15:07     3,755,063,327 Udemy - VueJS 2 The Complete Guide.rar
+               2 File(s)  5,717,910,539 bytes
+               0 Dir(s)  104,275,005,440 bytes free
+
+____
+2 TB
+____
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20180930\tutorials
+
+14/10/2018  09:17    <DIR>          .
+14/10/2018  09:17    <DIR>          ..
+30/09/2018  19:11    <DIR>          Docker Fundamentals
+30/09/2018  19:15    <DIR>          Full-stack JavaScript with Node and React
+30/09/2018  19:26    <DIR>          Laravel
+30/09/2018  19:26    <DIR>          Laravel Kitap
+30/09/2018  19:26    <DIR>          Linkedin - Express Essential Training
+30/09/2018  19:27    <DIR>          Linkedin - PHP Object-oriented Programming Databases
+30/09/2018  19:27    <DIR>          Lynda - Databases-Node-js-Developers
+30/09/2018  19:27    <DIR>          Lynda - JavaScript Essential Training
+30/09/2018  19:27    <DIR>          Lynda - Laravel 5 Essential Training 1 Basics
+30/09/2018  19:27    <DIR>          Oreilly - Serverless Fundamentals for Microservices
+30/09/2018  19:27    <DIR>          Packt - Mastering TypeScript
+30/09/2018  19:28    <DIR>          Packt - Serverless Javascript by Example
+30/09/2018  19:28    <DIR>          Pluralsight - Building Javascript Development Environment
+30/09/2018  19:28    <DIR>          Pluralsight - Building Real-time Apps with React, Socket.io, and RethinkDB
+30/09/2018  19:28    <DIR>          React Kitab’
+30/09/2018  19:29    <DIR>          Udemy - Building Data-driven React Applications with GraphQL
+30/09/2018  19:29    <DIR>          Udemy - Byte-Sized-Chunks Dynamic Prototypes in Javascript
+30/09/2018  19:30    <DIR>          Udemy - Complete Javascript ES6 Course
+30/09/2018  19:30    <DIR>          Udemy - Fundamentals of VueJS
+30/09/2018  19:32    <DIR>          Udemy - Learn PHP Programming from Scratch
+30/09/2018  19:32    <DIR>          Udemy - Master Advanced JavaScript React
+30/09/2018  19:32    <DIR>          Udemy - Mastering PHP PDO PHP Data Objects with CRUD Application
+30/09/2018  19:35    <DIR>          Udemy - MERN Stack Front To Back Full Stack React, Redux & Node.js
+30/09/2018  19:35    <DIR>          Udemy - Modern JavaScript From The Beginning
+30/09/2018  19:36    <DIR>          Udemy - Modern Javascript Mastering ES6 And ES7
+30/09/2018  19:36    <DIR>          Udemy - Nuxt.js Vue.js on Steroids
+30/09/2018  19:36    <DIR>          Udemy - Projects Electron Building Apps
+30/09/2018  19:37    <DIR>          Udemy - React Up and Running with React ES6 and Open Source API
+30/09/2018  19:37    <DIR>          Udemy - Redux JS
+30/09/2018  19:40    <DIR>          Udemy - Vuejs 2 The Complete Guide
+               0 File(s)              0 bytes
+              32 Dir(s)  987,113,910,272 bytes free
+
+ Directory of F:\20180930\tutorials\Laravel
+
+14/10/2018  09:18    <DIR>          .
+14/10/2018  09:18    <DIR>          ..
+30/09/2018  19:20    <DIR>          - Laracon 2016 Talk Recordings
+30/09/2018  19:20    <DIR>          -- silinebilir belki -- Bitfumes - Laravel 5.4
+30/09/2018  19:21    <DIR>          -- silinebilir belki youtubeda var ayn’s’ son 2 video yok listede ama -- tutor - myMovieDB
+30/09/2018  19:21    <DIR>          Codecourse - Laravel Youtube Clone
+30/09/2018  19:22    <DIR>          Codecourse - Learn Laravel
+30/09/2018  19:26    <DIR>          Laracasts
+30/09/2018  19:26    <DIR>          Laravel Kitap
+30/09/2018  19:26    <DIR>          Udemy - RESTful API with Laravel 5.4 Definitive Guide
+               0 File(s)              0 bytes
+              10 Dir(s)  987,113,906,176 bytes free
+
+ Directory of F:\20180930\tutorials\Laravel
+
+07/11/2013  04:05       351,977,909 -- silibebilir belki -- Tutsplus - Testing Tricks for PHP and Laravel Developers.rar
+01/10/2016  19:51       302,642,320 Pluralsight - RESTful Web Services with PHP and Laravel.rar
+14/01/2014  10:01     1,505,853,168 Tutsplus - Build an eCommerce App in Laravel.rar
+08/07/2017  11:34       355,756,487 Tutsplus - Build Your First Laravel Site.rar
+20/01/2015  01:19       523,454,695 Tutsplus - Building Multitenant Apps in Laravel.rar
+27/01/2014  21:41       344,331,180 Tutsplus - Hands-on Build a Practical Web Application with Laravel.rar
+29/01/2014  18:10       336,285,519 Tutsplus - Rails or Laravel  Building an App Twice.rar
+02/03/2016  21:37       595,191,354 Udemy - A Very Complete Introduction To Laravel.rar
+10/11/2015  19:57     1,360,440,619 Udemy - Everything About Laravel.rar
+24/12/2015  17:59       282,050,036 Udemy - Laravel 5.1 for Beginners Tutorial.rar
+10/01/2016  10:36       236,790,399 Udemy - Laravel PHP Framework Jump Start For Beginners.rar
+11/01/2016  18:57       863,389,190 Udemy - Learn to Build Web Apps using Laravel Framework.rar
+01/10/2016  21:03     2,421,431,520 Udemy - Modern Web Development with Laravel.rar
+              13 File(s)  9,479,594,396 bytes
+               0 Dir(s)  987,113,902,080 bytes free
+
+ Directory of F:\20180930\tutorials\Laravel\Laracasts
+
+14/10/2018  09:19    <DIR>          .
+14/10/2018  09:19    <DIR>          ..
+30/09/2018  19:25    <DIR>          -- X
+30/09/2018  19:25    <DIR>          Advanced Eloquent
+30/09/2018  19:25    <DIR>          Billing With Stripe
+30/09/2018  19:25    <DIR>          Commands and Domain Events
+30/09/2018  19:25    <DIR>          Digging In
+30/09/2018  19:25    <DIR>          How to be Awesome in PHPStorm
+30/09/2018  19:25    <DIR>          Incremental APIs
+30/09/2018  19:25    <DIR>          Laravel Forge
+30/09/2018  19:25    <DIR>          Laravel From Scratch
+30/09/2018  19:25    <DIR>          Let's Build Larabook From Scratch
+30/09/2018  19:25    <DIR>          Modern CSS Workflow
+30/09/2018  19:25    <DIR>          SOLID Principles in PHP
+30/09/2018  19:25    <DIR>          The Lifecycle of a New Feature
+30/09/2018  19:25    <DIR>          tutor - Laravel
+30/09/2018  19:25    <DIR>          Understand Regular Expressions
+30/09/2018  19:26    <DIR>          VueJS
+               0 File(s)              0 bytes
+              18 Dir(s)  987,113,897,984 bytes free
+
+ Directory of F:\20180930\tutorials\Laravel\Laracasts
+
+18/08/2014  10:05       786,055,682 Laracasts - Build Larabook From Scratch.rar
+01/10/2016  21:04       330,622,457 Laracasts - Design Patterns in PHP.rar
+16/10/2017  15:17       235,670,256 Laracasts - How to be Awesome in PHPStorm.rar
+24/12/2015  15:20       608,619,440 Laracasts - Intermediate Laravel.rar
+28/11/2014  10:18       389,782,516 Laracasts - Laravel 5 From Scratch.rar
+28/03/2015  13:26     1,602,835,533 Laracasts - Laravel 5 Fundamentals.rar
+20/06/2015  12:57       171,862,644 Laracasts - Laravel and the Front-end (2014).rar
+25/05/2014  14:18     2,440,753,645 Laracasts - Laravel Lessons Clean and Classy PHP Framework.rar
+24/12/2015  15:21       463,304,575 Laracasts - PHP OOP.rar
+03/11/2014  23:04       411,274,422 Laracasts - What's New in Laravel 5.0.rar
+              10 File(s)  7,440,781,170 bytes
+               0 Dir(s)  987,113,893,888 bytes free
+
+ Directory of F:\20181013
+
+14/10/2018  09:37    <DIR>          .
+14/10/2018  09:37    <DIR>          ..
+30/09/2018  11:33    <DIR>          - A JavaScript War Card Game Project from Scratch
+30/09/2018  11:47    <DIR>          - Flutter Advanced Course
+02/10/2018  18:51    <DIR>          - JSFullstacker - Master React to build real-world web applications
+30/09/2018  13:11    <DIR>          - python-net-developer
+30/09/2018  11:33    <DIR>          - Responsive Coffee Shop Website with CSS3 GRID and Javascript
+02/10/2018  18:49    <DIR>          - The Complete JavaScript Developer - A Primer to Full Stack JS
+30/09/2018  11:43    <DIR>          Adam Wathan - Advanced Vue Component Design
+30/09/2018  11:46    <DIR>          Apress - creating-database-sqlite
+02/10/2018  18:41    <DIR>          Egghead - Develop Web Apps with VueJS
+03/10/2018  20:13    <DIR>          Frontend Master - Intermediate React
+30/09/2018  11:49    <DIR>          Frontend Masters - A Practical Guide to Algorithms with JavaScript
+02/10/2018  18:50    <DIR>          Frontend Masters - Advanced Vue.js Features from the Ground Up
+03/10/2018  20:14    <DIR>          Frontend Masters - Complete Intro to React v4
+30/09/2018  11:55    <DIR>          Frontend Masters - Complete Intro to Web Development, v2
+11/10/2018  17:44    <DIR>          Frontend Masters - Deep JavaScript Foundations
+02/10/2018  18:41    <DIR>          Frontend Masters - Introducing Advanced React Patterns
+30/09/2018  11:55    <DIR>          Frontend Masters - Introduction to JavaScript Programming
+02/10/2018  18:51    <DIR>          Frontend Masters - JavaScript The New Hard Parts
+30/09/2018  11:57    <DIR>          Frontend Masters - Testing Practices and Principles
+13/10/2018  07:51    <DIR>          Laracasts - Be Awesome in PHPStorm
+12/10/2018  07:39    <DIR>          Laracasts - Design Patterns in PHP
+07/10/2018  22:15    <DIR>          Laracasts - Do You React
+13/10/2018  07:51    <DIR>          Laracasts - Get Real with Laravel Echo
+30/09/2018  12:14    <DIR>          Laracasts - How to Read Code
+13/10/2018  07:52    <DIR>          Laracasts - Intermediate Laravel
+13/10/2018  07:52    <DIR>          Laracasts - Laravel Authentication Techniques
+03/10/2018  20:14    <DIR>          Laracasts - Learn Laravel Forge
+12/10/2018  07:39    <DIR>          Laracasts - Learn Laravel Mix
+09/10/2018  20:00    <DIR>          Laracasts - Learn Vue 2 Step by Step
+11/10/2018  17:45    <DIR>          Laracasts - Lets Build a Forum with Laravel
+13/10/2018  07:54    <DIR>          Laracasts - Modern CSS for Backend Developers
+13/10/2018  07:54    <DIR>          Laracasts - PHP for Beginners
+13/10/2018  07:59    <DIR>          Laracasts - Realtime Laravel with Socket.io
+07/10/2018  22:16    <DIR>          Laracasts - Testing Vue
+30/09/2018  12:23    <DIR>          Level UpTutorials - Level 2 React
+02/10/2018  18:42    <DIR>          Level UpTutorials - Vue.js For Everyone
+30/09/2018  12:13    <DIR>          Linkedin - JavaScript Essential Training
+02/10/2018  18:51    <DIR>          Linkedin - Learning Vue.js
+30/09/2018  12:24    <DIR>          Linkedin - The DOM in JavaScript, jQuery, AngularJS, and React
+13/10/2018  07:54    <DIR>          Linkedin - Vanilla Javascript Progressive Web Applications
+13/10/2018  07:55    <DIR>          Lynda - Advanced PHP
+30/09/2018  12:30    <DIR>          Lynda - API Development in .NET with GraphQL
+02/10/2018  18:42    <DIR>          Lynda - Building APIs in PHP Using the Slim Micro Framework
+07/10/2018  22:16    <DIR>          Lynda - Consuming RESTful APIs in PHP with Guzzle
+30/09/2018  12:31    <DIR>          Lynda - Entity Framework Core Essential Training - 1
+02/10/2018  18:51    <DIR>          Lynda - Organizing JavaScript Functionality
+07/10/2018  22:17    <DIR>          Lynda - PHP Object-Oriented Programming Databases
+11/10/2018  17:45    <DIR>          Lynda - PHP-Object-Oriented-Programming
+30/09/2018  12:29    <DIR>          Lynda - Webpack for React Applications
+30/09/2018  17:21    <DIR>          Packt -  A Beginner's Guide to Web Development
+30/09/2018  12:46    <DIR>          Packt - A JavaScript Projects AJAX Information Application Exercise
+30/09/2018  12:51    <DIR>          Packt - A RESTful API Node Exercise for Beginners JavaScript and JQuery
+30/09/2018  12:52    <DIR>          Packt - A Twitter API JavaScript Node Exercise
+30/09/2018  12:52    <DIR>          Packt - An Interactive Introduction to JavaScript DOM
+02/10/2018  15:56    <DIR>          Packt - Beginners Guide to Backend Development
+30/09/2018  12:53    <DIR>          Packt - Beginning Devops with Docker
+30/09/2018  12:53    <DIR>          Packt - Beginning Graphql
+02/10/2018  18:52    <DIR>          Packt - Beginning Object-Oriented Programming with JavaScript
+02/10/2018  18:52    <DIR>          Packt - Getting Started with Modern Python
+02/10/2018  18:52    <DIR>          Packt - Hands-on Application Building with GraphQL
+30/09/2018  12:55    <DIR>          Packt - Hands-on MEAN Stack Web Development
+02/10/2018  18:42    <DIR>          Packt - Hands-on Web Development with Javascript
+02/10/2018  15:57    <DIR>          Packt - Hands-on Web Development with React
+02/10/2018  15:58    <DIR>          Packt - Hands-on Web Development with Typescript 3
+30/09/2018  18:13    <DIR>          Packt - Isomorphic Javascript with MEVN stack
+30/09/2018  12:57    <DIR>          Packt - JavaScript A Breakout Game Exercise
+30/09/2018  12:57    <DIR>          Packt - Learn JSON with this JSON Checklist Practice Exercise
+30/09/2018  14:33    <DIR>          Packt - Learning Ecmascript 2017
+30/09/2018  13:00    <DIR>          Packt - Learning MongoDB Schema, Indexes and Queries
+02/10/2018  18:42    <DIR>          Packt - Mastering Clean Code in JavaScript
+02/10/2018  18:53    <DIR>          Packt - Object Oriented PHP and MVC
+02/10/2018  15:58    <DIR>          Packt - Professional Devops
+09/10/2018  12:07    <DIR>          Packt - Python for the .NET Developer
+02/10/2018  18:42    <DIR>          Packt - React Native - The Practical Guide
+02/10/2018  15:55    <DIR>          Packt - Real World Projects with Vuejs
+30/09/2018  13:02    <DIR>          Pearson - Kotlin from Ground Up
+30/09/2018  13:06    <DIR>          Pirple - The Node.js Master Class - No Frameworks, No NPM
+01/10/2018  21:40    <DIR>          Pluralsight - Advanced JavaScript
+30/09/2018  13:07    <DIR>          Pluralsight - ASP.NET Core 2.0 Razor Playbook
+30/09/2018  13:10    <DIR>          Pluralsight - ASP.NET Core Fundamentals
+05/10/2018  13:33    <DIR>          Pluralsight - Become a Full-stack .NET Developer
+02/10/2018  18:53    <DIR>          Pluralsight - Building Command Line Applications in Node js
+30/09/2018  13:11    <DIR>          Pluralsight - Containerizing Angular Applications with Docker
+02/10/2018  18:53    <DIR>          Pluralsight - Play by Play Visual Studio Code Can Do That
+30/09/2018  13:12    <DIR>          Skillshare - Build An eCommerce Website From Scratch With PHP & Bootstrap
+02/10/2018  18:43    <DIR>          Skillshare - Complete Javascript Toolkit
+12/10/2018  07:39    <DIR>          Treehouse - crud-operations-with-php
+12/10/2018  07:40    <DIR>          Treehouse - designing-interfaces-in-php
+02/10/2018  18:43    <DIR>          Treehouse - Object-oriented Javascript Example
+02/10/2018  18:43    <DIR>          Treehouse - Vue Js Basics
+02/10/2018  18:43    <DIR>          Tutsplus - Advanced JavaScript Fundamentals
+30/09/2018  13:13    <DIR>          Tutsplus - Authentication with Laravel
+02/10/2018  18:43    <DIR>          Tutsplus - Build a REST API With Laravel
+03/10/2018  20:14    <DIR>          Tutsplus - Build your First Laravel Site
+02/10/2018  15:57    <DIR>          TutsPlus - Building JavaScript Web Apps
+30/09/2018  13:13    <DIR>          Tutsplus - How it works Laravel Eloquent ORM
+07/10/2018  22:09    <DIR>          Tutsplus - How it Works Laravel Middleware
+02/10/2018  18:53    <DIR>          Tyler McGinnis - React Fundamentals
+30/09/2018  14:35    <DIR>          Udemy - Accelerated ES6 JavaScript Training
+02/10/2018  18:54    <DIR>          Udemy - Angular Crash Course for Busy Developers
+30/09/2018  13:17    <DIR>          Udemy - ASP.NET Web Api and Angularjs Development to Deployment
+02/10/2018  16:12    <DIR>          Udemy - Become a JavaScript developer - Learn (React, Node,Angular)
+02/10/2018  18:54    <DIR>          Udemy - Beginner Firebase and Vue.js
+02/10/2018  18:44    <DIR>          Udemy - Build APIs Using NodeJS Express MongoDB Mongoose
+09/10/2018  20:06    <DIR>          Udemy - Complete Python Bootcamp
+30/09/2018  13:20    <DIR>          Udemy - Create a Spotify Clone from Scratch - JavaScript, PHP, MySQL
+30/09/2018  13:31    <DIR>          Udemy - Devops Beginners Bundle
+03/10/2018  20:15    <DIR>          Udemy - Docker Mastery
+30/09/2018  13:31    <DIR>          Udemy - Dynamic JavaScript Master Class AJAX JSON Simple APIs
+01/10/2018  21:36    <DIR>          Udemy - Entity Framework In Depth The Complete Guide
+09/10/2018  20:08    <DIR>          Udemy - Full-Stack React with GraphQL and Apollo Boost
+30/09/2018  13:32    <DIR>          Udemy - Git Github Version Control Complete Guide
+02/10/2018  16:15    <DIR>          Udemy - JavaScript Algorithms
+02/10/2018  16:33    <DIR>          Udemy - JavaScript Algorithms and Data Structures Masterclass
+07/10/2018  22:09    <DIR>          Udemy - JavaScript and React for Developers Master the Essentials
+30/09/2018  14:38    <DIR>          Udemy - JavaScript Basics for Beginners
+02/10/2018  18:45    <DIR>          Udemy - JavaScript Guide The Complete Guide to Master JavaScript
+02/10/2018  18:54    <DIR>          Udemy - JavaScript Objects - Explore and learn about Objects
+02/10/2018  15:58    <DIR>          Udemy - Javascript React Developers Master Essentials
+03/10/2018  20:11    <DIR>          Udemy - Javascript Rules for JavaScript foundation& Object Oriented
+02/10/2018  18:46    <DIR>          Udemy - Javascript Weather Application
+30/09/2018  11:33    <DIR>          Udemy - Laravel 5.6 Course Super-fast Prototyping Techniques
+07/10/2018  22:10    <DIR>          Udemy - Learn C# By Building Applications
+30/09/2018  13:51    <DIR>          Udemy - Learn JavaScript The Fun Way by Developing a Clicker Game
+05/10/2018  13:44    <DIR>          Udemy - Learn Laravel 5 Framework by building a professional Website
+07/10/2018  22:12    <DIR>          Udemy - Learn PHP Symfony 4 Hands-On Creating Real World Application
+07/10/2018  22:13    <DIR>          Udemy - Learn React - The Complete Guide to Master React
+30/09/2018  12:22    <DIR>          Udemy - Let's Create A Nodejs Desktop Chat Application
+30/09/2018  13:51    <DIR>          Udemy - Login, Registration and Profile Management in PHPMYSQL 2018
+30/09/2018  12:45    <DIR>          Udemy - MERN Stack Front to Back
+11/10/2018  17:46    <DIR>          Udemy - Modern Javascript from the Beginning
+09/10/2018  12:08    <DIR>          Udemy - NodeJS Master Class No Frameworks
+02/10/2018  18:54    <DIR>          Udemy - Nuxt.js Vue.js on Steroids
+30/09/2018  13:55    <DIR>          Udemy - Object Oriented PHP, Ajax, Flexbox Build Messenger App
+12/10/2018  07:40    <DIR>          Udemy - Object-oriented Programming in JavaScript
+02/10/2018  18:54    <DIR>          Udemy - OOP Object Oriented Programming In PHP 7
+02/10/2018  18:56    <DIR>          Udemy - Professional Blog+CMS Development With Laravel 5
+02/10/2018  18:46    <DIR>          Udemy - Projects in Electron Learn Electron Framework Building Apps
+07/10/2018  22:13    <DIR>          Udemy - Python 3 E-learning Text-to-Speech Alphabet application
+30/09/2018  14:01    <DIR>          Udemy - Python 3 The complete Database management system in 2018
+30/09/2018  14:03    <DIR>          Udemy - React for Absolute Beginners
+30/09/2018  14:15    <DIR>          Udemy - React Front To Back
+12/10/2018  07:38    <DIR>          Udemy - React Redux Firebase CRUD App with Authentication
+07/10/2018  22:13    <DIR>          Udemy - REST WCF Service for Web Applications in ASP.NET Hands-On
+07/10/2018  22:14    <DIR>          Udemy - SAP ABAP Programming For Beginners - Online Training
+07/10/2018  22:14    <DIR>          Udemy - Server Side Rendering with React and Redux
+07/10/2018  22:15    <DIR>          Udemy - The Complete Python Developer Course
+30/09/2018  14:26    <DIR>          Udemy - The Complete Web Developer in 2018 Zero to Mastery
+02/10/2018  18:49    <DIR>          Udemy - The Modern JavaScript Bootcamp (2018)
+30/09/2018  14:31    <DIR>          Udemy - The Node.js Master Class No Frameworks, No NPM
+30/09/2018  14:31    <DIR>          Udemy - Understand Javascript
+02/10/2018  18:56    <DIR>          Udemy - Web Scraping with Nodejs
+30/09/2018  14:33    <DIR>          WintellectNow - Asynchronous Programming in JavaScript
+               0 File(s)              0 bytes
+             155 Dir(s)  987,111,780,352 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181013
+
+17/10/2018  20:12    <DIR>          .
+17/10/2018  20:12    <DIR>          ..
+30/09/2018  11:33    <DIR>          - A JavaScript War Card Game Project from Scratch
+30/09/2018  11:47    <DIR>          - Flutter Advanced Course
+02/10/2018  18:51    <DIR>          - JSFullstacker - Master React to build real-world web applications
+30/09/2018  13:11    <DIR>          - python-net-developer
+30/09/2018  11:33    <DIR>          - Responsive Coffee Shop Website with CSS3 GRID and Javascript
+02/10/2018  18:49    <DIR>          - The Complete JavaScript Developer - A Primer to Full Stack JS
+30/09/2018  11:43    <DIR>          Adam Wathan - Advanced Vue Component Design
+30/09/2018  11:46    <DIR>          Apress - creating-database-sqlite
+02/10/2018  18:41    <DIR>          Egghead - Develop Web Apps with VueJS
+03/10/2018  20:13    <DIR>          Frontend Master - Intermediate React
+30/09/2018  11:49    <DIR>          Frontend Masters - A Practical Guide to Algorithms with JavaScript
+02/10/2018  18:50    <DIR>          Frontend Masters - Advanced Vue.js Features from the Ground Up
+03/10/2018  20:14    <DIR>          Frontend Masters - Complete Intro to React v4
+30/09/2018  11:55    <DIR>          Frontend Masters - Complete Intro to Web Development, v2
+02/10/2018  18:41    <DIR>          Frontend Masters - Introducing Advanced React Patterns
+30/09/2018  11:55    <DIR>          Frontend Masters - Introduction to JavaScript Programming
+02/10/2018  18:51    <DIR>          Frontend Masters - JavaScript The New Hard Parts
+30/09/2018  11:57    <DIR>          Frontend Masters - Testing Practices and Principles
+07/10/2018  22:15    <DIR>          Laracasts - Do You React
+30/09/2018  12:14    <DIR>          Laracasts - How to Read Code
+03/10/2018  20:14    <DIR>          Laracasts - Learn Laravel Forge
+07/10/2018  22:16    <DIR>          Laracasts - Testing Vue
+30/09/2018  12:23    <DIR>          Level UpTutorials - Level 2 React
+02/10/2018  18:42    <DIR>          Level UpTutorials - Vue.js For Everyone
+30/09/2018  12:13    <DIR>          Linkedin - JavaScript Essential Training
+02/10/2018  18:51    <DIR>          Linkedin - Learning Vue.js
+30/09/2018  12:24    <DIR>          Linkedin - The DOM in JavaScript, jQuery, AngularJS, and React
+30/09/2018  12:30    <DIR>          Lynda - API Development in .NET with GraphQL
+02/10/2018  18:42    <DIR>          Lynda - Building APIs in PHP Using the Slim Micro Framework
+07/10/2018  22:16    <DIR>          Lynda - Consuming RESTful APIs in PHP with Guzzle
+30/09/2018  12:31    <DIR>          Lynda - Entity Framework Core Essential Training - 1
+02/10/2018  18:51    <DIR>          Lynda - Organizing JavaScript Functionality
+07/10/2018  22:17    <DIR>          Lynda - PHP Object-Oriented Programming Databases
+30/09/2018  12:29    <DIR>          Lynda - Webpack for React Applications
+30/09/2018  17:21    <DIR>          Packt -  A Beginner's Guide to Web Development
+30/09/2018  12:46    <DIR>          Packt - A JavaScript Projects AJAX Information Application Exercise
+30/09/2018  12:51    <DIR>          Packt - A RESTful API Node Exercise for Beginners JavaScript and JQuery
+30/09/2018  12:52    <DIR>          Packt - A Twitter API JavaScript Node Exercise
+30/09/2018  12:52    <DIR>          Packt - An Interactive Introduction to JavaScript DOM
+02/10/2018  15:56    <DIR>          Packt - Beginners Guide to Backend Development
+30/09/2018  12:53    <DIR>          Packt - Beginning Devops with Docker
+30/09/2018  12:53    <DIR>          Packt - Beginning Graphql
+02/10/2018  18:52    <DIR>          Packt - Beginning Object-Oriented Programming with JavaScript
+02/10/2018  18:52    <DIR>          Packt - Getting Started with Modern Python
+02/10/2018  18:52    <DIR>          Packt - Hands-on Application Building with GraphQL
+30/09/2018  12:55    <DIR>          Packt - Hands-on MEAN Stack Web Development
+02/10/2018  18:42    <DIR>          Packt - Hands-on Web Development with Javascript
+02/10/2018  15:57    <DIR>          Packt - Hands-on Web Development with React
+02/10/2018  15:58    <DIR>          Packt - Hands-on Web Development with Typescript 3
+30/09/2018  18:13    <DIR>          Packt - Isomorphic Javascript with MEVN stack
+30/09/2018  12:57    <DIR>          Packt - JavaScript A Breakout Game Exercise
+30/09/2018  12:57    <DIR>          Packt - Learn JSON with this JSON Checklist Practice Exercise
+30/09/2018  14:33    <DIR>          Packt - Learning Ecmascript 2017
+30/09/2018  13:00    <DIR>          Packt - Learning MongoDB Schema, Indexes and Queries
+02/10/2018  18:42    <DIR>          Packt - Mastering Clean Code in JavaScript
+02/10/2018  18:53    <DIR>          Packt - Object Oriented PHP and MVC
+02/10/2018  15:58    <DIR>          Packt - Professional Devops
+02/10/2018  18:42    <DIR>          Packt - React Native - The Practical Guide
+02/10/2018  15:55    <DIR>          Packt - Real World Projects with Vuejs
+30/09/2018  13:02    <DIR>          Pearson - Kotlin from Ground Up
+30/09/2018  13:06    <DIR>          Pirple - The Node.js Master Class - No Frameworks, No NPM
+01/10/2018  21:40    <DIR>          Pluralsight - Advanced JavaScript
+30/09/2018  13:07    <DIR>          Pluralsight - ASP.NET Core 2.0 Razor Playbook
+30/09/2018  13:10    <DIR>          Pluralsight - ASP.NET Core Fundamentals
+05/10/2018  13:33    <DIR>          Pluralsight - Become a Full-stack .NET Developer
+02/10/2018  18:53    <DIR>          Pluralsight - Building Command Line Applications in Node js
+30/09/2018  13:11    <DIR>          Pluralsight - Containerizing Angular Applications with Docker
+02/10/2018  18:53    <DIR>          Pluralsight - Play by Play Visual Studio Code Can Do That
+30/09/2018  13:12    <DIR>          Skillshare - Build An eCommerce Website From Scratch With PHP & Bootstrap
+02/10/2018  18:43    <DIR>          Skillshare - Complete Javascript Toolkit
+02/10/2018  18:43    <DIR>          Treehouse - Object-oriented Javascript Example
+02/10/2018  18:43    <DIR>          Treehouse - Vue Js Basics
+02/10/2018  18:43    <DIR>          Tutsplus - Advanced JavaScript Fundamentals
+30/09/2018  13:13    <DIR>          Tutsplus - Authentication with Laravel
+02/10/2018  18:43    <DIR>          Tutsplus - Build a REST API With Laravel
+03/10/2018  20:14    <DIR>          Tutsplus - Build your First Laravel Site
+02/10/2018  15:57    <DIR>          TutsPlus - Building JavaScript Web Apps
+30/09/2018  13:13    <DIR>          Tutsplus - How it works Laravel Eloquent ORM
+07/10/2018  22:09    <DIR>          Tutsplus - How it Works Laravel Middleware
+02/10/2018  18:53    <DIR>          Tyler McGinnis - React Fundamentals
+30/09/2018  14:35    <DIR>          Udemy - Accelerated ES6 JavaScript Training
+02/10/2018  18:54    <DIR>          Udemy - Angular Crash Course for Busy Developers
+30/09/2018  13:17    <DIR>          Udemy - ASP.NET Web Api and Angularjs Development to Deployment
+02/10/2018  16:12    <DIR>          Udemy - Become a JavaScript developer - Learn (React, Node,Angular)
+02/10/2018  18:54    <DIR>          Udemy - Beginner Firebase and Vue.js
+02/10/2018  18:44    <DIR>          Udemy - Build APIs Using NodeJS Express MongoDB Mongoose
+30/09/2018  13:20    <DIR>          Udemy - Create a Spotify Clone from Scratch - JavaScript, PHP, MySQL
+30/09/2018  13:31    <DIR>          Udemy - Devops Beginners Bundle
+03/10/2018  20:15    <DIR>          Udemy - Docker Mastery
+30/09/2018  13:31    <DIR>          Udemy - Dynamic JavaScript Master Class AJAX JSON Simple APIs
+01/10/2018  21:36    <DIR>          Udemy - Entity Framework In Depth The Complete Guide
+30/09/2018  13:32    <DIR>          Udemy - Git Github Version Control Complete Guide
+02/10/2018  16:15    <DIR>          Udemy - JavaScript Algorithms
+02/10/2018  16:33    <DIR>          Udemy - JavaScript Algorithms and Data Structures Masterclass
+07/10/2018  22:09    <DIR>          Udemy - JavaScript and React for Developers Master the Essentials
+30/09/2018  14:38    <DIR>          Udemy - JavaScript Basics for Beginners
+02/10/2018  18:45    <DIR>          Udemy - JavaScript Guide The Complete Guide to Master JavaScript
+02/10/2018  18:54    <DIR>          Udemy - JavaScript Objects - Explore and learn about Objects
+02/10/2018  15:58    <DIR>          Udemy - Javascript React Developers Master Essentials
+03/10/2018  20:11    <DIR>          Udemy - Javascript Rules for JavaScript foundation& Object Oriented
+02/10/2018  18:46    <DIR>          Udemy - Javascript Weather Application
+30/09/2018  11:33    <DIR>          Udemy - Laravel 5.6 Course Super-fast Prototyping Techniques
+07/10/2018  22:10    <DIR>          Udemy - Learn C# By Building Applications
+30/09/2018  13:51    <DIR>          Udemy - Learn JavaScript The Fun Way by Developing a Clicker Game
+05/10/2018  13:44    <DIR>          Udemy - Learn Laravel 5 Framework by building a professional Website
+07/10/2018  22:12    <DIR>          Udemy - Learn PHP Symfony 4 Hands-On Creating Real World Application
+07/10/2018  22:13    <DIR>          Udemy - Learn React - The Complete Guide to Master React
+30/09/2018  12:22    <DIR>          Udemy - Let's Create A Nodejs Desktop Chat Application
+30/09/2018  13:51    <DIR>          Udemy - Login, Registration and Profile Management in PHPMYSQL 2018
+30/09/2018  12:45    <DIR>          Udemy - MERN Stack Front to Back
+02/10/2018  18:54    <DIR>          Udemy - Nuxt.js Vue.js on Steroids
+30/09/2018  13:55    <DIR>          Udemy - Object Oriented PHP, Ajax, Flexbox Build Messenger App
+02/10/2018  18:54    <DIR>          Udemy - OOP Object Oriented Programming In PHP 7
+02/10/2018  18:56    <DIR>          Udemy - Professional Blog+CMS Development With Laravel 5
+02/10/2018  18:46    <DIR>          Udemy - Projects in Electron Learn Electron Framework Building Apps
+07/10/2018  22:13    <DIR>          Udemy - Python 3 E-learning Text-to-Speech Alphabet application
+30/09/2018  14:01    <DIR>          Udemy - Python 3 The complete Database management system in 2018
+30/09/2018  14:03    <DIR>          Udemy - React for Absolute Beginners
+30/09/2018  14:15    <DIR>          Udemy - React Front To Back
+07/10/2018  22:13    <DIR>          Udemy - REST WCF Service for Web Applications in ASP.NET Hands-On
+07/10/2018  22:14    <DIR>          Udemy - SAP ABAP Programming For Beginners - Online Training
+07/10/2018  22:14    <DIR>          Udemy - Server Side Rendering with React and Redux
+07/10/2018  22:15    <DIR>          Udemy - The Complete Python Developer Course
+30/09/2018  14:26    <DIR>          Udemy - The Complete Web Developer in 2018 Zero to Mastery
+02/10/2018  18:49    <DIR>          Udemy - The Modern JavaScript Bootcamp (2018)
+30/09/2018  14:31    <DIR>          Udemy - Understand Javascript
+02/10/2018  18:56    <DIR>          Udemy - Web Scraping with Nodejs
+30/09/2018  14:33    <DIR>          WintellectNow - Asynchronous Programming in JavaScript
+               0 File(s)              0 bytes
+             130 Dir(s)  901,430,210,560 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181014
+
+17/10/2018  20:13    <DIR>          .
+17/10/2018  20:13    <DIR>          ..
+09/10/2018  12:08    <DIR>          - Udemy - NodeJS Master Class No Frameworks
+15/10/2018  10:54    <DIR>          - Udemy - The Node.js Master Class No Frameworks, No NPM
+14/10/2018  16:50    <DIR>          -- A JavaScript War Card Game Project from Scratch
+14/10/2018  16:54    <DIR>          -- ayn’s’ varsa sil -- Udemy - Learn MongoDB with PHP by building OOP Website with Modals
+15/10/2018  18:00    <DIR>          A JavaScript Local Storage Task List Exercise
+15/10/2018  18:01    <DIR>          ACloud.guru - Docker for DevOps - From Development to Production
+15/10/2018  16:41    <DIR>          Codecourse - Single-page Forum App Frontend
+14/10/2018  16:49    <DIR>          Codecourse - Vue Vuex Single Page App Boilerplate
+15/10/2018  16:41    <DIR>          Egghead - Advanced Fine-Grained Control of Vue.js Components
+15/10/2018  10:58    <DIR>          Egghead - Build a Desktop Application with Electron
+15/10/2018  16:41    <DIR>          Egghead - Build a Server Rendered Vue.js App with Nuxt and Vuex
+15/10/2018  16:42    <DIR>          Egghead - Create a News App with Vue.js and Nuxt
+15/10/2018  10:58    <DIR>          Egghead - Offline-First Progressive Web Apps (PWA) in Vue.js
+15/10/2018  16:42    <DIR>          Egghead - Use TypeScript to Develop Vue.js Web Applications
+15/10/2018  16:42    <DIR>          Egghead - Vue.js State Management with Vuex and TypeScript
+11/10/2018  17:44    <DIR>          Frontend Masters - Deep JavaScript Foundations
+14/10/2018  16:57    <DIR>          Frontend Masters - Mastering Chrome Developer Tools v2
+13/10/2018  07:51    <DIR>          Laracasts - Be Awesome in PHPStorm
+12/10/2018  07:39    <DIR>          Laracasts - Design Patterns in PHP
+13/10/2018  07:51    <DIR>          Laracasts - Get Real with Laravel Echo
+14/10/2018  16:50    <DIR>          Laracasts - Hands On Community Contributions
+13/10/2018  07:52    <DIR>          Laracasts - Intermediate Laravel
+13/10/2018  07:52    <DIR>          Laracasts - Laravel Authentication Techniques
+12/10/2018  07:39    <DIR>          Laracasts - Learn Laravel Mix
+09/10/2018  20:00    <DIR>          Laracasts - Learn Vue 2 Step by Step
+11/10/2018  17:45    <DIR>          Laracasts - Lets Build a Forum with Laravel
+13/10/2018  07:54    <DIR>          Laracasts - Modern CSS for Backend Developers
+13/10/2018  07:54    <DIR>          Laracasts - PHP for Beginners
+13/10/2018  07:59    <DIR>          Laracasts - Realtime Laravel with Socket.io
+15/10/2018  16:42    <DIR>          Leveluptutorials - Level 1 Electron
+15/10/2018  11:13    <DIR>          Linkedin - Developing with Visual Studio Code
+13/10/2018  07:54    <DIR>          Linkedin - Vanilla Javascript Progressive Web Applications
+13/10/2018  07:55    <DIR>          Lynda - Advanced PHP
+11/10/2018  17:45    <DIR>          Lynda - PHP-Object-Oriented-Programming
+15/10/2018  11:23    <DIR>          Manning - Docker in Action
+09/10/2018  12:07    <DIR>          Packt - Python for the .NET Developer
+14/10/2018  16:52    <DIR>          Pluralsight - Become a Full-stack .NET Developer Advanced Topics
+15/10/2018  18:02    <DIR>          Stone River - Bash Scripting and Shell Programming
+12/10/2018  07:39    <DIR>          Treehouse - CRUD Operations with PHP
+12/10/2018  07:40    <DIR>          Treehouse - Designing Interfaces in PHP
+15/10/2018  10:58    <DIR>          Tyler McGinnis - Modern JavaScript
+15/10/2018  10:58    <DIR>          Tyler McGinnis - React Native
+15/10/2018  18:02    <DIR>          Udemy - Angular Progressive Web Apps (PWA) MasterClass & FREE E-Book
+09/10/2018  20:06    <DIR>          Udemy - Complete Python Bootcamp
+09/10/2018  20:08    <DIR>          Udemy - Full-Stack React with GraphQL and Apollo Boost
+15/10/2018  11:03    <DIR>          Udemy - Fullstack Web Development With Laravel
+14/10/2018  16:52    <DIR>          Udemy - Java Object-Oriented Programming  Build a Quiz Application
+15/10/2018  11:04    <DIR>          Udemy - Laravel React CRUD SPA APP in 2 hours
+14/10/2018  16:55    <DIR>          Udemy - Learn Symfony 4 Hands-on Creating a Real World Application
+11/10/2018  17:46    <DIR>          Udemy - Modern Javascript from the Beginning
+12/10/2018  07:40    <DIR>          Udemy - Object-oriented Programming in JavaScript
+15/10/2018  11:06    <DIR>          Udemy - Private (one to one) Chat App with Laravel Vuejs and Pusher
+12/10/2018  07:38    <DIR>          Udemy - React Redux Firebase CRUD App with Authentication
+15/10/2018  11:07    <DIR>          Udemy - Symfony from Scratch on a Real Project 2018
+14/10/2018  16:56    <DIR>          Udemy - The Complete PHP Bootcamp Course With Video Sharing Project
+14/10/2018  16:49    <DIR>          Udemy - Vue and Laravel To-Do App Restful API Project
+15/10/2018  16:41    <DIR>          Udemy - Vue.js 2 Course for Students with ZERO ES6 foundation
+15/10/2018  11:09    <DIR>          Udemy - Vue.js 2.5 Create a website on Vue.JS with Firebase, Vuex and Router
+15/10/2018  11:10    <DIR>          Udemy - Vue.js Build a Full Stack App With Firebase, Vuex & Router
+15/10/2018  11:21    <DIR>          Vueschool - The Vue.js Master Class
+15/10/2018  11:14    <DIR>          watchandcode - Premium Javascript
+               0 File(s)              0 bytes
+              63 Dir(s)  901,430,206,464 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181015
+
+20/10/2018  13:31    <DIR>          .
+20/10/2018  13:31    <DIR>          ..
+16/10/2018  15:46    <DIR>          Codecourse - API Authentication with Laravel Passport
+16/10/2018  15:46    <DIR>          Codecourse - API Development with Laravel
+16/10/2018  15:46    <DIR>          Codecourse - Build a Beautiful Blog with Laravel
+16/10/2018  15:46    <DIR>          Codecourse - Build a Twitter Bot with Laravel
+16/10/2018  15:47    <DIR>          Codecourse - Laravel Fundamentals
+16/10/2018  15:47    <DIR>          Codecourse - Laravel Real-time Private Message
+16/10/2018  15:48    <DIR>          Codecourse - Social Network
+16/10/2018  15:48    <DIR>          Codecourse - Two Factor Authentication with Laravel
+18/10/2018  13:44    <DIR>          Coursetro - Using Vue 2 to Create Beautiful SEO-Ready Websites
+18/10/2018  13:42    <DIR>          Egghead - JSON Web Token (JWT) Authentication with Node.js
+16/10/2018  00:06    <DIR>          Laracasts - How Do I
+17/10/2018  15:25    <DIR>          Packt - Learning Oracle PLSQL
+17/10/2018  15:25    <DIR>          Pluralsight - Enterprise Data Modeling Getting Started
+17/10/2018  15:25    <DIR>          Pluralsight - Working with Files and Streams in C#
+17/10/2018  15:53    <DIR>          Scotch.io - Build a Monthly Subscription App with Laravel Cashier
+17/10/2018  15:25    <DIR>          Scotch.io - Create a CRUD App with Node and MongoDB
+17/10/2018  15:26    <DIR>          Scotch.io - Getting Started with JavaScript for Web Development
+17/10/2018  15:27    <DIR>          Scotch.io - Getting Started with Vue.js
+17/10/2018  15:27    <DIR>          Scotch.io - Laravel Databases and Eloquent Models
+17/10/2018  15:27    <DIR>          Scotch.io - Laravel Eloquent Relationships
+17/10/2018  16:01    <DIR>          Scotch.io - Laravel Routing
+17/10/2018  16:08    <DIR>          Scotch.io - Laravel Templating with Blade
+17/10/2018  15:28    <DIR>          Udemy - Laravel 5.7 Ecommerce Shop
+18/10/2018  13:44    <DIR>          Udemy - Laravel with React JS Build Twitter Like Real Time Web App
+17/10/2018  15:31    <DIR>          Udemy - Learn to build a REST API with vanilla PHP with Basic Auth
+17/10/2018  08:14    <DIR>          Udemy - Mastering Sublime Text 3 Editing Web Python
+17/10/2018  08:14    <DIR>          Udemy - PHP Programming For Everyone
+16/10/2018  07:33    <DIR>          Udemy - React - Mastering Test Driven Development
+16/10/2018  15:49    <DIR>          Ultimate Angular - TypeScript Fundamentals
+16/10/2018  15:45    <DIR>          Ultimate Angular - TypeScript Pro
+18/10/2018  13:46    <DIR>          Wes Bos - Full Stack Advanced React + GraphQL
+               0 File(s)              0 bytes
+              33 Dir(s)  855,048,847,360 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181018
+
+20/10/2018  13:30    <DIR>          .
+20/10/2018  13:30    <DIR>          ..
+20/10/2018  09:16    <DIR>          Coursetro - Create a MEAN App Called CodePost Full Stack
+19/10/2018  16:46    <DIR>          Coursetro - Using Vue 2 to Create Beautiful SEO-Ready Websites
+18/10/2018  23:02    <DIR>          Laracasts - Learn Laravel Forge
+20/10/2018  09:16    <DIR>          Laracasts - Modern CSS Workflow
+20/10/2018  11:17    <DIR>          Pluralsight - Become a Full-stack .NET Developer
+19/10/2018  09:39    <DIR>          Pluralsight - CQRS in Practice
+18/10/2018  22:58    <DIR>          Scotch.io - Build Your First Node.js Website
+18/10/2018  23:02    <DIR>          Udemy - Angular Progressive Web Apps (PWA) MasterClass & FREE E-Book
+20/10/2018  09:29    <DIR>          Udemy - API in C# The Best Practices of Design and Implementation
+18/10/2018  22:58    <DIR>          Udemy - Booking System in Laravel 5 With Hybrid Mobile Version
+19/10/2018  16:44    <DIR>          Udemy - Build E-Commerce Website in Laravel
+18/10/2018  23:03    <DIR>          Udemy - Client-Side Data Storage Ultimate Guide
+20/10/2018  11:16    <DIR>          Udemy - Docker and Kubernetes The Complete Guide
+20/10/2018  09:17    <DIR>          Udemy - Learn JavaScript for Web Development
+20/10/2018  09:21    <DIR>          Udemy - Learning MEAN Stack by Building Real world Application
+18/10/2018  23:03    <DIR>          Udemy - Linux Command line Basics
+20/10/2018  09:23    <DIR>          Udemy - Modern Javascript from The Beginning
+19/10/2018  16:45    <DIR>          Udemy - Node.js for Beginners - Become a NodeJs Developer + Project
+19/10/2018  16:46    <DIR>          Udemy - Node.js, Express & MongoDB Dev to Deployment
+20/10/2018  09:24    <DIR>          Udemy - The Complete React Native and Redux Course
+20/10/2018  09:25    <DIR>          Udemy - The WordPress REST API with JavaScript - An Introduction
+20/10/2018  09:26    <DIR>          Udemy - Understanding TypeScript
+               0 File(s)              0 bytes
+              24 Dir(s)  855,048,851,456 bytes free
