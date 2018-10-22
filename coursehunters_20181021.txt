@@ -1,5 +1,4 @@
-﻿* indir levelup https://coursehunters.net/course/react-16-dlya-vseh
-* indir totalreact https://coursehunters.net/course/react-catch-up
+﻿* indir totalreact https://coursehunters.net/course/react-catch-up
 * indir https://coursehunters.net/course/prakticheskiy-kurs-react-uchites-stroya-proekty
 * indir levelup https://coursehunters.net/course/react-native-dlya-vseh
 * indir https://coursehunters.net/course/reactjs-polnoe-rukovodstvo-s-realnymi-proektami
@@ -95,3 +94,4 @@
 + https://coursehunters.net/course/sozdayte-prostoy-node-js-veb-server-s-pomoshchyu-docker
 + https://coursehunters.net/course/sozdayte-svoy-sobstvennyy-docker-obraz-image
 + https://coursehunters.net/course/polnyy-kurs-veb-razrabotchika-react-s-redux-2nd-edition
++ https://coursehunters.net/course/react-16-dlya-vseh
