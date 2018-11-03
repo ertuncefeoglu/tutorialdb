@@ -1,15 +1,11 @@
-﻿* indir https://coursehunters.net/course/next-js-universalnyy-javascript-starter-package
-* indir https://coursehunters.net/course/polnoe-rukovodstvo-razrabotchika-2018-ot-dzhunika-k-senoru
-* indir https://coursehunters.net/course/docker-ot-a-do-ya-swarm-jenkins
-* indir https://coursehunters.net/course/sozdayte-svoy-pervyy-angular-sayt
-* indir https://coursehunters.net/course/graphql-c-angular-i-apollo-polnoe-full-stack-rukovodstvo
-* - indir https://coursehunters.net/course/sovremennyy-javascript-polnoe-rukovodstvo-stroim-10-proektov
-* - indir https://coursehunters.net/course/wordpress-rest-api-s-javascript-vvedenie
+﻿* indir https://coursehunters.net/course/polnoe-rukovodstvo-razrabotchika-2018-ot-dzhunika-k-senoru
 * indir https://coursehunters.net/course/sozdayte-python-api-rest-s-pomoshchyu-django-rest-framework
 * indir https://coursehunters.net/course/izuchite-python-s-nulya-s-pomoshchyu-realnyh-prilozheniy
 * indir https://coursehunters.net/course/sozdanie-sayta-na-yii-ruchkami-bez-ispolzovaniya-shablonov
-* indir https://coursehunters.net/course/level-1-apollo-client-c-react
 * indir https://coursehunters.net/course/docker-i-kubernetes-polnoe-rukovodstvo
+* indir https://coursehunters.net/course/docker-ot-a-do-ya-swarm-jenkins
+* indir https://coursehunters.net/course/sozdayte-svoy-pervyy-angular-sayt
+* indir https://coursehunters.net/course/graphql-c-angular-i-apollo-polnoe-full-stack-rukovodstvo
 
 ﻿? var https://coursehunters.net/course/json-web-token-jwt-autentifikaciya-c-node-js
 ? var https://coursehunters.net/course/laravel-s-react-js-sozdaem-klon-twitter
@@ -97,3 +93,5 @@
 + https://coursehunters.net/course/ispolzuem-typescript-dlya-razrabotki-react-prilozheniy
 + https://coursehunters.net/course/polnoe-rukovodstvo-typescript-dlya-veb-razrabotchikov
 + https://coursehunters.net/course/full-stack-firebase
++ https://coursehunters.net/course/next-js-universalnyy-javascript-starter-package
++ https://coursehunters.net/course/level-1-apollo-client-c-react
