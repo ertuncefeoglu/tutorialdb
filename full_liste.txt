@@ -2559,3 +2559,86 @@ ____
 20/10/2018  09:26    <DIR>          Udemy - Understanding TypeScript
                0 File(s)              0 bytes
               24 Dir(s)  855,048,851,456 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181023
+
+04/11/2018  15:18    <DIR>          .
+04/11/2018  15:18    <DIR>          ..
+23/10/2018  14:45    <DIR>          Egghead - Build Your Own Custom Docker Image
+25/10/2018  07:54    <DIR>          Laracasts - Learn Laravel Mix
+25/10/2018  07:54    <DIR>          Laracasts - Testing Vue
+23/10/2018  14:46    <DIR>          Levelup Tutorials - React 16 for Everyone
+23/10/2018  14:46    <DIR>          Linkedin - Learning Vue.js
+23/10/2018  14:47    <DIR>          Manning - Functional Programming in Javascript
+25/10/2018  07:54    <DIR>          Teamtreehouse - File Handling with PHP
+23/10/2018  14:48    <DIR>          Udemy - Asynchronous JavaScript
+23/10/2018  14:50    <DIR>          Udemy - The Complete React Web Developer Course (with Redux)
+               0 File(s)              0 bytes
+              11 Dir(s)  705,454,411,776 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181029
+
+04/11/2018  15:20    <DIR>          .
+04/11/2018  15:20    <DIR>          ..
+01/11/2018  07:44    <DIR>          --- JavaScript and ES6 Challenges - Do you know JavaScript
+01/11/2018  07:44    <DIR>          Frondend Masters - Testing JavaScript Applications (feat. React and Redux)
+29/10/2018  20:20    <DIR>          Laracasts - Unlocking Badges Workshop
+01/11/2018  07:44    <DIR>          Laracasts - Visual Studio Code for PHP Developers
+30/10/2018  16:16    <DIR>          Linkedin - Building Website with Nodejs and Expressjs
+31/10/2018  14:20    <DIR>          Linkedin - Learning Vue.js
+29/10/2018  20:20    <DIR>          Packt - Beginning Frontend Development React
+29/10/2018  20:20    <DIR>          Packt - Implementing Serverless Microservices Architecture Patterns
+31/10/2018  14:04    <DIR>          Packt - Vuejs Application Development Essentials
+01/11/2018  07:44    <DIR>          Pluralsight -  Building Business Applications with Vue.js and MongoDB
+29/10/2018  20:21    <DIR>          Pluralsight - Advanced TypeScript
+30/10/2018  16:17    <DIR>          Totalreact - React Catch-up
+01/11/2018  19:59    <DIR>          TutsPlus - Build a Social App With React Native
+01/11/2018  07:45    <DIR>          Udemy - Accelerated ES6 JavaScript Training
+29/10/2018  20:21    <DIR>          Udemy - Accelerated JavaScript Training
+29/10/2018  20:22    <DIR>          Udemy - GraphQL with React The Complete Developers Guide
+01/11/2018  07:45    <DIR>          Udemy - JavaScript Basics for Beginners
+29/10/2018  20:22    <DIR>          Udemy - JavaScript Variables Lifecycles
+01/11/2018  07:48    <DIR>          Udemy - MongoDB The Complete Developers Guide
+01/11/2018  07:48    <DIR>          Udemy - PHP OOP Understand Object Oriented Programming in PHP
+29/10/2018  20:22    <DIR>          Udemy - Projects in Laravel Learn Laravel Building 10 Projects
+29/10/2018  20:23    <DIR>          Udemy - React - Mastering Test Driven Development
+29/10/2018  20:23    <DIR>          Vueschool - Vue.js + Firebase Authentication
+29/10/2018  20:23    <DIR>          Vueschool - Vue.js + Firebase Realtime Database
+               0 File(s)              0 bytes
+              26 Dir(s)  699,562,065,920 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181102
+
+04/11/2018  15:22    <DIR>          .
+04/11/2018  15:22    <DIR>          ..
+02/11/2018  14:22    <DIR>          Egghead - Use TypeScript to Develop React Applications
+04/11/2018  15:18    <DIR>          Laracasts - Whatcha Working On
+02/11/2018  15:24    <DIR>          Linkedin - Learning Vue.js
+02/11/2018  13:45    <DIR>          Linkedin - Vanilla Javascript Web Performance Optimization API
+02/11/2018  13:48    <DIR>          Linkedin - Vanilla Javascript Web Workers
+03/11/2018  08:20    <DIR>          Lynda - Programming Foundations  Real-World Examples
+02/11/2018  14:03    <DIR>          Mosh Hamedani - Code with Mosh - Mastering React
+04/11/2018  15:18    <DIR>          Packt - Learning Vuejs 2
+02/11/2018  15:25    <DIR>          Packt - Vuejs Application Development Essentials
+03/11/2018  08:19    <DIR>          Teamtreehouse - HTML Basics
+03/11/2018  08:17    <DIR>          Teamtreehouse - Introducing Javascript
+04/11/2018  15:12    <DIR>          Udemy - Android Make a Professional Dictionary App from Scratch
+02/11/2018  15:12    <DIR>          Udemy - Full-Stack Firebase
+02/11/2018  13:51    <DIR>          Udemy - Full-Stack Vue with GraphQL The Ultimate Guide
+04/11/2018  15:19    <DIR>          Udemy - JavaScript Basics for Beginners
+04/11/2018  15:20    <DIR>          Udemy - Learn & Master Vuejs from Scratch 2018
+02/11/2018  14:03    <DIR>          Udemy - The Complete React Native Course, Create Beautiful Apps
+02/11/2018  14:34    <DIR>          Udemy - The Complete TypeScript Programming Guide for Web Developers
+02/11/2018  14:17    <DIR>          Udemy - The Modern GraphQL Bootcamp (Advanced Node.js)
+               0 File(s)              0 bytes
+              21 Dir(s)  699,562,061,824 bytes free
+
