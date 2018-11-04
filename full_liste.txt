@@ -2560,7 +2560,30 @@ ____
                0 File(s)              0 bytes
               24 Dir(s)  855,048,851,456 bytes free
 
-<<<<<<< HEAD
+=======
+ Volume in drive E is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of E:\20181021
+
+22.10.2018  09:14    <DIR>          .
+22.10.2018  09:14    <DIR>          ..
+22.10.2018  09:03    <DIR>          Egghead - Build Algorithms using Typescript
+22.10.2018  09:03    <DIR>          Levelup Tutorials - Level 2 React Native with GraphQL
+21.10.2018  19:18    <DIR>          Scotch.io - Build an Interactive JavaScript Food Menu
+21.10.2018  19:18    <DIR>          Scotch.io - Getting Started with Vagrant for Local Development
+21.10.2018  19:10    <DIR>          Udemy - Beginner Firebase and Vue.js
+21.10.2018  19:09    <DIR>          Udemy - Git for Windows Step-By-Step Mastery using Commands and GUI
+21.10.2018  19:17    <DIR>          Udemy - Java In-Depth Become a Complete Java Engineer!
+21.10.2018  19:10    <DIR>          Udemy - Laravel E-Commerce Restful API
+21.10.2018  19:10    <DIR>          Udemy - Learn Laravel 5 Framework by Building a Professional Website
+22.10.2018  09:04    <DIR>          Udemy - The Complete 2018 Fullstack Web Developer Course
+22.10.2018  09:06    <DIR>          Udemy - The Complete C# Developer Course
+22.10.2018  09:08    <DIR>          Udemy - The Complete React Web Developer Course (with Redux)
+22.10.2018  09:08    <DIR>          Ultimate Angular - TypeScript Masterclass
+               0 File(s)              0 bytes
+              15 Dir(s)  795.638.951.936 bytes free
+              
  Volume in drive F is Empty
  Volume Serial Number is 9841-DA13
 
@@ -2642,30 +2665,3 @@ ____
 02/11/2018  14:17    <DIR>          Udemy - The Modern GraphQL Bootcamp (Advanced Node.js)
                0 File(s)              0 bytes
               21 Dir(s)  699,562,061,824 bytes free
-
-=======
- Volume in drive E is Empty
- Volume Serial Number is 9841-DA13
-
- Directory of E:\20181021
-
-22.10.2018  09:14    <DIR>          .
-22.10.2018  09:14    <DIR>          ..
-22.10.2018  09:03    <DIR>          Egghead - Build Algorithms using Typescript
-22.10.2018  09:03    <DIR>          Levelup Tutorials - Level 2 React Native with GraphQL
-21.10.2018  19:18    <DIR>          Scotch.io - Build an Interactive JavaScript Food Menu
-21.10.2018  19:18    <DIR>          Scotch.io - Getting Started with Vagrant for Local Development
-21.10.2018  19:10    <DIR>          Udemy - Beginner Firebase and Vue.js
-21.10.2018  19:09    <DIR>          Udemy - Git for Windows Step-By-Step Mastery using Commands and GUI
-21.10.2018  19:17    <DIR>          Udemy - Java In-Depth Become a Complete Java Engineer!
-21.10.2018  19:10    <DIR>          Udemy - Laravel E-Commerce Restful API
-21.10.2018  19:10    <DIR>          Udemy - Learn Laravel 5 Framework by Building a Professional Website
-22.10.2018  09:04    <DIR>          Udemy - The Complete 2018 Fullstack Web Developer Course
-22.10.2018  09:06    <DIR>          Udemy - The Complete C# Developer Course
-22.10.2018  09:08    <DIR>          Udemy - The Complete React Web Developer Course (with Redux)
-22.10.2018  09:08    <DIR>          Ultimate Angular - TypeScript Masterclass
-               0 File(s)              0 bytes
-              15 Dir(s)  795.638.951.936 bytes free
-
-              
->>>>>>> origin/master
