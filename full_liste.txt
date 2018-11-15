@@ -2665,3 +2665,66 @@ ____
 02/11/2018  14:17    <DIR>          Udemy - The Modern GraphQL Bootcamp (Advanced Node.js)
                0 File(s)              0 bytes
               21 Dir(s)  699,562,061,824 bytes free
+
+ Volume in drive F is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of F:\20181104
+
+15/11/2018  21:03    <DIR>          .
+15/11/2018  21:03    <DIR>          ..
+10/11/2018  12:07    <DIR>          Codecourse - Build an E-Commerce Platform
+15/11/2018  20:58    <DIR>          Egghead - Build a Server-rendered ReactJS Application with Next.js
+14/11/2018  11:48    <DIR>          Frontend Masters - Introduction to MongoDB
+11/11/2018  20:44    <DIR>          Frontend Masters - Introduction to Node.js
+05/11/2018  16:35    <DIR>          Frontend Masters - JavaScript The Hard Parts on Object-Oriented Programming
+05/11/2018  16:38    <DIR>          Leftlogic - Next.js Universal JavaScript
+05/11/2018  16:39    <DIR>          LevelUp Tutorials - Better Javascript
+05/11/2018  16:39    <DIR>          LevelUp Tutorials - Level 1 Apollo Client with React
+09/11/2018  13:54    <DIR>          Linkedin - Docker for Developers
+10/11/2018  12:07    <DIR>          Linkedin - Learning Ethical Hacking with JavaScript
+05/11/2018  16:35    <DIR>          Linkedin - Learning Vue.js
+09/11/2018  13:38    <DIR>          Linkedin - React SPAs
+05/11/2018  19:17    <DIR>          Linkedin - Vanilla Javascript Service Workers
+07/11/2018  23:04    <DIR>          Lynda - Organizing JavaScript Functionality
+15/11/2018  20:58    <DIR>          Microsoft Virtual Academy - PowerShell for SQL Data Professionals
+08/11/2018  15:49    <DIR>          Packt - Aspnet Core Full-stack Development Projects
+08/11/2018  15:48    <DIR>          Packt - Bash Scripting Solutions
+05/11/2018  16:35    <DIR>          Packt - Effective Devops and Development with Docker
+10/11/2018  12:08    <DIR>          Packt - JavaScript and ES6 Challenges ~ Do You Know JavaScript
+08/11/2018  15:48    <DIR>          Packt - Professional Nodejs
+06/11/2018  07:39    <DIR>          Packt - Real World Nodejs Projects
+05/11/2018  16:40    <DIR>          Packt - Troubleshooting Vuejs
+05/11/2018  16:36    <DIR>          Packt - Vuejs Application Development Essentials
+10/11/2018  12:09    <DIR>          Pluralsight - Building a Site with Angular and PHP
+07/11/2018  23:05    <DIR>          SkillShare - Build An eCommerce Website From Scratch With PHP & Bootstrap
+07/11/2018  23:04    <DIR>          Tyler McGinnis - Advanced Javascript
+15/11/2018  20:59    <DIR>          Udemy - #1 Complete ASP.NET Core 2.0 MVC Single-Page App
+04/11/2018  20:02    <DIR>          Udemy - Angular - Concepts, Code and Collective Wisdom
+11/11/2018  20:49    <DIR>          Udemy - Build an App with ASPNET Core and Angular from Scratch
+10/11/2018  12:10    <DIR>          Udemy - GraphQL by Example
+04/11/2018  20:08    <DIR>          Udemy - JavaScript Algorithms and Data Structures Masterclass
+08/11/2018  18:01    <DIR>          Udemy - JavaScript and React for Developers Master the Essentials
+10/11/2018  12:12    <DIR>          Udemy - Kotlin for Android Beginner to Advanced
+11/11/2018  20:51    <DIR>          Udemy - Kotlin for Android O Development From Beginner to Advanced
+10/11/2018  12:13    <DIR>          Udemy - Learn Enterprise WPF with XAML from Scratch
+10/11/2018  12:14    <DIR>          Udemy - Learn HANA© SQL
+10/11/2018  12:15    <DIR>          Udemy - Learn Nginx By Example
+13/11/2018  22:19    <DIR>          Udemy - Master React the fun way! Create a Movie App from scratch
+15/11/2018  20:59    <DIR>          Udemy - Master Redis A Complete Course on Redis
+04/11/2018  20:10    <DIR>          Udemy - Modern JavaScript From The Beginning
+07/11/2018  23:07    <DIR>          Udemy - MongoDB The Complete Developer's Guide
+07/11/2018  23:07    <DIR>          Udemy - Object Oriented PHP & MVC
+10/11/2018  12:15    <DIR>          Udemy - OOP Object Oriented Programming In PHP 7
+14/11/2018  11:52    <DIR>          Udemy - React + Redux - Professional Development
+11/11/2018  20:49    <DIR>          Udemy - Real Time Single Page Forum App with Pusher Laravel & vuejs
+11/11/2018  20:45    <DIR>          Udemy - Real World Aspnet Web API Services for .Net Framework
+13/11/2018  22:20    <DIR>          Udemy - sql-mysql-for-data-analytics-and-business-intelligence
+08/11/2018  18:01    <DIR>          Udemy - The Complete JavaScript Course For Web Development Beginners
+13/11/2018  22:20    <DIR>          Udemy - The Complete Python Developer Course
+08/11/2018  18:02    <DIR>          Udemy - VPS Mastery Build a Secure PHP Web Server with Ubuntu
+05/11/2018  16:40    <DIR>          Vueschool - Dynamic Forms with Vue.js
+05/11/2018  16:40    <DIR>          Vueschool - Vue.js Form Validation
+05/11/2018  16:40    <DIR>          Vueschool - Vue.js Fundamentals
+               0 File(s)              0 bytes
+              55 Dir(s)  592,613,122,048 bytes free              
