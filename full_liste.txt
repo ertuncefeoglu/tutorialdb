@@ -2728,3 +2728,60 @@ ____
 05/11/2018  16:40    <DIR>          Vueschool - Vue.js Fundamentals
                0 File(s)              0 bytes
               55 Dir(s)  592,613,122,048 bytes free              
+
+ Volume in drive E is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of E:\20181118
+
+26.11.2018  09:19    <DIR>          .
+26.11.2018  09:19    <DIR>          ..
+18.11.2018  19:52    <DIR>          Codecourse - Practical Vue Components
+18.11.2018  19:55    <DIR>          Packt -  Accelerated ES6 Training
+18.11.2018  19:55    <DIR>          Udacity - Senior Web Developer Nanodegree by Google
+18.11.2018  19:56    <DIR>          Udemy - #1 Complete NodeJs Express Single-Page App
+19.11.2018  18:46    <DIR>          Udemy - Build a Slack Chat App with React, Redux, and Firebase
+18.11.2018  19:56    <DIR>          Udemy - Design Patterns with JavaScript ES56 and Node.jsFrom zero
+18.11.2018  19:56    <DIR>          Udemy - ES6 Javascript The Complete Developer's Guide
+19.11.2018  18:47    <DIR>          Udemy - Functional Programming For Beginners With JavaScript
+18.11.2018  19:58    <DIR>          Udemy - Master Full-Stack Web Development  Node, SQL, React, & More
+18.11.2018  19:50    <DIR>          Udemy - Python Django Dev To Deployment
+19.11.2018  22:04    <DIR>          Udemy - Real Time Single Page Forum App with Pusher Laravel & vuejs
+18.11.2018  19:51    <DIR>          Udemy - Ultimate Laravel Course 2018 (+ PayPal, Webshop)
+18.11.2018  19:51    <DIR>          VueSchool - Dynamic Forms with Vue.js
+19.11.2018  22:04    <DIR>          VueSchool - Vue.js + Firebase Realtime Database
+               0 File(s)              0 bytes
+              16 Dir(s)  521.099.218.944 bytes free
+
+ Volume in drive E is Empty
+ Volume Serial Number is 9841-DA13
+
+ Directory of E:\20181122
+
+26.11.2018  09:31    <DIR>          .
+26.11.2018  09:31    <DIR>          ..
+22.11.2018  16:42    <DIR>          Codecourse - Laravel multi-tenancy Single database
+26.11.2018  09:19    <DIR>          Kent C. Dodds - Testing JavaScript with Kent C. Dodds
+22.11.2018  16:42    <DIR>          Linkedin - Javascript Patterns
+22.11.2018  16:43    <DIR>          Packt - Complete Reactjs Redux Course Build Modern Web Apps
+26.11.2018  06:53    <DIR>          Packt - Full Stack Development wit React ASP.NET Core 2
+26.11.2018  09:20    <DIR>          Packt - Learning Web Scraping with Javascript
+23.11.2018  16:47    <DIR>          Udemy - Algorithms and Data Structures in Javascript
+24.11.2018  08:24    <DIR>          Udemy - Build A Simple Chat System in JavaScript
+26.11.2018  06:49    <DIR>          Udemy - C# Advanced Topics Take Your C# Skills to the Next Level
+26.11.2018  06:50    <DIR>          Udemy - C# Intermediate Classes, Interfaces and OOP
+24.11.2018  08:23    <DIR>          Udemy - Hacking For Beginners
+26.11.2018  06:50    <DIR>          Udemy - Laravel, The Complete Guide with Real World Projects
+24.11.2018  08:25    <DIR>          Udemy - Login, Registration and Profile Management in PHPMYSQL 2018
+24.11.2018  08:26    <DIR>          Udemy - Master All PHP Ideas 2017 to Build Any Project
+24.11.2018  08:33    <DIR>          Udemy - Master Full-Stack Web Development  Node, SQL, React, & More
+26.11.2018  06:51    <DIR>          Udemy - Oracle Certification Mastering Java for Beginners & Experts
+24.11.2018  08:23    <DIR>          Udemy - React - Mastering Test Driven Development
+24.11.2018  08:30    <DIR>          Udemy - Real World ASP.NET Web API Services for .NET Framework
+24.11.2018  08:31    <DIR>          Udemy - The Complete CSS Flexbox Guide With a Complete Project 2018
+26.11.2018  06:51    <DIR>          Udemy - The Complete MySQL Bootcamp Become an Expert in SQL & MySQL
+26.11.2018  09:16    <DIR>          Vueschool - Custom Vue Directives
+               0 File(s)              0 bytes
+              23 Dir(s)  520.665.997.312 bytes free
+
+              
