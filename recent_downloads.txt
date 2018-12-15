@@ -1,0 +1,1630 @@
+ Volume in drive E is Seagate Backup Plus Drive
+ Volume Serial Number is 8EEF-9673
+
+ Directory of E:\DOWNLOADS\20181011
+
+05.12.2018  14:42    <DIR>          .
+05.12.2018  14:42    <DIR>          ..
+01.12.2018  16:35    <DIR>          Electron
+01.12.2018  16:44    <DIR>          GraphQL
+04.12.2018  22:09    <DIR>          Laravel
+01.12.2018  17:28    <DIR>          Misc
+01.12.2018  17:33    <DIR>          PHP 7
+04.12.2018  22:09    <DIR>          Vue
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181011\Electron
+
+01.12.2018  16:35    <DIR>          .
+01.12.2018  16:35    <DIR>          ..
+01.12.2018  16:33    <DIR>          Build Cross-Platform Desktop Apps with Electron
+01.12.2018  16:34    <DIR>          Frontend Masters - Build Cross-Platform Desktop Apps with Electron
+01.12.2018  16:34    <DIR>          Udemy - Electron React Tutorial
+01.12.2018  16:35    <DIR>          Udemy - Master Electron
+01.12.2018  16:36    <DIR>          Udemy - Projects Electron Building Apps
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181011\GraphQL
+
+01.12.2018  16:44    <DIR>          .
+01.12.2018  16:44    <DIR>          ..
+01.12.2018  16:37    <DIR>          Egghead - Build a Graphql Server
+01.12.2018  16:38    <DIR>          Frontend Masters - Advanced GraphQL
+01.12.2018  16:40    <DIR>          Frontend Masters - GraphQL
+01.12.2018  16:41    <DIR>          Frontend Masters - REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)
+01.12.2018  16:41    <DIR>          Lynda - API Development in DOTNET with GraphQL
+01.12.2018  16:41    <DIR>          Pluralsight - Building Data-driven React Applications with Relay, GraphQL, and Flux
+01.12.2018  16:42    <DIR>          Udemy - Building Better APIs with GraphQL
+01.12.2018  16:44    <DIR>          Udemy - Full-Stack React, GraphQL and Apollo Boost
+01.12.2018  16:45    <DIR>          Udemy - GraphQL
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181011\Laravel
+
+04.12.2018  22:09    <DIR>          .
+04.12.2018  22:09    <DIR>          ..
+01.12.2018  16:51    <DIR>          Adam Wathan - Test Driven Laravel
+01.12.2018  16:51    <DIR>          Laracasts - Laravel 5.4 From Scratch
+01.12.2018  16:52    <DIR>          Laracasts - Laravel and Vue
+01.12.2018  16:52    <DIR>          Laravel Kitap
+01.12.2018  16:54    <DIR>          Let's Build A Forum with Laravel and TDD
+01.12.2018  16:54    <DIR>          Lynda - Laravel 5 Essential Training - 1 The Basics
+01.12.2018  17:05    <DIR>          Lynda - Laravel 5 Essential Training - 2 Testing, Securing, and Deploying
+01.12.2018  17:13    <DIR>          Lynda - Laravel 5 Essential Training 1 Basics
+01.12.2018  17:13    <DIR>          Packt - Extending Laravel First Packages
+01.12.2018  17:14    <DIR>          Packt - Integrating Elasticsearch with PHP and Laravel
+01.12.2018  17:14    <DIR>          Packt - Learning Application Deployment with Laravel
+01.12.2018  17:14    <DIR>          Pluralsight - RESTful Web Services with PHP and Laravel
+01.12.2018  17:16    <DIR>          Test Driven Laravel
+01.12.2018  17:17    <DIR>          Tutsplus - Build a CMS With Laravel
+01.12.2018  17:17    <DIR>          Tutsplus - Build Your First Laravel Site
+01.12.2018  17:19    <DIR>          Udemy - 2018 Fullstack Laravel 5.6 with QRCodes, APIs, AndroidiOS
+01.12.2018  17:21    <DIR>          Udemy - Best Laravel
+01.12.2018  17:23    <DIR>          Udemy - Build Blog CMS with Laravel 5
+01.12.2018  17:23    <DIR>          Udemy - Laravel 5.6 Zero Base Introduction
+01.12.2018  17:23    <DIR>          Udemy - Learn Laravel 5 Framework by Building a Professional Website
+01.12.2018  17:23    <DIR>          Udemy - Learn to Build Web Apps using Laravel Framework
+01.12.2018  17:25    <DIR>          Udemy - Modern Web Development with Laravel 5.2 (PHP Framework)
+01.12.2018  17:25    <DIR>          Udemy - Projects in Laravel Learn Laravel Building 10 Projects
+01.12.2018  17:26    <DIR>          Udemy - Restful API with Laravel PHP Homestead Passport Hateoas
+               0 File(s)              0 bytes
+
+
+
+ Directory of E:\DOWNLOADS\20181011\Misc
+
+01.12.2018  17:28    <DIR>          .
+01.12.2018  17:28    <DIR>          ..
+01.12.2018  17:26    <DIR>          Lynda - Building APIs in PHP Using the Slim Micro Framework
+01.12.2018  17:26    <DIR>          Lynda - Learning App Building Vanilla JavaScript
+01.12.2018  17:28    <DIR>          MongoDB with PHP - Build OOP Website Prepare for the future
+01.12.2018  17:28    <DIR>          Packt - Building Single Page Application Javascript
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181011\PHP 7
+
+01.12.2018  17:33    <DIR>          .
+01.12.2018  17:33    <DIR>          ..
+01.12.2018  17:29    <DIR>          Linkedin - Learning Composer PHP Dependency Manager
+01.12.2018  17:29    <DIR>          Linkedin - PHP Object-Oriented Programming
+01.12.2018  17:29    <DIR>          Linkedin - PHP Object-oriented Programming Databases
+01.12.2018  17:29    <DIR>          Oreilly - Up to Speed with PHP 7
+01.12.2018  17:30    <DIR>          Packt - Building PHP Restful Web Services
+01.12.2018  17:30    <DIR>          Packt - Functional PHP 7
+01.12.2018  17:30    <DIR>          Packt - Getting Started with Microservices PHP
+01.12.2018  17:30    <DIR>          Packt - Getting Started with PHP 7
+01.12.2018  17:30    <DIR>          Packt - Getting Started with PHP Reactive Programming
+01.12.2018  17:30    <DIR>          Packt - Learning PHP 7
+01.12.2018  17:31    <DIR>          Packt - PHP 7 Programming Solutions
+01.12.2018  17:32    <DIR>          Udemy - Learn PHP 5 & 7 This Way to Rise Above & Beyond Competition!
+01.12.2018  17:33    <DIR>          Udemy - OOP Object Oriented Programming In PHP 7
+01.12.2018  17:33    <DIR>          Udemy - Write PHP Like a Pro Build a PHP MVC Framework From Scratch
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181011\Vue
+
+04.12.2018  22:09    <DIR>          .
+04.12.2018  22:09    <DIR>          ..
+01.12.2018  17:34    <DIR>          -+ AdamWathan - Advanced Vue Component Design
+01.12.2018  17:34    <DIR>          Frontend Masters - Advanced Vue.js Features from the Ground Up
+01.12.2018  17:34    <DIR>          Frontend Masters - Introduction to Vue.js
+01.12.2018  17:35    <DIR>          Laracasts - Laravel and Vue
+01.12.2018  17:35    <DIR>          Laracasts - Vue 2 Step By Step
+01.12.2018  17:35    <DIR>          Level UpTutorials - Vue.js For Everyone
+01.12.2018  17:35    <DIR>          Lynda - Up and Running in Vue
+01.12.2018  17:35    <DIR>          Packt - Building Your First Advanced CRUD Application with Vue 2
+01.12.2018  17:36    <DIR>          Packt - Hands-on Web Development with VueJS
+01.12.2018  17:39    <DIR>          Packt - The Ultimate Vue JS 2 Developers Course
+01.12.2018  17:39    <DIR>          Packt - Web Development with Vue.js 2
+01.12.2018  17:39    <DIR>          Treehouse - Vue Js Basics
+01.12.2018  17:39    <DIR>          Udemy - Beginner Firebase and Vue.js
+01.12.2018  17:39    <DIR>          Udemy - Fundamentals of VueJS
+01.12.2018  17:41    <DIR>          Udemy - Vue JS 2 The Complete Guide (incl. Vue Router & Vuex)
+01.12.2018  17:42    <DIR>          Udemy - Vue JS Essentials with Vuex and Vue Router
+01.12.2018  17:42    <DIR>          Udemy - Vue Web Apps
+01.12.2018  17:43    <DIR>          Udemy - VueJS from Beginner to Professional
+               0 File(s)              0 bytes
+
+ Volume in drive E is Seagate Backup Plus Drive
+ Volume Serial Number is 8EEF-9673
+
+ Directory of E:\DOWNLOADS\20181128
+
+05.12.2018  13:30    <DIR>          .
+05.12.2018  13:30    <DIR>          ..
+14.10.2018  08:30    <DIR>          + PHP Academy (Codecourse)
+14.10.2018  08:25    <DIR>          - Recent
+30.11.2018  20:35    <DIR>          --- A JavaScript Local Storage Task List Exercise
+30.11.2018  20:35    <DIR>          --- Flutter Advanced Course
+01.12.2018  08:31    <DIR>          --- JavaScript and ES6 Challenges - Do you know JavaScript
+01.12.2018  14:02    <DIR>          --- silinecek --- tutorials
+30.11.2018  20:36    <DIR>          ACloud.guru - Docker for DevOps From Development to Production
+30.11.2018  20:36    <DIR>          Adam Wathan - Advanced Vue Component Design
+13.07.2018  00:08    <DIR>          Adam Wathan - Test Driven Laravel
+20.08.2018  18:33    <DIR>          AdamWathan - Advanced Vue Component Design
+30.11.2018  20:36    <DIR>          Apress - Creating a Database with SQLlite
+20.08.2018  18:12    <DIR>          Code4StartUp -  Build Collaborative editor and Real-time video call with NodeJS
+30.11.2018  20:37    <DIR>          Codecourse - API Authentication with Laravel Passport
+30.11.2018  20:37    <DIR>          Codecourse - API Development with Laravel
+30.11.2018  20:37    <DIR>          Codecourse - Build a Beautiful Blog with Laravel
+30.11.2018  20:38    <DIR>          Codecourse - Build a Twitter Bot with Laravel
+01.12.2018  11:52    <DIR>          Codecourse - Build an E-Commerce Platform
+30.11.2018  20:38    <DIR>          Codecourse - Laravel Fundamentals
+01.12.2018  12:55    <DIR>          Codecourse - Laravel multi-tenancy Single database
+30.11.2018  20:39    <DIR>          Codecourse - Laravel Real-time Private Message
+01.12.2018  11:02    <DIR>          Codecourse - Practical Vue Components
+30.11.2018  20:39    <DIR>          Codecourse - Single-page Forum App Frontend
+30.11.2018  20:39    <DIR>          Codecourse - Social Network
+30.11.2018  20:40    <DIR>          Codecourse - Two Factor Authentication with Laravel
+30.11.2018  20:40    <DIR>          Codecourse - Vue Vuex Single Page App Boilerplate
+30.11.2018  20:40    <DIR>          Coursetro - Create a MEAN App Called CodePost Full Stack
+30.11.2018  20:40    <DIR>          Coursetro - Using Vue 2 to Create Beautiful SEO-Ready Websites
+30.11.2018  20:41    <DIR>          Egghead - Advanced Fine-Grained Control of Vue.js Components
+30.11.2018  20:41    <DIR>          Egghead - Build a Desktop Application with Electron
+30.11.2018  20:41    <DIR>          Egghead - Build a Server Rendered Vue.js App with Nuxt and Vuex
+01.12.2018  11:52    <DIR>          Egghead - Build a Server-rendered ReactJS Application with Next.js
+30.11.2018  20:41    <DIR>          Egghead - Build Algorithms using Typescript
+01.12.2018  00:14    <DIR>          Egghead - Build Your Own Custom Docker Image
+30.11.2018  20:41    <DIR>          Egghead - Create a News App with Vue.js and Nuxt
+30.11.2018  20:41    <DIR>          Egghead - Develop Web Apps with VueJS
+30.11.2018  20:41    <DIR>          Egghead - JSON Web Token (JWT) Authentication with Node.js
+30.11.2018  20:41    <DIR>          Egghead - Offline-First Progressive Web Apps (PWA) in Vue.js
+01.12.2018  11:21    <DIR>          Egghead - Use TypeScript to Develop React Applications
+30.11.2018  20:41    <DIR>          Egghead - Use TypeScript to Develop Vue.js Web Applications
+30.11.2018  20:41    <DIR>          Egghead - Vue.js State Management with Vuex and TypeScript
+01.12.2018  08:32    <DIR>          Frondend Masters - Testing JavaScript Applications (feat. React and Redux)
+04.12.2018  22:23    <DIR>          Frontend Masters - A Practical Guide to Algorithms with JavaScript
+13.07.2018  00:08    <DIR>          Frontend Masters - Advanced GraphQL
+13.07.2018  00:09    <DIR>          Frontend Masters - Advanced React Patterns
+30.11.2018  20:43    <DIR>          Frontend Masters - Advanced Vue.js Features from the Ground Up
+13.07.2018  00:09    <DIR>          Frontend Masters - Build Cross-Platform Desktop Apps with Electron
+30.11.2018  20:44    <DIR>          Frontend Masters - Complete Intro to React v4
+30.11.2018  20:46    <DIR>          Frontend Masters - Complete Intro to Web Development, v2
+30.11.2018  20:47    <DIR>          Frontend Masters - Deep JavaScript Foundations
+30.11.2018  20:48    <DIR>          Frontend Masters - Intermediate React
+30.11.2018  20:49    <DIR>          Frontend Masters - Introducing Advanced React Patterns
+30.11.2018  20:49    <DIR>          Frontend Masters - Introduction to JavaScript Programming
+01.12.2018  11:52    <DIR>          Frontend Masters - Introduction to MongoDB
+01.12.2018  11:53    <DIR>          Frontend Masters - Introduction to Node.js
+13.07.2018  00:09    <DIR>          Frontend Masters - Introduction to Vue.js
+13.07.2018  00:10    <DIR>          Frontend Masters - Introduction to Web Development, v2
+01.12.2018  11:55    <DIR>          Frontend Masters - JavaScript The Hard Parts on Object-Oriented Programming
+30.11.2018  20:50    <DIR>          Frontend Masters - JavaScript The New Hard Parts
+30.11.2018  20:50    <DIR>          Frontend Masters - Mastering Chrome Developer Tools v2
+30.11.2018  20:51    <DIR>          Frontend Masters - Testing Practices and Principles
+30.11.2018  20:52    <DIR>          Full Stack Training - The Complete JavaScript Developer A primer to Full Stack JavaScript
+30.11.2018  20:53    <DIR>          JSFullstacker - Build Web App with React
+01.12.2018  12:56    <DIR>          Kent C. Dodds - Testing JavaScript with Kent C. Dodds
+14.10.2018  08:03    <DIR>          Laracasts
+30.11.2018  20:53    <DIR>          Laracasts - Be Awesome in PHPStorm
+30.11.2018  20:53    <DIR>          Laracasts - Design Patterns in PHP
+30.11.2018  20:53    <DIR>          Laracasts - Do You React
+30.11.2018  20:53    <DIR>          Laracasts - Get Real with Laravel Echo
+30.11.2018  20:54    <DIR>          Laracasts - Hands On Community Contributions
+30.11.2018  20:54    <DIR>          Laracasts - How Do I
+30.11.2018  20:54    <DIR>          Laracasts - How to Read Code
+30.11.2018  20:55    <DIR>          Laracasts - Intermediate Laravel
+30.11.2018  20:55    <DIR>          Laracasts - Laravel Authentication Techniques
+30.11.2018  20:55    <DIR>          Laracasts - Learn Laravel Forge
+01.12.2018  00:14    <DIR>          Laracasts - Learn Laravel Mix
+30.11.2018  20:56    <DIR>          Laracasts - Learn Vue 2 Step by Step
+30.11.2018  20:59    <DIR>          Laracasts - Lets Build a Forum with Laravel
+30.11.2018  20:59    <DIR>          Laracasts - Modern CSS for Backend Developers
+30.11.2018  21:00    <DIR>          Laracasts - Modern CSS Workflow
+30.11.2018  21:00    <DIR>          Laracasts - PHP for Beginners
+30.11.2018  21:00    <DIR>          Laracasts - Realtime Laravel with Socket.io
+01.12.2018  00:14    <DIR>          Laracasts - Testing Vue
+01.12.2018  08:32    <DIR>          Laracasts - Unlocking Badges Workshop
+01.12.2018  08:32    <DIR>          Laracasts - Visual Studio Code for PHP Developers
+01.12.2018  11:22    <DIR>          Laracasts - Whatcha Working On
+14.10.2018  08:01    <DIR>          Laravel
+13.07.2018  07:45    <DIR>          Laravel Kitap
+01.12.2018  11:57    <DIR>          Leftlogic - Next.js Universal JavaScript
+30.11.2018  21:01    <DIR>          Level UpTutorials - Level 2 React
+30.11.2018  21:01    <DIR>          Level UpTutorials - Vue.js For Everyone
+01.12.2018  11:57    <DIR>          LevelUp Tutorials - Better Javascript
+01.12.2018  11:58    <DIR>          LevelUp Tutorials - Level 1 Apollo Client with React
+30.11.2018  21:01    <DIR>          Levelup Tutorials - Level 2 React Native with GraphQL
+01.12.2018  00:15    <DIR>          Levelup Tutorials - React 16 for Everyone
+30.11.2018  21:01    <DIR>          Leveluptutorials - Level 1 Electron
+01.12.2018  08:32    <DIR>          Linkedin - Building Website with Nodejs and Expressjs
+13.07.2018  07:45    <DIR>          Linkedin - C# Framework Design
+20.08.2018  18:15    <DIR>          Linkedin - Code Clinic JavaScript 2018
+01.12.2018  12:46    <DIR>          Linkedin - Deploying ASP.NET Applications
+30.11.2018  21:02    <DIR>          Linkedin - Developing with Visual Studio Code
+01.12.2018  11:58    <DIR>          Linkedin - Docker for Developers
+13.07.2018  00:21    <DIR>          Linkedin - Entity Framework Core Essential Training
+30.11.2018  21:02    <DIR>          Linkedin - JavaScript Essential Training
+01.12.2018  12:56    <DIR>          Linkedin - Javascript Patterns
+13.07.2018  00:21    <DIR>          Linkedin - Learning Composer PHP Dependency Manager
+01.12.2018  11:58    <DIR>          Linkedin - Learning Ethical Hacking with JavaScript
+01.12.2018  17:37    <DIR>          Linkedin - Learning Vue.js
+13.07.2018  00:22    <DIR>          Linkedin - PHP Object-Oriented Programming
+13.07.2018  07:45    <DIR>          Linkedin - PHP Object-oriented Programming Databases
+01.12.2018  11:58    <DIR>          Linkedin - React SPAs
+30.11.2018  21:03    <DIR>          Linkedin - The DOM in JavaScript, jQuery, AngularJS, and React
+30.11.2018  21:05    <DIR>          Linkedin - Vanilla Javascript Progressive Web Applications
+01.12.2018  11:59    <DIR>          Linkedin - Vanilla Javascript Service Workers
+01.12.2018  11:23    <DIR>          Linkedin - Vanilla Javascript Web Performance Optimization API
+01.12.2018  11:23    <DIR>          Linkedin - Vanilla Javascript Web Workers
+13.07.2018  00:22    <DIR>          Linkedin - Xamarin Essential Training
+13.07.2018  00:22    <DIR>          Linux Academy - Nginx And The LEMP Stack
+18.07.2018  13:14    <DIR>          Lynda - Advanced Express - Web Application Development
+30.11.2018  21:05    <DIR>          Lynda - Advanced PHP
+30.11.2018  21:05    <DIR>          Lynda - API Development in .NET with GraphQL
+30.11.2018  21:06    <DIR>          Lynda - Building APIs in PHP Using the Slim Micro Framework
+13.07.2018  00:22    <DIR>          Lynda - C# Best Practices for Developers
+30.11.2018  21:06    <DIR>          Lynda - Consuming RESTful APIs in PHP with Guzzle
+18.07.2018  13:15    <DIR>          Lynda - Databases for Node.js Developers
+30.11.2018  21:06    <DIR>          Lynda - Entity Framework Core Essential Training - 1
+18.07.2018  13:15    <DIR>          Lynda - ES6 The Right Parts
+13.07.2018  00:22    <DIR>          Lynda - JavaScript Essential Training
+13.07.2018  00:23    <DIR>          Lynda - Laravel 5 Essential Training 1 Basics
+13.07.2018  00:23    <DIR>          Lynda - Learning App Building Vanilla JavaScript
+13.07.2018  00:23    <DIR>          Lynda - Learning PHP
+13.07.2018  00:23    <DIR>          Lynda - Learning Redis
+13.07.2018  00:23    <DIR>          Lynda - Linux for PHP Developers
+13.07.2018  00:23    <DIR>          Lynda - NodeJS Build Your First Microservice
+01.12.2018  12:00    <DIR>          Lynda - Organizing JavaScript Functionality
+13.07.2018  00:23    <DIR>          Lynda - PHP - Performance Optimization
+13.07.2018  00:23    <DIR>          Lynda - PHP - Resizing and Watermarking Images
+13.07.2018  00:23    <DIR>          Lynda - PHP 7 New Features
+20.08.2018  18:36    <DIR>          Lynda - PHP Clean URLs on Apache Server
+18.07.2018  13:20    <DIR>          Lynda - PHP Object Oriented Programming
+13.07.2018  00:24    <DIR>          Lynda - PHP Object Oriented Programming Databases
+30.11.2018  21:07    <DIR>          Lynda - PHP Object-Oriented Programming Databases
+13.07.2018  00:23    <DIR>          Lynda - PHP Tips, Tricks, and Techniques
+30.11.2018  21:08    <DIR>          Lynda - PHP-Object-Oriented-Programming
+01.12.2018  11:23    <DIR>          Lynda - Programming Foundations  Real-World Examples
+13.07.2018  00:24    <DIR>          Lynda - Reactjs Essential Training
+13.07.2018  00:24    <DIR>          Lynda - Real-Time Web with Node.js
+13.07.2018  00:24    <DIR>          Lynda - Up and Running in Vue
+30.11.2018  21:08    <DIR>          Lynda - Webpack for React Applications
+30.11.2018  21:09    <DIR>          Manning - Docker in Action
+01.12.2018  00:15    <DIR>          Manning - Functional Programming in Javascript
+01.12.2018  12:01    <DIR>          Microsoft Virtual Academy - PowerShell for SQL Data Professionals
+13.07.2018  00:25    <DIR>          MongoDB with PHP - Build OOP Website Prepare for the future
+01.12.2018  11:31    <DIR>          Mosh Hamedani - Code with Mosh - Mastering React
+13.07.2018  00:25    <DIR>          Oreilly - Up to Speed with PHP 7
+30.11.2018  21:10    <DIR>          Packt -  A Beginner's Guide to Web Development
+01.12.2018  11:02    <DIR>          Packt -  Accelerated ES6 Training
+30.11.2018  21:10    <DIR>          Packt - A JavaScript Projects AJAX Information Application Exercise
+30.11.2018  21:11    <DIR>          Packt - A JavaScript War Card Game Project from Scratch
+30.11.2018  21:12    <DIR>          Packt - A RESTful API Node Exercise for Beginners JavaScript and JQuery
+30.11.2018  21:12    <DIR>          Packt - A Twitter API JavaScript Node Exercise
+20.08.2018  18:16    <DIR>          Packt - Advanced Server-Side Programming with Node.js
+30.11.2018  21:12    <DIR>          Packt - An Interactive Introduction to JavaScript DOM
+01.12.2018  12:02    <DIR>          Packt - Aspnet Core Full-stack Development Projects
+01.12.2018  12:03    <DIR>          Packt - Bash Scripting Solutions
+30.11.2018  21:13    <DIR>          Packt - Beginners Guide to Backend Development
+13.07.2018  00:26    <DIR>          Packt - Beginning API Development with Node.js
+13.07.2018  00:26    <DIR>          Packt - Beginning Asp.Net
+30.11.2018  21:14    <DIR>          Packt - Beginning Devops with Docker
+01.12.2018  08:33    <DIR>          Packt - Beginning Frontend Development React
+30.11.2018  21:14    <DIR>          Packt - Beginning Graphql
+13.07.2018  00:26    <DIR>          Packt - Beginning Object Oriented Programming
+30.11.2018  21:15    <DIR>          Packt - Beginning Object-Oriented Programming with JavaScript
+13.07.2018  00:26    <DIR>          Packt - Building PHP Restful Web Services
+13.07.2018  00:26    <DIR>          Packt - Building Single Page Application Javascript
+13.07.2018  00:26    <DIR>          Packt - Building Your First Advanced CRUD Application with Vue 2
+01.12.2018  12:57    <DIR>          Packt - Complete Reactjs Redux Course Build Modern Web Apps
+13.07.2018  00:27    <DIR>          Packt - Design Patterns Using C# and .Net Core
+01.12.2018  12:03    <DIR>          Packt - Effective Devops and Development with Docker
+13.07.2018  00:27    <DIR>          Packt - Extending Laravel First Packages
+01.12.2018  12:57    <DIR>          Packt - Full Stack Development wit React ASP.NET Core 2
+13.07.2018  00:27    <DIR>          Packt - Functional PHP 7
+18.07.2018  13:27    <DIR>          Packt - Getting Started with ASP.NET Core MVC
+13.07.2018  00:27    <DIR>          Packt - Getting Started with Microservices PHP
+30.11.2018  21:15    <DIR>          Packt - Getting Started with Modern Python
+13.07.2018  00:27    <DIR>          Packt - Getting Started with Object-Oriented Programming in Python 3
+13.07.2018  00:27    <DIR>          Packt - Getting Started with PHP 7
+13.07.2018  00:27    <DIR>          Packt - Getting Started with PHP Reactive Programming
+30.11.2018  21:16    <DIR>          Packt - Hands-on Application Building with GraphQL
+30.11.2018  21:16    <DIR>          Packt - Hands-on MEAN Stack Web Development
+30.11.2018  21:16    <DIR>          Packt - Hands-on Web Development with Javascript
+30.11.2018  21:17    <DIR>          Packt - Hands-on Web Development with React
+30.11.2018  21:17    <DIR>          Packt - Hands-on Web Development with Typescript 3
+13.07.2018  00:28    <DIR>          Packt - Hands-on Web Development with VueJS
+01.12.2018  08:33    <DIR>          Packt - Implementing Serverless Microservices Architecture Patterns
+30.11.2018  21:17    <DIR>          Packt - Isomorphic Javascript with MEVN Stack
+30.11.2018  21:18    <DIR>          Packt - JavaScript A Breakout Game Exercise
+01.12.2018  12:03    <DIR>          Packt - JavaScript and ES6 Challenges ~ Do You Know JavaScript
+30.11.2018  21:18    <DIR>          Packt - Learn JSON with this JSON Checklist Practice Exercise
+13.07.2018  00:28    <DIR>          Packt - Learn Python in 3 Hours
+30.11.2018  21:18    <DIR>          Packt - Learning Ecmascript 2017
+30.11.2018  21:19    <DIR>          Packt - Learning MongoDB Schema, Indexes and Queries
+30.11.2018  21:20    <DIR>          Packt - Learning Oracle PLSQL
+13.07.2018  00:28    <DIR>          Packt - Learning PHP 7
+13.07.2018  00:28    <DIR>          Packt - Learning React Native Development
+01.12.2018  11:32    <DIR>          Packt - Learning Vuejs 2
+01.12.2018  12:57    <DIR>          Packt - Learning Web Scraping with Javascript
+30.11.2018  21:20    <DIR>          Packt - Mastering Clean Code in JavaScript
+30.11.2018  21:21    <DIR>          Packt - Object Oriented PHP and MVC
+13.07.2018  00:28    <DIR>          Packt - PHP 7 Programming Solutions
+30.11.2018  21:21    <DIR>          Packt - Professional Devops
+01.12.2018  12:04    <DIR>          Packt - Professional Nodejs
+30.11.2018  21:22    <DIR>          Packt - Python for the .NET Developer
+30.11.2018  21:22    <DIR>          Packt - React Native - The Practical Guide
+20.08.2018  18:36    <DIR>          Packt - React Native The Practical Guide
+01.12.2018  12:04    <DIR>          Packt - Real World Nodejs Projects
+30.11.2018  21:23    <DIR>          Packt - Real World Projects with Vuejs
+13.07.2018  00:28    <DIR>          Packt - Test Driven Development with C Sharp and DOTNET Core MVC
+13.07.2018  00:32    <DIR>          Packt - The Ultimate Vue JS 2 Developers Course
+01.12.2018  12:05    <DIR>          Packt - Troubleshooting Vuejs
+01.12.2018  12:05    <DIR>          Packt - Vuejs Application Development Essentials
+13.07.2018  00:32    <DIR>          Packt - Web Development with Vue.js 2
+30.11.2018  21:23    <DIR>          Pearson - Kotlin from Ground Up
+30.11.2018  21:24    <DIR>          Pirple - The Node.js Master Class - No Frameworks, No NPM
+01.12.2018  08:33    <DIR>          Pluralsight -  Building Business Applications with Vue.js and MongoDB
+30.11.2018  21:25    <DIR>          Pluralsight - Advanced JavaScript
+20.08.2018  18:16    <DIR>          Pluralsight - Advanced Node.js
+01.12.2018  08:34    <DIR>          Pluralsight - Advanced TypeScript
+30.11.2018  21:26    <DIR>          Pluralsight - ASP.NET Core 2.0 Razor Playbook
+30.11.2018  21:27    <DIR>          Pluralsight - ASP.NET Core Fundamentals
+30.11.2018  21:27    <DIR>          Pluralsight - Become a Full-stack .NET Developer
+13.07.2018  00:33    <DIR>          Pluralsight - Become a Full-stack .NET Developer - Architecture and Testing
+30.11.2018  21:28    <DIR>          Pluralsight - Become a Full-stack .NET Developer Advanced Topics
+01.12.2018  12:05    <DIR>          Pluralsight - Building a Site with Angular and PHP
+13.07.2018  00:33    <DIR>          Pluralsight - Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular
+30.11.2018  21:28    <DIR>          Pluralsight - Building Command Line Applications in Node js
+13.07.2018  07:46    <DIR>          Pluralsight - Building Javascript Development Environment
+13.07.2018  00:33    <DIR>          Pluralsight - Building Web Applications with Node.js and Express 4.0
+20.08.2018  18:18    <DIR>          Pluralsight - Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017
+30.11.2018  21:28    <DIR>          Pluralsight - Containerizing Angular Applications with Docker
+30.11.2018  21:29    <DIR>          Pluralsight - CQRS in Practice
+13.07.2018  00:34    <DIR>          Pluralsight - Docker Deep Dive
+13.07.2018  00:34    <DIR>          Pluralsight - Eclipse for Java Developers
+30.11.2018  21:29    <DIR>          Pluralsight - Enterprise Data Modeling Getting Started
+18.07.2018  13:32    <DIR>          Pluralsight - JavaScript Best Practices
+13.07.2018  00:34    <DIR>          Pluralsight - JavaScript Design Patterns
+13.07.2018  00:34    <DIR>          Pluralsight - PHP Predefined Variables
+30.11.2018  21:29    <DIR>          Pluralsight - Play by Play Visual Studio Code Can Do That
+18.07.2018  13:37    <DIR>          Pluralsight - Practical Design Patterns in JavaScript
+18.07.2018  13:41    <DIR>          Pluralsight - Rapid ES6 Training
+13.07.2018  00:34    <DIR>          Pluralsight - React.js Getting Started
+30.11.2018  21:30    <DIR>          Pluralsight - Working with Files and Streams in C#
+13.07.2018  00:34    <DIR>          React Kitabç
+30.11.2018  21:30    <DIR>          Scotch.io - Build a Monthly Subscription App with Laravel Cashier
+30.11.2018  21:30    <DIR>          Scotch.io - Build an Interactive JavaScript Food Menu
+30.11.2018  21:30    <DIR>          Scotch.io - Build Your First Node.js Website
+30.11.2018  21:31    <DIR>          Scotch.io - Create a CRUD App with Node and MongoDB
+30.11.2018  21:31    <DIR>          Scotch.io - Getting Started with JavaScript for Web Development
+30.11.2018  21:32    <DIR>          Scotch.io - Getting Started with Vagrant for Local Development
+30.11.2018  21:32    <DIR>          Scotch.io - Getting Started with Vue.js
+30.11.2018  21:32    <DIR>          Scotch.io - Laravel Databases and Eloquent Models
+30.11.2018  21:32    <DIR>          Scotch.io - Laravel Eloquent Relationships
+30.11.2018  21:33    <DIR>          Scotch.io - Laravel Routing
+30.11.2018  21:33    <DIR>          Scotch.io - Laravel Templating with Blade
+01.12.2018  12:06    <DIR>          SkillShare - Build An eCommerce Website From Scratch With PHP & Bootstrap
+30.11.2018  21:34    <DIR>          Skillshare - Complete Javascript Toolkit
+30.11.2018  21:34    <DIR>          Stone River - Bash Scripting and Shell Programming
+01.12.2018  00:16    <DIR>          Teamtreehouse - File Handling with PHP
+01.12.2018  11:32    <DIR>          Teamtreehouse - HTML Basics
+01.12.2018  11:32    <DIR>          Teamtreehouse - Introducing Javascript
+01.12.2018  08:34    <DIR>          Totalreact - React Catch-up
+18.07.2018  13:46    <DIR>          Treehouse - Building Applications with React and Redux
+30.11.2018  21:35    <DIR>          Treehouse - CRUD Operations with PHP
+30.11.2018  21:35    <DIR>          Treehouse - Designing Interfaces in PHP
+30.11.2018  21:35    <DIR>          Treehouse - Object-oriented Javascript Example
+13.07.2018  00:35    <DIR>          Treehouse - Regular Expressions in JavaScript
+30.11.2018  21:35    <DIR>          Treehouse - Vue Js Basics
+30.11.2018  21:35    <DIR>          Tutsplus - Advanced JavaScript Fundamentals
+30.11.2018  21:35    <DIR>          Tutsplus - Authentication with Laravel
+30.11.2018  21:36    <DIR>          Tutsplus - Build a REST API With Laravel
+01.12.2018  08:34    <DIR>          TutsPlus - Build a Social App With React Native
+30.11.2018  21:36    <DIR>          Tutsplus - Build your First Laravel Site
+30.11.2018  21:37    <DIR>          TutsPlus - Building JavaScript Web Apps
+20.08.2018  18:18    <DIR>          TutsPlus - Easier JavaScript with TypeScript
+20.08.2018  18:18    <DIR>          TutsPlus - Essential Tools for JavaScript Developers
+20.08.2018  18:19    <DIR>          TutsPlus - Functional Programming in JavaScript
+30.11.2018  21:37    <DIR>          Tutsplus - How it works Laravel Eloquent ORM
+30.11.2018  21:37    <DIR>          Tutsplus - How it Works Laravel Middleware
+01.12.2018  12:06    <DIR>          Tyler McGinnis - Advanced Javascript
+30.11.2018  21:37    <DIR>          Tyler McGinnis - Modern JavaScript
+30.11.2018  21:38    <DIR>          Tyler McGinnis - React Fundamentals
+30.11.2018  21:39    <DIR>          Tyler McGinnis - React Native
+01.12.2018  11:08    <DIR>          Udacity - Senior Web Developer Nanodegree by Google
+20.08.2018  18:23    <DIR>          Udacity - Web Developer Nanodegree
+01.12.2018  12:07    <DIR>          Udemy - #1 Complete ASP.NET Core 2.0 MVC Single-Page App
+01.12.2018  11:08    <DIR>          Udemy - #1 Complete NodeJs Express Single-Page App
+13.07.2018  00:36    <DIR>          Udemy - 2018 Fullstack Laravel 5.6 with QRCodes, APIs, AndroidiOS
+01.12.2018  08:35    <DIR>          Udemy - Accelerated ES6 JavaScript Training
+01.12.2018  08:35    <DIR>          Udemy - Accelerated JavaScript Training
+01.12.2018  12:58    <DIR>          Udemy - Algorithms and Data Structures in Javascript
+01.12.2018  12:51    <DIR>          Udemy - Android Kotlin Development Masterclass using Android Oreo
+01.12.2018  11:32    <DIR>          Udemy - Android Make a Professional Dictionary App from Scratch
+01.12.2018  12:07    <DIR>          Udemy - Angular - Concepts, Code and Collective Wisdom
+13.07.2018  00:36    <DIR>          Udemy - Angular 5 Concept Mastery Course
+30.11.2018  21:40    <DIR>          Udemy - Angular Crash Course for Busy Developers
+30.11.2018  21:40    <DIR>          Udemy - Angular Progressive Web Apps (PWA) MasterClass & FREE E-Book
+30.11.2018  21:41    <DIR>          Udemy - API in C# The Best Practices of Design and Implementation
+30.11.2018  21:42    <DIR>          Udemy - ASP.NET Web Api and Angularjs Development to Deployment
+01.12.2018  00:17    <DIR>          Udemy - Asynchronous JavaScript
+13.07.2018  00:36    <DIR>          Udemy - AWS Serverless APIs & Apps - A Complete Introduction
+30.11.2018  21:43    <DIR>          Udemy - Become a JavaScript developer - Learn (React, Node,Angular)
+20.08.2018  18:44    <DIR>          Udemy - Become a Master of JavaScript from Scratch in 2018
+30.11.2018  21:43    <DIR>          Udemy - Beginner Firebase and Vue.js
+18.07.2018  14:35    <DIR>          Udemy - Beginners ES6 Programming Code For The Web In Javascript
+30.11.2018  21:44    <DIR>          Udemy - Booking System in Laravel 5 With Hybrid Mobile Version
+13.07.2018  00:37    <DIR>          Udemy - Build A Real World Responsive Website with Html 5 CSS 3 & JS
+01.12.2018  12:58    <DIR>          Udemy - Build A Simple Chat System in JavaScript
+01.12.2018  11:10    <DIR>          Udemy - Build a Slack Chat App with React, Redux, and Firebase
+01.12.2018  12:14    <DIR>          Udemy - Build an App with ASPNET Core and Angular from Scratch
+20.08.2018  18:55    <DIR>          Udemy - Build an app with React, Redux and Firestore from Scratch
+30.11.2018  21:45    <DIR>          Udemy - Build APIs Using NodeJS Express MongoDB Mongoose
+18.07.2018  14:53    <DIR>          Udemy - Build Blog CMS with Laravel 5
+30.11.2018  21:46    <DIR>          Udemy - Build E-Commerce Website in Laravel
+13.07.2018  00:37    <DIR>          Udemy - Build Your Own Messenger With Object Oriented PHP & Flexbox
+06.06.2018  16:08    <DIR>          Udemy - Building A ToDo App with Django and Python
+13.07.2018  07:46    <DIR>          Udemy - Byte-Sized-Chunks Dynamic Prototypes in Javascript
+01.12.2018  12:59    <DIR>          Udemy - C# Advanced Topics Take Your C# Skills to the Next Level
+13.07.2018  00:38    <DIR>          Udemy - C# Basics for Beginners Learn C# Fundamentals by Coding - English
+01.12.2018  12:59    <DIR>          Udemy - C# Intermediate Classes, Interfaces and OOP
+02.07.2018  15:44    <DIR>          Udemy - Car Racer JavaScript Game Exercise Vanilla JavaScript
+30.11.2018  21:47    <DIR>          Udemy - Client-Side Data Storage Ultimate Guide
+13.07.2018  07:46    <DIR>          Udemy - Complete Javascript ES6 Course
+30.11.2018  21:49    <DIR>          Udemy - Complete Python Bootcamp
+13.07.2018  00:39    <DIR>          Udemy - Create a High End Social Network Like Twitter in PHP Mysql
+30.11.2018  21:51    <DIR>          Udemy - Create a Spotify Clone from Scratch - JavaScript, PHP, MySQL
+22.06.2018  18:26    <DIR>          Udemy - Data Structures in JavaScript
+01.12.2018  11:11    <DIR>          Udemy - Design Patterns with JavaScript ES56 and Node.jsFrom zero
+30.11.2018  21:55    <DIR>          Udemy - Devops Beginners Bundle
+30.11.2018  21:56    <DIR>          Udemy - Docker and Kubernetes The Complete Guide
+30.11.2018  21:56    <DIR>          Udemy - Docker Mastery
+30.11.2018  21:56    <DIR>          Udemy - Dynamic JavaScript Master Class AJAX JSON Simple APIs
+12.06.2018  22:31    <DIR>          Udemy - Electron React Tutorial
+30.11.2018  21:57    <DIR>          Udemy - Entity Framework In Depth The Complete Guide
+01.12.2018  11:11    <DIR>          Udemy - ES6 Javascript The Complete Developer's Guide
+01.12.2018  11:34    <DIR>          Udemy - Full-Stack Firebase
+30.11.2018  21:59    <DIR>          Udemy - Full-Stack React with GraphQL and Apollo Boost
+20.08.2018  17:54    <DIR>          Udemy - Full-Stack React, GraphQL and Apollo Boost
+01.12.2018  11:36    <DIR>          Udemy - Full-Stack Vue with GraphQL The Ultimate Guide
+30.11.2018  22:03    <DIR>          Udemy - Fullstack Web Development With Laravel
+01.12.2018  11:12    <DIR>          Udemy - Functional Programming For Beginners With JavaScript
+11.05.2018  15:45    <DIR>          Udemy - Fundamentals of VueJS
+18.07.2018  15:01    <DIR>          Udemy - Git and GitHub Bootcamp
+30.11.2018  22:04    <DIR>          Udemy - Git for Windows Step-By-Step Mastery using Commands and GUI
+30.11.2018  22:04    <DIR>          Udemy - Git Github Version Control Complete Guide
+01.12.2018  12:15    <DIR>          Udemy - GraphQL by Example
+01.12.2018  08:36    <DIR>          Udemy - GraphQL with React The Complete Developers Guide
+01.12.2018  12:59    <DIR>          Udemy - Hacking For Beginners
+01.12.2018  12:51    <DIR>          Udemy - Introduction to the MongoDB
+30.11.2018  22:09    <DIR>          Udemy - Java In-Depth Become a Complete Java Engineer!
+30.11.2018  22:09    <DIR>          Udemy - Java Object-Oriented Programming  Build a Quiz Application
+30.11.2018  22:11    <DIR>          Udemy - JavaScript Algorithms
+01.12.2018  12:20    <DIR>          Udemy - JavaScript Algorithms and Data Structures Masterclass
+20.08.2018  17:54    <DIR>          Udemy - JavaScript and ES6 Challenges
+01.12.2018  12:20    <DIR>          Udemy - JavaScript and React for Developers Master the Essentials
+01.12.2018  11:38    <DIR>          Udemy - JavaScript Basics for Beginners
+11.07.2018  20:50    <DIR>          Udemy - JavaScript Exercise Local Storage Task List
+13.07.2018  06:37    <DIR>          Udemy - Javascript for Beginners Learn by Doing Practical Exercises
+18.07.2018  15:09    <DIR>          Udemy - JavaScript for Beginners Practical Project Based Course
+13.07.2018  06:37    <DIR>          Udemy - JavaScript for Beginners To Web Development
+13.07.2018  06:38    <DIR>          Udemy - JavaScript Game Development Step by Step
+30.11.2018  22:22    <DIR>          Udemy - JavaScript Guide The Complete Guide to Master JavaScript
+18.07.2018  15:12    <DIR>          Udemy - Javascript Object-oriented Programming
+30.11.2018  22:22    <DIR>          Udemy - JavaScript Objects - Explore and learn about Objects
+30.11.2018  22:22    <DIR>          Udemy - Javascript React Developers Master Essentials
+30.11.2018  22:23    <DIR>          Udemy - Javascript Rules for JavaScript foundation& Object Oriented
+01.12.2018  08:38    <DIR>          Udemy - JavaScript Variables Lifecycles
+30.11.2018  22:24    <DIR>          Udemy - Javascript Weather Application
+20.08.2018  17:56    <DIR>          Udemy - JSON - Beginners Guide to learning JSON with JavaScript - Tutsem
+01.12.2018  17:31    <DIR>          Udemy - Kotlin for Android Beginner to Advanced
+01.12.2018  12:24    <DIR>          Udemy - Kotlin for Android O Development From Beginner to Advanced
+30.11.2018  22:25    <DIR>          Udemy - Laravel 5.6 Course Super-fast Prototyping Techniques
+13.07.2018  06:38    <DIR>          Udemy - Laravel 5.6 Zero Base Introduction
+30.11.2018  22:26    <DIR>          Udemy - Laravel 5.7 Ecommerce Shop
+30.11.2018  22:26    <DIR>          Udemy - Laravel E-Commerce Restful API
+30.11.2018  22:27    <DIR>          Udemy - Laravel React CRUD SPA APP in 2 hours
+30.11.2018  22:28    <DIR>          Udemy - Laravel with React JS Build Twitter Like Real Time Web App
+01.12.2018  13:00    <DIR>          Udemy - Laravel, The Complete Guide with Real World Projects
+01.12.2018  11:38    <DIR>          Udemy - Learn & Master Vuejs from Scratch 2018
+30.11.2018  22:30    <DIR>          Udemy - Learn C# By Building Applications
+01.12.2018  12:25    <DIR>          Udemy - Learn Enterprise WPF with XAML from Scratch
+13.07.2018  06:39    <DIR>          Udemy - Learn Expressjs for Beginners
+01.12.2018  12:26    <DIR>          Udemy - Learn HANA SQL
+30.11.2018  22:31    <DIR>          Udemy - Learn JavaScript for Web Development
+30.11.2018  22:32    <DIR>          Udemy - Learn JavaScript The Fun Way by Developing a Clicker Game
+18.07.2018  15:12    <DIR>          Udemy - Learn JSON with JavaScript Objects and APIs in 1 hour
+30.11.2018  22:32    <DIR>          Udemy - Learn Laravel 5 Framework by building a professional Website
+20.08.2018  18:29    <DIR>          Udemy - Learn Modern Responsive Web Design with Example Step by Step
+30.11.2018  22:36    <DIR>          Udemy - Learn MongoDB with PHP by building OOP Website with Modals
+13.07.2018  06:40    <DIR>          Udemy - Learn MongoDB with PHP, PHP Basics & Advanced, Git, JSON,XML
+01.12.2018  12:27    <DIR>          Udemy - Learn Nginx By Example
+13.07.2018  07:50    <DIR>          Udemy - Learn PHP Programming from Scratch
+30.11.2018  22:40    <DIR>          Udemy - Learn PHP Symfony 4 Hands-On Creating Real World Application
+30.11.2018  22:42    <DIR>          Udemy - Learn React - The Complete Guide to Master React
+30.11.2018  22:46    <DIR>          Udemy - Learn Symfony 4 Hands-on Creating a Real World Application
+30.11.2018  22:47    <DIR>          Udemy - Learn to Build a REST API with Vanilla PHP with Basic Auth
+18.07.2018  15:12    <DIR>          Udemy - Learn To Use APIs With Visual Studio, C#, ASP.Net
+01.12.2018  12:53    <DIR>          Udemy - Learn VueJS from Scratch The Complete 1 Hour Crash Course!
+30.11.2018  22:53    <DIR>          Udemy - Learning MEAN Stack by Building Real world Application
+30.11.2018  22:57    <DIR>          Udemy - Let's Create A Nodejs Desktop Chat Application
+30.11.2018  22:57    <DIR>          Udemy - Linux Command line Basics
+01.12.2018  17:37    <DIR>          Udemy - Login, Registration and Profile Management in PHPMYSQL 2018
+13.07.2018  07:50    <DIR>          Udemy - Master Advanced JavaScript React
+01.12.2018  13:00    <DIR>          Udemy - Master All PHP Ideas 2017 to Build Any Project
+13.07.2018  06:40    <DIR>          Udemy - Master Electron
+01.12.2018  17:30    <DIR>          Udemy - Master Full-Stack Web Development  Node, SQL, React, & More
+01.12.2018  12:28    <DIR>          Udemy - Master React the fun way! Create a Movie App from scratch
+01.12.2018  12:29    <DIR>          Udemy - Master Redis A Complete Course on Redis
+13.07.2018  06:40    <DIR>          Udemy - Mastering PHP PDO PHP Data Objects with CRUD Application
+30.11.2018  22:58    <DIR>          Udemy - Mastering Sublime Text 3 Editing Web Python
+30.11.2018  23:03    <DIR>          Udemy - MERN Stack Front to Back
+04.12.2018  22:23    <DIR>          Udemy - Modern JavaScript From The Beginning
+13.07.2018  07:53    <DIR>          Udemy - Modern Javascript Mastering ES6 And ES7
+13.07.2018  06:47    <DIR>          Udemy - Modern JavaScript The Complete Course - Build +10 Projects
+01.12.2018  12:34    <DIR>          Udemy - MongoDB The Complete Developer's Guide
+01.12.2018  08:42    <DIR>          Udemy - MongoDB The Complete Developers Guide
+01.12.2018  12:36    <DIR>          Udemy - Mysql for Data Analytics and Business Intelligence
+20.08.2018  17:57    <DIR>          Udemy - Node JS Advanced Concepts
+13.07.2018  07:55    <DIR>          Udemy - Node with React Fullstack Web Development
+30.11.2018  23:08    <DIR>          Udemy - Node.js for Beginners - Become a NodeJs Developer + Project
+13.07.2018  06:52    <DIR>          Udemy - Node.js The Complete Guide to Build RESTful APIs
+30.11.2018  23:08    <DIR>          Udemy - Node.js, Express & MongoDB Dev to Deployment
+30.11.2018  23:09    <DIR>          Udemy - Nuxt.js Vue.js on Steroids
+04.12.2018  22:23    <DIR>          Udemy - Object Oriented PHP & MVC
+30.11.2018  23:11    <DIR>          Udemy - Object Oriented PHP, Ajax, Flexbox Build Messenger App
+04.12.2018  22:23    <DIR>          Udemy - Object-Oriented Programming in JavaScript
+01.12.2018  17:37    <DIR>          Udemy - OOP Object Oriented Programming In PHP 7
+01.12.2018  13:03    <DIR>          Udemy - Oracle Certification Mastering Java for Beginners & Experts
+18.07.2018  15:13    <DIR>          Udemy - PHP Crash Course
+13.07.2018  06:54    <DIR>          Udemy - PHP Facebook Developer Passwordless Authentication
+18.07.2018  15:14    <DIR>          Udemy - PHP for Absolute Beginners
+20.08.2018  18:46    <DIR>          Udemy - PHP from the Ground Up
+13.07.2018  06:55    <DIR>          Udemy - PHP MVC from Scratch
+13.07.2018  07:56    <DIR>          Udemy - PHP MySQL Master from Scratch with Projects
+13.07.2018  06:55    <DIR>          Udemy - PHP OOP 100% Practical Course
+01.12.2018  12:55    <DIR>          Udemy - PHP OOP Object Oriented Programming for Beginners + Project
+01.12.2018  08:42    <DIR>          Udemy - PHP OOP Understand Object Oriented Programming in PHP
+30.11.2018  23:16    <DIR>          Udemy - PHP Programming For Everyone
+13.07.2018  06:56    <DIR>          Udemy - PHP Web Developer Course with Project
+30.11.2018  23:18    <DIR>          Udemy - Private (one to one) Chat App with Laravel Vuejs and Pusher
+30.11.2018  23:21    <DIR>          Udemy - Professional Blog+CMS Development With Laravel 5
+13.07.2018  06:57    <DIR>          Udemy - Projects Electron Building Apps
+30.11.2018  23:22    <DIR>          Udemy - Projects in Electron Learn Electron Framework Building Apps
+01.12.2018  08:42    <DIR>          Udemy - Projects in Laravel Learn Laravel Building 10 Projects
+13.07.2018  06:57    <DIR>          Udemy - Projects In ReactJS
+30.11.2018  23:22    <DIR>          Udemy - Python 3 E-learning Text-to-Speech Alphabet application
+30.11.2018  23:22    <DIR>          Udemy - Python 3 The complete Database management system in 2018
+01.12.2018  11:18    <DIR>          Udemy - Python Django Dev To Deployment
+30.11.2018  23:23    <DIR>          Udemy - Python for .NET Developer
+01.12.2018  12:40    <DIR>          Udemy - React + Redux - Professional Development
+01.12.2018  17:34    <DIR>          Udemy - React - Mastering Test Driven Development
+13.07.2018  07:02    <DIR>          Udemy - React 16 - The Complete Guide (incl. React Router 4 & Redux)
+30.11.2018  23:24    <DIR>          Udemy - React for Absolute Beginners
+30.11.2018  23:27    <DIR>          Udemy - React Front To Back
+20.08.2018  18:02    <DIR>          Udemy - React Native Advanced Concepts
+30.11.2018  23:28    <DIR>          Udemy - React Redux Firebase CRUD App with Authentication
+01.12.2018  17:31    <DIR>          Udemy - Real Time Single Page Forum App with Pusher Laravel & vuejs
+01.12.2018  13:05    <DIR>          Udemy - Real World ASP.NET Web API Services for .NET Framework
+01.12.2018  12:42    <DIR>          Udemy - Real World Aspnet Web API Services for .Net Framework
+30.11.2018  23:28    <DIR>          Udemy - Responsive Coffee Shop Website with CSS3 GRID and Javascript
+30.11.2018  23:30    <DIR>          Udemy - REST WCF Service for Web Applications in ASP.NET Hands-On
+13.07.2018  07:03    <DIR>          Udemy - SAP ABAP Programming for Beginners
+30.11.2018  23:32    <DIR>          Udemy - SAP ABAP Programming For Beginners - Online Training
+30.11.2018  23:33    <DIR>          Udemy - Server Side Rendering with React and Redux
+30.11.2018  23:34    <DIR>          Udemy - Symfony from Scratch on a Real Project 2018
+30.11.2018  23:36    <DIR>          Udemy - The Complete 2018 Fullstack Web Developer Course
+30.11.2018  23:38    <DIR>          Udemy - The Complete C# Developer Course
+01.12.2018  13:05    <DIR>          Udemy - The Complete CSS Flexbox Guide With a Complete Project 2018
+18.07.2018  14:09    <DIR>          Udemy - The Complete Javascript Course  Beginner To Professional
+13.07.2018  07:05    <DIR>          Udemy - The Complete JavaScript Course 2018 Build Real Projects!
+01.12.2018  12:42    <DIR>          Udemy - The Complete JavaScript Course For Web Development Beginners
+01.12.2018  13:05    <DIR>          Udemy - The Complete MySQL Bootcamp Become an Expert in SQL & MySQL
+30.11.2018  23:39    <DIR>          Udemy - The Complete PHP Bootcamp Course With Video Sharing Project
+01.12.2018  17:37    <DIR>          Udemy - The Complete Python Developer Course
+13.07.2018  07:09    <DIR>          Udemy - The Complete React Fullstack Course
+30.11.2018  23:42    <DIR>          Udemy - The Complete React Native and Redux Course
+01.12.2018  11:45    <DIR>          Udemy - The Complete React Native Course, Create Beautiful Apps
+01.12.2018  00:19    <DIR>          Udemy - The Complete React Web Developer Course (with Redux)
+01.12.2018  11:46    <DIR>          Udemy - The Complete TypeScript Programming Guide for Web Developers
+30.11.2018  23:48    <DIR>          Udemy - The Complete Web Developer in 2018 Zero to Mastery
+01.12.2018  11:51    <DIR>          Udemy - The Modern GraphQL Bootcamp (Advanced Node.js)
+30.11.2018  23:54    <DIR>          Udemy - The Modern JavaScript Bootcamp (2018)
+30.11.2018  23:56    <DIR>          Udemy - The Node.js Master Class - No Frameworks, No NPM  Node v8.x
+13.07.2018  07:17    <DIR>          Udemy - The Ultimate Advanced Laravel Pro course (incl Vuejs)
+30.11.2018  23:56    <DIR>          Udemy - The WordPress REST API with JavaScript - An Introduction
+01.12.2018  11:20    <DIR>          Udemy - Ultimate Laravel Course 2018 (+ PayPal, Webshop)
+30.11.2018  23:56    <DIR>          Udemy - Understand Javascript
+30.11.2018  23:57    <DIR>          Udemy - Understanding TypeScript
+01.12.2018  12:43    <DIR>          Udemy - VPS Mastery Build a Secure PHP Web Server with Ubuntu
+30.11.2018  23:58    <DIR>          Udemy - Vue and Laravel To-Do App Restful API Project
+13.07.2018  07:20    <DIR>          Udemy - Vue JS 2 The Complete Guide (incl. Vue Router & Vuex)
+20.08.2018  19:01    <DIR>          Udemy - Vue JS Essentials with Vuex and Vue Router
+13.07.2018  07:21    <DIR>          Udemy - Vue Web Apps
+30.11.2018  23:59    <DIR>          Udemy - Vue.js 2 Course for Students with ZERO ES6 foundation
+01.12.2018  00:01    <DIR>          Udemy - Vue.js 2.5 Create a website on Vue.JS with Firebase, Vuex and Router
+01.12.2018  00:01    <DIR>          Udemy - Vue.js Build a Full Stack App With Firebase, Vuex & Router
+13.07.2018  07:58    <DIR>          Udemy - Vuejs 2 The Complete Guide
+13.07.2018  07:24    <DIR>          Udemy - VueJS from Beginner to Professional
+01.12.2018  00:01    <DIR>          Udemy - Web Scraping with Nodejs
+13.07.2018  07:24    <DIR>          Udemy - Write PHP Like a Pro Build a PHP MVC Framework From Scratch
+13.07.2018  07:25    <DIR>          Udemy - Xamarin Forms Build Native Cross-platform Apps with C# - English
+01.12.2018  00:02    <DIR>          Ultimate Angular - TypeScript Fundamentals
+01.12.2018  00:03    <DIR>          Ultimate Angular - TypeScript Masterclass
+01.12.2018  00:04    <DIR>          Ultimate Angular - TypeScript Pro
+01.12.2018  13:06    <DIR>          Vueschool - Custom Vue Directives
+01.12.2018  17:31    <DIR>          VueSchool - Dynamic Forms with Vue.js
+01.12.2018  00:06    <DIR>          Vueschool - The Vue.js Master Class
+01.12.2018  08:44    <DIR>          Vueschool - Vue.js + Firebase Authentication
+01.12.2018  11:21    <DIR>          VueSchool - Vue.js + Firebase Realtime Database
+01.12.2018  12:45    <DIR>          Vueschool - Vue.js Form Validation
+01.12.2018  12:45    <DIR>          Vueschool - Vue.js Fundamentals
+01.12.2018  00:09    <DIR>          watchandcode - Premium Javascript
+13.07.2018  07:26    <DIR>          Wes Bos -  React for Beginners
+01.12.2018  00:13    <DIR>          Wes Bos - Full Stack Advanced React + GraphQL
+01.12.2018  00:13    <DIR>          WintellectNow - Asynchronous Programming in JavaScript
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\+ PHP Academy (Codecourse)
+
+14.10.2018  08:30    <DIR>          .
+14.10.2018  08:30    <DIR>          ..
+13.07.2018  00:04    <DIR>          Best Beginner PHP Tutorial
+13.07.2018  00:04    <DIR>          Building a Responsive Website with Bootstrap
+13.07.2018  00:04    <DIR>          Chrome Developer Tools Tutorial
+13.07.2018  00:04    <DIR>          CodeIgniter Tutorials_ Basic Website
+13.07.2018  00:05    <DIR>          CodeIgniter Tutorials_ Facebook Connect Login
+13.07.2018  00:05    <DIR>          CodeIgniter Tutorials_ Introduction to CodeIgniter
+13.07.2018  00:05    <DIR>          Common PHP Errors
+13.07.2018  00:05    <DIR>          CSS_CSS3 Tutorials
+13.07.2018  00:05    <DIR>          Dynamic RSS Feed For Your Website Content
+13.07.2018  00:05    <DIR>          HTML5 Tutorials
+13.07.2018  00:05    <DIR>          JavaScript AJAX File Upload with Progress Indicator
+13.07.2018  00:05    <DIR>          More PHP Tutorials
+13.07.2018  00:05    <DIR>          PHP Bloopers
+13.07.2018  00:05    <DIR>          PHP CodeIgniter Registration & Login
+13.07.2018  00:05    <DIR>          PHP Data Objects (PDO)
+13.07.2018  00:05    <DIR>          PHP OOP Tutorials
+13.07.2018  00:05    <DIR>          PHP String Functions You Should Know!
+13.07.2018  00:05    <DIR>          PHP Tips
+13.07.2018  00:05    <DIR>          PHP Tutorials-Advert Rotation System
+13.07.2018  00:05    <DIR>          PHP Tutorials_ 7 PHP String Functions You Should Know
+13.07.2018  00:05    <DIR>          PHP Tutorials_ Advert Rotation System
+13.07.2018  00:05    <DIR>          PHP Tutorials_ Auto Suggest Drop Down Field
+13.07.2018  00:05    <DIR>          PHP Tutorials_ BBCode
+13.07.2018  00:05    <DIR>          PHP Tutorials_ Check if Website is Up or Down
+13.07.2018  00:05    <DIR>          PHP Tutorials_ Contact Form
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Create a 'Like' Button
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Create a CMS
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Create a Spellchecker
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Creating a Blog
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Email Piping
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Full URL Shortener
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Mini Shopping Cart
+13.07.2018  00:06    <DIR>          PHP Tutorials_ PayPal IPN User Premium Membership
+13.07.2018  00:06    <DIR>          PHP Tutorials_ PHP_AJAX Chat Application [233 MB 10 Videos]
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Reading XML_RSS_Atom Feeds
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Register & Login New
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Regular Expressions
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Search Engine
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Secure File Upload
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Thumbnail Image Generator
+13.07.2018  00:06    <DIR>          PHP Tutorials_ Translate Page Language
+13.07.2018  00:06    <DIR>          PHP Tutorial_ Non-database Photo Album, plus LightBox!
+13.07.2018  00:06    <DIR>          Security
+13.07.2018  00:06    <DIR>          Set up a Cloud Server (Part 1_9)_ Introduction to Cloud Hosting
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent
+
+14.10.2018  08:25    <DIR>          .
+14.10.2018  08:25    <DIR>          ..
+16.07.2018  13:09    <DIR>          + ES6 in Motion
+14.10.2018  08:14    <DIR>          + Knp University
+16.07.2018  13:18    <DIR>          + Shipping Docker
+16.07.2018  13:19    <DIR>          + watchandcode
+20.08.2018  18:28    <DIR>          - Reach - Advanced React.js Full Course
+16.07.2018  13:20    <DIR>          - Screencasts
+16.07.2018  13:20    <DIR>          - xxx - Lynda - Building and Deploying a Full-Stack React Application
+16.07.2018  13:21    <DIR>          -- aynçysa sil -- Udemy - the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert
+16.07.2018  13:22    <DIR>          -- experience-design-patterns
+16.07.2018  13:25    <DIR>          -- Full-stack JavaScript with Node and React
+16.07.2018  13:26    <DIR>          -- PHP MVC from Scratch
+16.07.2018  13:26    <DIR>          -- react-native-building-mobile-apps
+16.07.2018  13:27    <DIR>          -- The Complete Jenkins Course for Developers and Devops
+16.07.2018  13:27    <DIR>          -- The JavaScript Trilogy by Douglas Crockford
+14.10.2018  08:13    <DIR>          -- Treehouse
+16.07.2018  13:31    <DIR>          -- xx -- Test Driven Laravel
+16.07.2018  13:33    <DIR>          -- xx -- Udemy - React 2nd Edition
+16.07.2018  13:33    <DIR>          -- xx -- Udemy - The Complete Angular Master Class Beginner to Advanced
+16.07.2018  13:34    <DIR>          -- xx -- Udemy - The Complete Javascript Course
+16.07.2018  13:35    <DIR>          -- xx -- Udemy - The Complete React Native and Redux Course
+16.07.2018  13:35    <DIR>          -- xxx -- Packt - Getting Started with PHP Reactive Programming
+14.10.2018  08:21    <DIR>          CodeSchool
+16.07.2018  13:43    <DIR>          edX_DEV247X_Build_WebAPIs_Using_ASP.NET-master
+14.10.2018  08:25    <DIR>          egghead.io
+16.07.2018  13:50    <DIR>          Forward - Full-stack JavaScript with Node and React
+14.10.2018  08:26    <DIR>          Frontend Masters
+16.07.2018  14:19    <DIR>          Frontend Masters - Advanced State Management in React Applications
+16.07.2018  14:20    <DIR>          Frontend Masters - API Design in Node v2
+16.07.2018  14:21    <DIR>          Frontend Masters - CSS Grids and Flexbox in Responsive Web Design
+16.07.2018  14:22    <DIR>          Frontend Masters - Full Stack for Front End Engineers
+16.07.2018  14:22    <DIR>          Frontend Masters - Full Stack for Front End Engineers, Part 2
+16.07.2018  14:23    <DIR>          Frontend Masters - Git In-depth
+16.07.2018  14:23    <DIR>          Frontend Masters - GraphQL
+16.07.2018  14:24    <DIR>          Frontend Masters - JavaScript From Fundamentals to Functional JS, v2
+16.07.2018  14:24    <DIR>          Frontend Masters - Mastering Chrome Developer Tools
+16.07.2018  14:27    <DIR>          Frontend Masters - Progressive Web Applications and Offline
+16.07.2018  14:28    <DIR>          Frontend Masters - REST & GraphQL API Design in Node.js, v2 (using Express & MongoDB)
+16.07.2018  14:28    <DIR>          Frontend Masters - Testing and Modular Front-End
+16.07.2018  14:29    <DIR>          Frontend Masters - Visual Studio Code
+16.07.2018  14:30    <DIR>          Frontend Masters - Web Security
+16.07.2018  14:30    <DIR>          Frontend Masters - Webpack 2 Deep Dive
+16.07.2018  14:30    <DIR>          Laracasts - Advanced Eloquent
+16.07.2018  14:31    <DIR>          Laracasts - Code Katas in PHP
+16.07.2018  14:31    <DIR>          Laracasts - Code Reflections
+16.07.2018  14:31    <DIR>          Laracasts - CSS Grids for Everyone
+16.07.2018  14:31    <DIR>          Laracasts - Design Patterns in PHP
+16.07.2018  14:31    <DIR>          Laracasts - Discover Symfony Components
+16.07.2018  14:31    <DIR>          Laracasts - Eloquent Techniques
+16.07.2018  14:31    <DIR>          Laracasts - ES6 Cliffsnotes
+16.07.2018  14:31    <DIR>          Laracasts - Get Real with Laravel Echo
+16.07.2018  14:31    <DIR>          Laracasts - Git Me Some Version Control
+16.07.2018  14:31    <DIR>          Laracasts - How to Build Command Line Apps in PHP
+16.07.2018  14:32    <DIR>          Laracasts - How to Manage An Open Source Project
+16.07.2018  14:32    <DIR>          Laracasts - Incremental API Development
+16.07.2018  14:32    <DIR>          Laracasts - Intermediate Laravel
+16.07.2018  14:32    <DIR>          Laracasts - Laravel Authentication Techniques
+16.07.2018  14:32    <DIR>          Laracasts - Laravel from Scratch 2017
+16.07.2018  14:32    <DIR>          Laracasts - Learn Flexbox Through Examples
+16.07.2018  14:32    <DIR>          Laracasts - Learn Laravel and Redis Through Examples
+16.07.2018  14:33    <DIR>          Laracasts - Learn Vue 2 Step by Step
+16.07.2018  14:34    <DIR>          Laracasts - Lets Build a Forum with Laravel
+16.07.2018  14:34    <DIR>          Laracasts - Object-oriented Bootcamp in PHP
+16.07.2018  14:34    <DIR>          Laracasts - Painless Builds with Laravel Elixir
+16.07.2018  14:35    <DIR>          Laracasts - PHP for Beginners
+16.07.2018  14:35    <DIR>          Laracasts - PHP7 Up and Running
+16.07.2018  14:35    <DIR>          Laracasts - PHPUnit Testing in Laravel
+16.07.2018  14:35    <DIR>          Laracasts - Professional PHP Workflow in Sublime Text
+16.07.2018  14:35    <DIR>          Laracasts - Real-time-laravel-with-socket-io
+16.07.2018  14:35    <DIR>          Laracasts - Russian Doll Caching in Laravel
+16.07.2018  14:35    <DIR>          Laracasts - Server Management with Forge
+16.07.2018  14:35    <DIR>          Laracasts - Simple Rules for Simpler Code
+16.07.2018  14:35    <DIR>          Laracasts - Simple-rules-for-simpler-code
+16.07.2018  14:35    <DIR>          Laracasts - Solid Principles in PHP
+16.07.2018  14:35    <DIR>          Laracasts - Sublime Text Mastery
+16.07.2018  14:36    <DIR>          Laracasts - Testing Vue
+16.07.2018  14:36    <DIR>          Laracasts - The PHP Practitioner
+16.07.2018  14:36    <DIR>          Laracasts - Understanding Regular Expressions
+16.07.2018  14:36    <DIR>          Laracasts - Webpack for Everyone
+16.07.2018  14:36    <DIR>          Laracasts - What's New in Laravel 5.5
+16.07.2018  14:37    <DIR>          Laracasts - Whatcha Working On
+16.07.2018  14:37    <DIR>          Laracasts - Whip Monstrous Code into Shape
+16.07.2018  14:37    <DIR>          Laravel Kitap
+16.07.2018  14:37    <DIR>          Learntoprogram.tv - JavaScript Crash Course
+16.07.2018  14:38    <DIR>          Linkedin - Building Applications with Angular, ASP.NET Core, and Entity Framework Core
+16.07.2018  14:38    <DIR>          Linkedin - Building Apps Angular ASP.NET Entity
+16.07.2018  14:38    <DIR>          Linkedin - Database Clinic SQLite
+16.07.2018  14:38    <DIR>          Linkedin - Docker .Net Developers Visual Studio
+16.07.2018  14:39    <DIR>          Linkedin - Docker for Java Developers
+16.07.2018  14:39    <DIR>          Linkedin - Entity Framework Core Essential Training 1
+16.07.2018  14:39    <DIR>          Linkedin - Learning Composer PHP Dependency Manager
+16.07.2018  14:39    <DIR>          Linkedin - Learning Full-Stack Javascript Development MongoDB, Node and React
+16.07.2018  14:40    <DIR>          Linkedin - Node.js Essential Training
+16.07.2018  14:40    <DIR>          Linkedin - PHP Object-Oriented Programming
+16.07.2018  14:40    <DIR>          Linkedin - React Managing Complex Interactions
+16.07.2018  14:40    <DIR>          Linkedin - Single Page Apps AspNET Javascriptservices
+16.07.2018  14:41    <DIR>          Lynda - Angular 2+ Creating CRUD Apps
+16.07.2018  14:41    <DIR>          Lynda - Angular API Communication and Authentication
+16.07.2018  14:41    <DIR>          Lynda - API Development in DOTNET with GraphQL
+16.07.2018  14:41    <DIR>          Lynda - Building Angular and ASP.NET Core Apps with Authentication
+16.07.2018  14:41    <DIR>          Lynda - Building Angular and Node Apps with Authentication
+16.07.2018  14:42    <DIR>          Lynda - CSS Shorts Weekly
+16.07.2018  14:42    <DIR>          Lynda - Database Clinic MongoDB
+16.07.2018  14:42    <DIR>          Lynda - ES6 The Right Parts
+16.07.2018  14:43    <DIR>          Lynda - JavaScript Essential Training (2017)
+16.07.2018  14:44    <DIR>          Lynda - Learn ASP NET Core MVC The Basics
+16.07.2018  14:44    <DIR>          Lynda - Learning Apollo
+16.07.2018  14:44    <DIR>          Lynda - Learning Azure
+16.07.2018  14:44    <DIR>          Lynda - Learning Enterprise Web Application Performance
+16.07.2018  14:44    <DIR>          Lynda - Learning HTML5 Game Development
+16.07.2018  14:45    <DIR>          Lynda - Learning PHP
+16.07.2018  14:45    <DIR>          Lynda - Learning Redis
+16.07.2018  14:45    <DIR>          Lynda - PHP - Performance Optimization
+16.07.2018  14:45    <DIR>          Lynda - PHP - Resizing and Watermarking Images
+16.07.2018  14:45    <DIR>          Lynda - PHP 7 New Features
+16.07.2018  14:45    <DIR>          Lynda - PHP Tips, Tricks, and Techniques
+16.07.2018  14:45    <DIR>          Lynda - React - ES6, ES2016, and Beyond
+16.07.2018  14:46    <DIR>          Lynda - Real-Time Web with Node.js
+16.07.2018  14:46    <DIR>          Lynda - WordPress REST API - Building an Interactive Web App
+16.07.2018  14:46    <DIR>          Oreilly - Enterprise Software with Python
+16.07.2018  14:46    <DIR>          Oreilly - Event-Driven Microservices
+16.07.2018  14:47    <DIR>          Oreilly - Git for Visual Studio
+16.07.2018  14:47    <DIR>          Oreilly - Learning Data Structures and Algorithms
+16.07.2018  14:48    <DIR>          Oreilly - Learning Docker
+16.07.2018  14:48    <DIR>          Oreilly - Learning Doctrine
+16.07.2018  14:49    <DIR>          Oreilly - Node for Frontend Developers
+16.07.2018  14:50    <DIR>          Oreilly - Offline Web
+16.07.2018  14:50    <DIR>          Oreilly - Python Beyond the Basics Object-Oriented Programming
+16.07.2018  14:51    <DIR>          Oreilly - Software Architecture Fundamentals Understanding the Basics
+16.07.2018  14:51    <DIR>          Packt - Advanced Server Side Programming NodeJS
+16.07.2018  14:51    <DIR>          Packt - Architectural Patterns and Best Practices with Python
+16.07.2018  14:52    <DIR>          Packt - Beginning Docker
+16.07.2018  14:52    <DIR>          Packt - Building Databases with Redis
+16.07.2018  14:53    <DIR>          Packt - Building PHP Restful Web Services
+16.07.2018  14:53    <DIR>          Packt - Building Serverless Applications
+16.07.2018  14:53    <DIR>          Packt - Building Your Application with React Native
+16.07.2018  14:53    <DIR>          Packt - Building Your First Application with Go
+16.07.2018  14:53    <DIR>          Packt - Devops for Web Developers
+16.07.2018  14:54    <DIR>          Packt - Docker for Web Developers
+16.07.2018  14:54    <DIR>          Packt - Extending Laravel First Packages
+16.07.2018  14:54    <DIR>          Packt - Getting Started with Microservices PHP
+16.07.2018  14:54    <DIR>          Packt - Go for Web Develeopment
+16.07.2018  14:55    <DIR>          Packt - Kotlin Programming By Example
+16.07.2018  14:55    <DIR>          Packt - Learn C# Windows Forms SQL
+16.07.2018  14:56    <DIR>          Packt - Learn Kotlin by Developing Android Apps
+16.07.2018  14:56    <DIR>          Packt - Learning Firebase
+16.07.2018  14:56    <DIR>          Packt - Learning Git
+16.07.2018  14:56    <DIR>          Packt - Learning Mongodb
+16.07.2018  14:57    <DIR>          Packt - Learning Path DevOps with Docker
+16.07.2018  14:57    <DIR>          Packt - Learning Path-Modern DevOps
+16.07.2018  14:57    <DIR>          Packt - Learning Redis
+16.07.2018  14:58    <DIR>          Packt - Mastering Clean Code in JavaScript
+16.07.2018  14:58    <DIR>          Packt - Mastering Clean Code Javascript
+16.07.2018  14:58    <DIR>          Packt - Mastering Git
+16.07.2018  14:59    <DIR>          Packt - Mastering Go Programming
+16.07.2018  15:00    <DIR>          Packt - Modern DevOps
+16.07.2018  15:00    <DIR>          Packt - MySQL 8 Recipes
+16.07.2018  15:00    <DIR>          Packt - Rapid Redis
+16.07.2018  15:04    <DIR>          Packt - ReactJS Fundamentals Second Edition
+16.07.2018  15:04    <DIR>          Packt - Serverless Javascript by Example
+16.07.2018  15:04    <DIR>          Packt - Version Control with Git
+16.07.2018  15:04    <DIR>          Packt - Web Developer Toolbox
+16.07.2018  15:05    <DIR>          Packt - Web Development with Angular and PHP
+16.07.2018  15:05    <DIR>          Pluralsight - 01 Beginer
+16.07.2018  15:06    <DIR>          Pluralsight - 02 Intermediate
+16.07.2018  15:07    <DIR>          Pluralsight - Advanced TypeScript
+16.07.2018  15:07    <DIR>          Pluralsight - Angular Component Communication
+16.07.2018  15:07    <DIR>          Pluralsight - Angular Reactive Forms
+16.07.2018  15:07    <DIR>          Pluralsight - Angular The Big Picture
+16.07.2018  15:08    <DIR>          Pluralsight - ASP.NET Core MVC Enterprise Application
+16.07.2018  15:08    <DIR>          Pluralsight - Building a JavaScript Development Environment
+16.07.2018  15:09    <DIR>          Pluralsight - Building a RESTful API with ASP.NET Core
+16.07.2018  15:09    <DIR>          Pluralsight - Building a Site with Angular and PHP
+16.07.2018  15:09    <DIR>          Pluralsight - Building an Enterprise App with WPF, MVVM, and Entity Framework Code First
+16.07.2018  15:10    <DIR>          Pluralsight - Building an Enterprise Application with ASP.NET Core MVC
+16.07.2018  15:10    <DIR>          Pluralsight - Building Cross-platform Applications with .NET Core
+16.07.2018  15:11    <DIR>          Pluralsight - Building Data-driven React Applications with Relay, GraphQL and Flux
+16.07.2018  15:11    <DIR>          Pluralsight - Building Javascript Development Environment
+16.07.2018  15:12    <DIR>          Pluralsight - Building Real-time Apps with React, Socket.io and RethinkDB
+16.07.2018  15:12    <DIR>          Pluralsight - Building Your First API with ASP.NET Core
+16.07.2018  15:12    <DIR>          Pluralsight - Building Your First ASP.NET Core Web Application
+16.07.2018  15:13    <DIR>          Pluralsight - Building Your First Mobile Application with Xamarin Forms and Visual Studio 2017
+16.07.2018  15:13    <DIR>          Pluralsight - Clean Architecture Patterns, Practices, and Principles
+16.07.2018  15:13    <DIR>          Pluralsight - Constructing a User Interface with Angular
+16.07.2018  15:14    <DIR>          Pluralsight - Creating Web Applications with Go
+16.07.2018  15:14    <DIR>          Pluralsight - Domain-Driven Design in Practice
+16.07.2018  15:14    <DIR>          Pluralsight - Dynamic C# Fundamentals
+16.07.2018  15:14    <DIR>          Pluralsight - Entity Framework Core Getting Started
+16.07.2018  15:15    <DIR>          Pluralsight - Getting Started with ASP.NET Core and OAuth
+16.07.2018  15:15    <DIR>          Pluralsight - Getting Started with Docker on Windows
+16.07.2018  15:15    <DIR>          Pluralsight - Getting Started with Docker on Windows by Wes Higbee
+16.07.2018  15:16    <DIR>          Pluralsight - Implementing and Securing an API with ASP.NET Core
+16.07.2018  15:16    <DIR>          Pluralsight - Integrating Angular with ASP.NET Core RESTful Services
+16.07.2018  15:16    <DIR>          Pluralsight - Javascript Getting Started
+16.07.2018  15:17    <DIR>          Pluralsight - Modern Asynchronous JavaScript
+16.07.2018  15:17    <DIR>          Pluralsight - NodeJS Advanced
+16.07.2018  15:17    <DIR>          Pluralsight - Progressive Web App Fundamentals
+16.07.2018  15:18    <DIR>          Pluralsight - Rapid JavaScript Training
+16.07.2018  15:18    <DIR>          Pluralsight - React Big Picture
+16.07.2018  15:18    <DIR>          Pluralsight - Redux Saga
+16.07.2018  15:18    <DIR>          Pluralsight - Single Page Applications with Vue.js
+16.07.2018  15:19    <DIR>          Pluralsight - Starting in Symfony 2
+16.07.2018  15:19    <DIR>          Pluralsight - TypeScript In Depth
+16.07.2018  15:19    <DIR>          Pluralsight - Using MongoDB with ASP.NET MVC
+16.07.2018  15:19    <DIR>          Pluralsight - Vue.js Getting Started
+16.07.2018  15:20    <DIR>          Pluralsight - Web Development Intro
+16.07.2018  15:21    <DIR>          Pluralsight - x02 Intermediate
+16.07.2018  15:22    <DIR>          Pluralsight - x03 Advanced
+16.07.2018  15:24    <DIR>          TR
+16.07.2018  15:24    <DIR>          Treehouse - CRUD Operations with PHP
+16.07.2018  15:24    <DIR>          Treehouse - Dependency Management-with Gradle
+16.07.2018  15:24    <DIR>          Treehouse - Designing-Interfaces in PHP
+16.07.2018  15:24    <DIR>          Tutsplus - Automated Testing With PHP
+16.07.2018  15:25    <DIR>          Tutsplus - Build a CMS With ASP.NET and Git
+16.07.2018  15:25    <DIR>          Tutsplus - Build a Social App With React Native
+16.07.2018  15:25    <DIR>          Tutsplus - Continuous Integration Workflow
+16.07.2018  15:25    <DIR>          Tutsplus - Create a REST API With Phalcon
+16.07.2018  15:25    <DIR>          Tutsplus - Develop and Deploy With Docker
+16.07.2018  15:26    <DIR>          Tutsplus - Get Started With React Native
+16.07.2018  15:26    <DIR>          Tutsplus - JavaScript for Web Designers
+16.07.2018  15:26    <DIR>          Tutsplus - Use Firebase as the Back-End
+16.07.2018  15:27    <DIR>          Udemy - Advanced CSS and SASS
+16.07.2018  15:28    <DIR>          Udemy - Angular 2 and Nodejs The Practical Guide
+16.07.2018  15:29    <DIR>          Udemy - Angular 4 Master Class for Beginners
+16.07.2018  15:29    <DIR>          Udemy - Asp.Net MVC With Entity Framework From Scratch
+16.07.2018  15:30    <DIR>          Udemy - Blockchain and Bitcoin Fundamentals
+16.07.2018  15:30    <DIR>          Udemy - Bootstrap 4 from Scratch with 5 Projects
+16.07.2018  15:30    <DIR>          Udemy - Build a Complete Fiverr Clone with Node + Algolia + Paypal
+16.07.2018  15:31    <DIR>          Udemy - Build a Real-world App with ASP.NET Core and Angular 2 (4+)
+16.07.2018  15:31    <DIR>          Udemy - Building Better APIs with GraphQL
+16.07.2018  15:31    <DIR>          Udemy - C# Advanced Topics
+16.07.2018  15:32    <DIR>          Udemy - C# Advanced Topics Take Your C# Skills to the Next Level
+16.07.2018  15:32    <DIR>          Udemy - C# Developers Learn the Art of Writing Clean Code
+16.07.2018  15:32    <DIR>          Udemy - C# Intermediate Classes, Interfaces and OOP
+16.07.2018  15:33    <DIR>          Udemy - Complete Javascript ES6 Course
+16.07.2018  15:33    <DIR>          Udemy - Comprehensive Course on MongoDB and Data Modeling
+16.07.2018  15:33    <DIR>          Udemy - Design Patterns in C# and .NET
+16.07.2018  15:34    <DIR>          Udemy - Docker for Java Developers
+16.07.2018  15:35    <DIR>          Udemy - Docker Mastery The Complete Toolset From a Docker Captain
+16.07.2018  15:36    <DIR>          Udemy - ES6
+16.07.2018  15:36    <DIR>          Udemy - Essential HTML, CSS & HTML5 Training
+16.07.2018  15:36    <DIR>          Udemy - Ethereum Developer
+16.07.2018  15:36    <DIR>          Udemy - Flexbox Tutorial
+16.07.2018  15:38    <DIR>          Udemy - Full Stack Web Apps with Meteor and React
+16.07.2018  15:38    <DIR>          Udemy - Fundamentals of VueJS
+16.07.2018  15:39    <DIR>          Udemy - Git a Web Developer Job Mastering the Modern Workflow
+16.07.2018  15:39    <DIR>          Udemy - Git Bootcamp with Github Learn Step by Step
+16.07.2018  15:39    <DIR>          Udemy - Go The Complete Developers Guide
+16.07.2018  15:40    <DIR>          Udemy - GraphQL
+16.07.2018  15:40    <DIR>          Udemy - JavaScript Interview Prep Practice Problems
+16.07.2018  15:43    <DIR>          Udemy - JavaScript Specialist
+16.07.2018  15:44    <DIR>          Udemy - Javascript Top Rated Web Developer
+16.07.2018  15:45    <DIR>          Udemy - Kotlin Developer Masterclass Build 12 Apps
+16.07.2018  15:45    <DIR>          Udemy - Laravel E-Commerce Restful API
+16.07.2018  15:46    <DIR>          Udemy - Learn By Example The Foundations of HTML, CSS & Javascript
+16.07.2018  15:47    <DIR>          Udemy - Learn C# by Building Applications
+16.07.2018  15:47    <DIR>          Udemy - Learn Docker Hands-on
+16.07.2018  15:48    <DIR>          Udemy - Learn Laravel 5 Framework by Building a Professional Website
+16.07.2018  15:48    <DIR>          Udemy - Learn MongoDB Leading Nosql Database from Scratch
+16.07.2018  15:49    <DIR>          Udemy - Learn Mongodb The Nosql Leader with Clarity and Confidence
+16.07.2018  15:50    <DIR>          Udemy - Learn PHP 5 & 7 This Way to Rise Above & Beyond Competition!
+16.07.2018  15:53    <DIR>          Udemy - Learn PHP Programming from Scratch
+16.07.2018  15:54    <DIR>          Udemy - Learn to Build Web Apps using Laravel Framework
+16.07.2018  15:54    <DIR>          Udemy - Master Advanced JavaScript React
+16.07.2018  15:54    <DIR>          Udemy - MEAN Stack For Web Developers Build Websites on Javascript
+16.07.2018  15:57    <DIR>          Udemy - Modern JavaScript From The Beginning
+16.07.2018  15:58    <DIR>          Udemy - Modern Web Development with Laravel 5.2 (PHP Framework)
+16.07.2018  15:58    <DIR>          Udemy - NodeJS Express Project CMS and Shopping Cart
+16.07.2018  15:59    <DIR>          Udemy - Object-oriented PHP MVC
+16.07.2018  15:59    <DIR>          Udemy - OOP Object-oriented Programming in PHP 7
+16.07.2018  16:00    <DIR>          Udemy - Parallel Dotnet
+16.07.2018  16:02    <DIR>          Udemy - PHP for Beginners - Become a PHP Master and Make Money Fast
+16.07.2018  16:04    <DIR>          Udemy - PHP for Beginners How to Build an E-Commerce Store
+16.07.2018  16:04    <DIR>          Udemy - PHP MVC from Scratch
+16.07.2018  16:05    <DIR>          Udemy - PHP Object Oriented Programming Fundamentals (OOP)
+16.07.2018  16:05    <DIR>          Udemy - PHP OOP & PDO with Projects For Beginners
+16.07.2018  16:06    <DIR>          Udemy - Progressive Web Apps (PWA) - The Complete Guide
+16.07.2018  16:07    <DIR>          Udemy - Projects In ReactJS The Complete React Learning Course
+16.07.2018  16:09    <DIR>          Udemy - Python and Django Full Stack Web Developer Bootcamp
+16.07.2018  16:09    <DIR>          Udemy - Python Master Web Scraping Course Doing 20 Real Projects
+16.07.2018  16:09    <DIR>          Udemy - REACT - Up and Running with React ES6 and Open Source API
+16.07.2018  16:12    <DIR>          Udemy - React 16
+16.07.2018  16:13    <DIR>          Udemy - React Native Advanced
+16.07.2018  16:14    <DIR>          Udemy - React Native Practical Guide
+16.07.2018  16:15    <DIR>          Udemy - React Native The Practical Guide
+16.07.2018  16:18    <DIR>          Udemy - React The Complete Guide with Redux
+16.07.2018  16:18    <DIR>          Udemy - ReactJS and Redux Mastering Web Apps
+16.07.2018  16:19    <DIR>          Udemy - Scrapy Powerful Web Scraping & Crawling with Python
+16.07.2018  16:20    <DIR>          Udemy - Server-side JavaScript with Nodejs
+16.07.2018  16:20    <DIR>          Udemy - Server-side Rendering with React and Redux
+16.07.2018  16:24    <DIR>          Udemy - Spotify Clone
+16.07.2018  16:25    <DIR>          Udemy - The Complete Developers Guide to Mongodb
+16.07.2018  16:25    <DIR>          Udemy - The Complete Flexbox Tutorial Learn CSS3 Flexbox in 2017
+16.07.2018  16:26    <DIR>          Udemy - The Complete Javascript Course
+16.07.2018  16:28    <DIR>          Udemy - The Complete JavaScript Course - Beginner to Professional
+16.07.2018  16:29    <DIR>          Udemy - The Complete React and Redux Course Build Modern Apps
+16.07.2018  16:30    <DIR>          Udemy - The Complete React Native and Redux Course
+16.07.2018  16:32    <DIR>          Udemy - The Complete Web Developer in 2018 Zero to Mastery
+16.07.2018  16:33    <DIR>          Udemy - The Essential Kotlin Programming Course Android Developers
+16.07.2018  16:33    <DIR>          Udemy - The Full JavaScript & ES6 Tutorial (including ES7 & React)
+16.07.2018  16:36    <DIR>          Udemy - The Full Stack Web Development
+16.07.2018  16:37    <DIR>          Udemy - The Ultimate MySQL Bootcamp_ Go from SQL Beginner to Expert
+16.07.2018  16:37    <DIR>          Udemy - The Ultimate Vue 2 Crash Course Learn by Example
+16.07.2018  16:38    <DIR>          Udemy - Tinder Clone
+16.07.2018  16:38    <DIR>          Udemy - TodoMVC Application Vue React Angular
+16.07.2018  16:38    <DIR>          Udemy - Vagrant Basics Beginners
+16.07.2018  16:39    <DIR>          Udemy - Visual Studio 2017 Essentials and Beyond
+16.07.2018  16:39    <DIR>          Udemy - Visual Studio Tips Tricks
+16.07.2018  16:40    <DIR>          Udemy - Vue JS 2 From Beginner to Professional (includes Vuex)
+16.07.2018  16:42    <DIR>          Udemy - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+16.07.2018  16:43    <DIR>          Udemy - Vue JS 2.0 - Mastering Web Apps
+16.07.2018  16:45    <DIR>          Udemy - VueJS 2 The Complete Guide
+16.07.2018  16:45    <DIR>          Udemy - Web Design Modern Singlepage Website From Scratch Bootstrap
+16.07.2018  16:45    <DIR>          Udemy - Webpack 2 The Complete Developer's Guide
+16.07.2018  16:45    <DIR>          Udemy - Webpack 2 The Complete Developers Guide
+16.07.2018  16:46    <DIR>          Udemy - Website and Web App Performance Optimization
+16.07.2018  16:47    <DIR>          Udemy - Xamarin Forms Build Native Cross-platform Apps with C#
+16.07.2018  16:48    <DIR>          Wes Bos - React For Beginners
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\+ Knp University
+
+14.10.2018  08:14    <DIR>          .
+14.10.2018  08:14    <DIR>          ..
+16.07.2018  13:10    <DIR>          Animated_Deployment_with_Ansistrano
+16.07.2018  13:10    <DIR>          Ansible_for_Automation
+16.07.2018  13:10    <DIR>          BDD_Behat_Mink_and_other_Wonderful_Things
+16.07.2018  13:10    <DIR>          BDD_Behat_version_25_Mink_and_other_Wonderful_Things
+16.07.2018  13:10    <DIR>          Course_1_How_to_win_friends__develop_in_PHP
+16.07.2018  13:10    <DIR>          Course_2_How_to_stop_worrying__start_writing_PHP
+16.07.2018  13:10    <DIR>          Course_3_Talking_to_a_MySQL_Database_in_PHP
+16.07.2018  13:10    <DIR>          Dependency_Injection_and_the_art_of_services_and_containers
+16.07.2018  13:11    <DIR>          Doctrine_Collections_ManyToMany_Forms__other_Complex_Relations
+16.07.2018  13:11    <DIR>          Drupal_8_Under_the_Hood
+16.07.2018  13:11    <DIR>          EasyAdminBundle_for_an_Amazing_Admin_Interface
+16.07.2018  13:11    <DIR>          FOSUserBundle_FTW
+16.07.2018  13:11    <DIR>          FOSUserBundle_FTW_v13
+16.07.2018  13:11    <DIR>          Getting_Crazy_with_Form_Themes
+16.07.2018  13:11    <DIR>          Go_Pro_with_Doctrine_Queries
+16.07.2018  13:11    <DIR>          Gulp_Refreshment_for_Your_Frontend_Assets
+16.07.2018  13:11    <DIR>          How_to_Upgrade_to_Symfony_28_then_30
+16.07.2018  13:12    <DIR>          JavaScript_for_PHP_Geeks
+16.07.2018  13:12    <DIR>          JavaScript_for_PHP_Geeks_ES6ES2015_New_JavaScript
+16.07.2018  13:12    <DIR>          JavaScript_for_PHP_Geeks_Webpack_for_Module_Loading_Awesomeness
+16.07.2018  13:12    <DIR>          Journey_to_the_Center_of_Symfony_HttpKernel_RequestResponse
+16.07.2018  13:12    <DIR>          Journey_to_the_Center_of_Symfony_The_Dependency_Injection_Container
+16.07.2018  13:12    <DIR>          Joyful_Development_with_Symfony_3
+16.07.2018  13:12    <DIR>          Lean_and_Mean_Dev_with_PhpStorm_for_Symfony
+16.07.2018  13:14    <DIR>          Learn Symfony 3
+16.07.2018  13:14    <DIR>          Making_Fixtures_Really_Awesome_with_Alice
+16.07.2018  13:14    <DIR>          Mastering_Doctrine_Relationships_in_Symfony
+16.07.2018  13:15    <DIR>          OAuth2_in_8_Steps
+16.07.2018  13:15    <DIR>          Object_Oriented_Programming_Course_1
+16.07.2018  13:15    <DIR>          OOP_Course_2_Services_Dependency_Injection_and_Containers
+16.07.2018  13:15    <DIR>          OOP_course_3_Inheritance_Abstract_Classes_Interfaces_and_other_amazing_things
+16.07.2018  13:15    <DIR>          OOP_course_4_Static_methods_Namespaces_Exceptions__Traits_Woh
+16.07.2018  13:15    <DIR>          PHPUnit_Testing_with_a_Bite
+16.07.2018  13:15    <DIR>          PHP_7_The_Important_Stuff
+16.07.2018  13:15    <DIR>          PHP_Namespaces_in_120_Seconds
+16.07.2018  13:15    <DIR>          Question_and_Answer_Day_March_27th_2013
+16.07.2018  13:15    <DIR>          RESTful_APIs_in_the_Real_World_Course_1
+16.07.2018  13:15    <DIR>          RESTful_APIs_in_the_Real_World_Course_2
+16.07.2018  13:15    <DIR>          Starting_in_Symfony2_Course_1_24
+16.07.2018  13:16    <DIR>          Starting_in_Symfony2_Course_2_24
+16.07.2018  13:16    <DIR>          Starting_in_Symfony2_Course_3_24
+16.07.2018  13:16    <DIR>          Starting_in_Symfony2_Course_4_24
+16.07.2018  13:16    <DIR>          Stripe_Killer_Payment_Processing____Profit
+16.07.2018  13:16    <DIR>          Stripe_Level_2_Subscriptions_Discounts_Webhooks_oh_my
+16.07.2018  13:16    <DIR>          Symfony_33_Upgrade_Autowiring__Autoconfigure
+16.07.2018  13:16    <DIR>          Symfony_Best_Practices
+16.07.2018  13:16    <DIR>          Symfony_Doctrine__the_Database
+16.07.2018  13:16    <DIR>          Symfony_Forms_Build_Render__Conquer
+16.07.2018  13:16    <DIR>          Symfony_Fundamentals_Bundles_Configuration__Environments
+16.07.2018  13:16    <DIR>          Symfony_Level_up_with_Services_and_the_Container
+16.07.2018  13:17    <DIR>          Symfony_RESTful_API_Authentication_with_JWT_Course_4
+16.07.2018  13:17    <DIR>          Symfony_RESTful_API_Basics_Course_3
+16.07.2018  13:17    <DIR>          Symfony_RESTful_API_Course_1
+16.07.2018  13:17    <DIR>          Symfony_RESTful_API_Errors_Course_2
+16.07.2018  13:17    <DIR>          Symfony_RESTful_API_Hypermedia_Links__Bonuses_Course_5
+16.07.2018  13:17    <DIR>          Symfony_Security_Beautiful_Authentication_Powerful_Authorization
+16.07.2018  13:17    <DIR>          Symfony_Security_Voters_free_cookies
+16.07.2018  13:17    <DIR>          The_new_Awesome_of_Symfony_30
+16.07.2018  13:17    <DIR>          The_Symfony_MicroFramework
+16.07.2018  13:17    <DIR>          Twig_Templating_for_Friendly_Frontend_Devs
+16.07.2018  13:17    <DIR>          Whats_new_in_Symfony_22__ESI_Fragments_Bonus
+16.07.2018  13:17    <DIR>          Wonderful_World_of_Composer
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\-- The JavaScript Trilogy by Douglas Crockford
+
+16.07.2018  13:27    <DIR>          .
+16.07.2018  13:27    <DIR>          ..
+16.07.2018  13:27    <DIR>          Section 1 - The JavaScript Programming Language
+16.07.2018  13:27    <DIR>          Section 2 - An Inconvenient API - The Theory of the DOM
+16.07.2018  13:27    <DIR>          Section 3 - Advanced JavaScript
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\-- Treehouse
+
+14.10.2018  08:13    <DIR>          .
+14.10.2018  08:13    <DIR>          ..
+16.07.2018  13:27    <DIR>          Android Tools
+16.07.2018  13:28    <DIR>          Bonus
+16.07.2018  13:29    <DIR>          Build a Responsive Website
+16.07.2018  13:29    <DIR>          Console Foundations
+16.07.2018  13:29    <DIR>          CSS Foundations
+16.07.2018  13:29    <DIR>          CSS Layout Techniques
+16.07.2018  13:29    <DIR>          Database Foundations
+16.07.2018  13:30    <DIR>          Design Foundations
+16.07.2018  13:30    <DIR>          Framework Basics
+16.07.2018  13:30    <DIR>          Git Basics
+16.07.2018  13:30    <DIR>          HTML
+16.07.2018  13:30    <DIR>          HTML Email Design
+16.07.2018  13:30    <DIR>          JavaScript Foundations
+16.07.2018  13:30    <DIR>          Object-Oriented PHP Basics
+16.07.2018  13:31    <DIR>          Sass Basics
+16.07.2018  13:31    <DIR>          Website Optimization
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\-- Treehouse\Bonus
+
+16.07.2018  13:28    <DIR>          .
+16.07.2018  13:28    <DIR>          ..
+16.07.2018  13:27    <DIR>          1. Treehouse Quick Tips
+16.07.2018  13:28    <DIR>          2. The Treehouse Show
+16.07.2018  13:29    <DIR>          3. CSS3 Master Class
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool
+
+14.10.2018  08:21    <DIR>          .
+14.10.2018  08:21    <DIR>          ..
+16.07.2018  13:35    <DIR>          Database
+16.07.2018  13:37    <DIR>          JavaScript
+16.07.2018  13:38    <DIR>          Learn AngularJS With Bootstrap
+16.07.2018  13:40    <DIR>          Screencasts
+16.07.2018  13:41    <DIR>          The MEAN Stack
+16.07.2018  13:41    <DIR>          [] Codeschool - Angular 2
+16.07.2018  13:41    <DIR>          [] CodeSchool - ES2015 The Shape of JavaScript to Come
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\Database
+
+16.07.2018  13:35    <DIR>          .
+16.07.2018  13:35    <DIR>          ..
+16.07.2018  13:35    <DIR>          NoSQL
+16.07.2018  13:35    <DIR>          SQL
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\Database\SQL
+
+16.07.2018  13:35    <DIR>          .
+16.07.2018  13:35    <DIR>          ..
+16.07.2018  13:35    <DIR>          The Sequel to SQL
+16.07.2018  13:35    <DIR>          Try SQL
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\JavaScript
+
+16.07.2018  13:37    <DIR>          .
+16.07.2018  13:37    <DIR>          ..
+16.07.2018  13:35    <DIR>          Client-side Frameworks
+16.07.2018  13:36    <DIR>          JavaScript Language
+16.07.2018  13:37    <DIR>          Server-side Frameworks
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\JavaScript\Client-side Frameworks
+
+16.07.2018  13:35    <DIR>          .
+16.07.2018  13:35    <DIR>          ..
+16.07.2018  13:35    <DIR>          Anatomy of Backbone.js
+16.07.2018  13:35    <DIR>          Anatomy of Backbone.js Part 2
+16.07.2018  13:35    <DIR>          Powering Up With React
+16.07.2018  13:36    <DIR>          Try Ember
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\JavaScript\JavaScript Language
+
+16.07.2018  13:36    <DIR>          .
+16.07.2018  13:36    <DIR>          ..
+16.07.2018  13:36    <DIR>          ES2015 - The Shape of JavaScript to Come
+16.07.2018  13:36    <DIR>          JavaScript Best Practices
+16.07.2018  13:36    <DIR>          JavaScript Road Trip Part 1
+16.07.2018  13:36    <DIR>          JavaScript Road Trip Part 2
+16.07.2018  13:37    <DIR>          JavaScript Road Trip Part 3
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\JavaScript\Server-side Frameworks
+
+16.07.2018  13:37    <DIR>          .
+16.07.2018  13:37    <DIR>          ..
+16.07.2018  13:37    <DIR>          Building Blocks of Express.js
+16.07.2018  13:37    <DIR>          Real-time Web with Node.js
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\Learn AngularJS With Bootstrap
+
+16.07.2018  13:38    <DIR>          .
+16.07.2018  13:38    <DIR>          ..
+16.07.2018  13:37    <DIR>          Blasting Off with Bootstrap
+16.07.2018  13:38    <DIR>          Real-time Web with Node.js
+16.07.2018  13:38    <DIR>          Shaping up with Angular.js
+16.07.2018  13:38    <DIR>          Staying Sharp with Angular.js
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\CodeSchool\The MEAN Stack
+
+16.07.2018  13:41    <DIR>          .
+16.07.2018  13:41    <DIR>          ..
+16.07.2018  13:41    <DIR>          Building Blocks of Express.js
+16.07.2018  13:41    <DIR>          Real-time Web with Node.js
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\egghead.io
+
+14.10.2018  08:25    <DIR>          .
+14.10.2018  08:25    <DIR>          ..
+16.07.2018  13:47    <DIR>          egghead - add-routing-to-react-apps-using-react-router-v4
+16.07.2018  13:45    <DIR>          egghead - angular-2-dependency-injection-di-explained
+16.07.2018  13:45    <DIR>          egghead - angular-2-fundamentals
+16.07.2018  13:44    <DIR>          egghead - angular-and-webpack-for-modular-applications
+16.07.2018  13:44    <DIR>          egghead - angular-automation-with-gulp
+16.07.2018  13:44    <DIR>          egghead - angular-material-introduction
+16.07.2018  13:44    <DIR>          egghead - angularjs-app-from-scratch-getting-started
+16.07.2018  13:44    <DIR>          egghead - angularjs-application-architecture
+16.07.2018  13:44    <DIR>          egghead - angularjs-authentication-with-jwt
+16.07.2018  13:44    <DIR>          egghead - angularjs-data-modeling
+16.07.2018  13:45    <DIR>          egghead - animate-angular-2-web-applications
+16.07.2018  13:47    <DIR>          egghead - animate-react-native-ui-elements
+16.07.2018  13:46    <DIR>          egghead - build-a-graphql-server
+16.07.2018  13:47    <DIR>          egghead - build-a-react-native-todo-application
+16.07.2018  13:45    <DIR>          egghead - build-an-angular-2-instant-search-component
+16.07.2018  13:44    <DIR>          egghead - build-angular-1-x-apps-with-redux
+16.07.2018  13:46    <DIR>          egghead - build-complex-3d-models-with-webgl
+16.07.2018  13:45    <DIR>          egghead - build-complex-layouts-with-css-grid-layout
+16.07.2018  13:46    <DIR>          egghead - build-interactive-javascript-charts-with-d3-v4
+16.07.2018  13:47    <DIR>          egghead - build-node-js-apis-with-openapi-spec-swagger
+16.07.2018  13:47    <DIR>          egghead - build-your-first-production-quality-react-app
+16.07.2018  13:48    <DIR>          egghead - build-your-first-react-js-application
+16.07.2018  13:45    <DIR>          egghead - building-a-time-machine-with-angular-2-and-rxjs
+16.07.2018  13:44    <DIR>          egghead - building-an-angular-1-x-ionic-application
+16.07.2018  13:45    <DIR>          egghead - building-angular-2-components
+16.07.2018  13:48    <DIR>          egghead - building-react-applications-with-idiomatic-redux
+16.07.2018  13:49    <DIR>          egghead - chrome-devtools-network-panel
+16.07.2018  13:49    <DIR>          egghead - chrome-devtools-sources-panel
+16.07.2018  13:46    <DIR>          egghead - create-3d-graphics-in-javascript-using-webgl
+16.07.2018  13:46    <DIR>          egghead - create-an-svg-icon-system
+16.07.2018  13:45    <DIR>          egghead - create-native-mobile-apps-with-nativescript-for-angular
+16.07.2018  13:46    <DIR>          egghead - creating-custom-web-elements-with-polymer
+16.07.2018  13:48    <DIR>          egghead - cycle-js-fundamentals
+16.07.2018  13:49    <DIR>          egghead - deploy-web-apps-with-zeit-now
+16.07.2018  13:49    <DIR>          egghead - develop-web-apps-with-vue-js
+16.07.2018  13:45    <DIR>          egghead - flexbox-fundamentals
+16.07.2018  13:47    <DIR>          egghead - get-started-with-postgresql
+16.07.2018  13:47    <DIR>          egghead - getting-started-with-express-js
+16.07.2018  13:48    <DIR>          egghead - getting-started-with-react-router
+16.07.2018  13:48    <DIR>          egghead - getting-started-with-redux
+16.07.2018  13:46    <DIR>          egghead - gif-loop-coder-for-creating-animation
+16.07.2018  13:46    <DIR>          egghead - how-to-contribute-to-an-open-source-project-on-github
+16.07.2018  13:49    <DIR>          egghead - how-to-use-npm-scripts-as-your-build-tool
+16.07.2018  13:46    <DIR>          egghead - how-to-write-an-open-source-javascript-library
+16.07.2018  13:45    <DIR>          egghead - intro-to-angular-2-forms
+16.07.2018  13:45    <DIR>          egghead - intro-to-angular-2-router
+16.07.2018  13:46    <DIR>          egghead - introduction-to-d3
+16.07.2018  13:47    <DIR>          egghead - introduction-to-node-servers-with-hapi-js
+16.07.2018  13:47    <DIR>          egghead - introduction-to-node-the-fundamentals
+16.07.2018  13:48    <DIR>          egghead - introduction-to-reactive-programming
+16.07.2018  13:44    <DIR>          egghead - ionic-quickstart-for-windows
+16.07.2018  13:46    <DIR>          egghead - javascript-arrays-in-depth
+16.07.2018  13:46    <DIR>          egghead - js-console-for-power-users
+16.07.2018  13:45    <DIR>          egghead - learn-advanced-css-layout-techniques
+16.07.2018  13:46    <DIR>          egghead - learn-es6-ecmascript-2015
+16.07.2018  13:46    <DIR>          egghead - learn-how-to-use-immutable-js
+16.07.2018  13:46    <DIR>          egghead - learn-html5-graphics-and-animation
+16.07.2018  13:45    <DIR>          egghead - learn-protractor-testing-for-angularjs
+16.07.2018  13:45    <DIR>          egghead - learn-the-best-and-most-useful-scss
+16.07.2018  13:49    <DIR>          egghead - learn-to-use-vim
+16.07.2018  13:48    <DIR>          egghead - manage-complex-state-in-react-apps-with-mobx
+16.07.2018  13:46    <DIR>          egghead - mastering-asynchronous-programming-the-end-of-the-loop
+16.07.2018  13:46    <DIR>          egghead - nativescript-layout-basics
+16.07.2018  13:47    <DIR>          egghead - natural-language-processing-in-javascript-with-natural
+16.07.2018  13:49    <DIR>          egghead - practical-git-for-everyday-professional-use
+16.07.2018  13:47    <DIR>          egghead - professor-frisby-introduces-composable-functional-javascript
+16.07.2018  13:47    <DIR>          egghead - publish-javascript-packages-on-npm
+16.07.2018  13:48    <DIR>          egghead - react-flux-architecture-es6
+16.07.2018  13:48    <DIR>          egghead - react-fundamentals
+16.07.2018  13:48    <DIR>          egghead - react-native-fundamentals
+16.07.2018  13:48    <DIR>          egghead - react-testing-cookbook
+16.07.2018  13:49    <DIR>          egghead - record-badass-screencasts-for-egghead-io
+16.07.2018  13:47    <DIR>          egghead - reduce-data-with-javascript
+16.07.2018  13:47    <DIR>          egghead - regex-in-javascript
+16.07.2018  13:48    <DIR>          egghead - rxjs-beyond-the-basics-creating-observables-from-scratch
+16.07.2018  13:48    <DIR>          egghead - rxjs-beyond-the-basics-operators-in-depth
+16.07.2018  13:48    <DIR>          egghead - rxjs-subjects-and-multicasting-operators
+16.07.2018  13:49    <DIR>          egghead - start-building-accessible-web-applications-today
+16.07.2018  13:46    <DIR>          egghead - start-using-elm-to-build-web-applications
+16.07.2018  13:49    <DIR>          egghead - step-by-step-async-javascript-with-rxjs
+16.07.2018  13:45    <DIR>          egghead - understand-angular-2-directives-in-depth
+16.07.2018  13:49    <DIR>          egghead - understand-the-basics-of-http
+16.07.2018  13:49    <DIR>          egghead - up-and-running-with-typescript
+16.07.2018  13:49    <DIR>          egghead - use-grep-for-fast-search-from-the-command-line
+16.07.2018  13:49    <DIR>          egghead - use-higher-order-observables-in-rxjs-effectively
+16.07.2018  13:45    <DIR>          egghead - use-objective-c-swift-and-java-api-s-in-nativescript-for-angular-ios-and-android-apps
+16.07.2018  13:49    <DIR>          egghead - use-types-effectively-in-typescript
+16.07.2018  13:45    <DIR>          egghead - using-angular-2-patterns-in-angular-1-x-apps
+16.07.2018  13:49    <DIR>          egghead - using-chrome-developer-tools-elements
+16.07.2018  13:47    <DIR>          egghead - using-postgres-window-functions
+16.07.2018  13:47    <DIR>          egghead - using-webpack-for-production-javascript-applications
+16.07.2018  13:49    <DIR>          egghead - wrangle-your-terminal-with-tmux
+16.07.2018  13:47    <DIR>          egghead - write-simple-asynchronous-code-with-javascript-generators
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\Frontend Masters
+
+14.10.2018  08:26    <DIR>          .
+14.10.2018  08:26    <DIR>          ..
+16.07.2018  13:51    <DIR>          -- sil aynçsç varsa -- Frontend Masters - Deep JavaScript Foundations
+16.07.2018  13:52    <DIR>          Advanced JavaScript
+16.07.2018  13:53    <DIR>          Advanced JS Fundamentals to jQuery & Pure DOM Scripting
+16.07.2018  13:55    <DIR>          API Design in Node.js (using Express & Mongo)
+16.07.2018  13:56    <DIR>          Asynchronous Programming in JavaScript (with Rx.js Observables)
+16.07.2018  13:56    <DIR>          Build Cross-Platform Desktop Apps with Electron
+16.07.2018  13:58    <DIR>          Build Web Apps with Angular 2
+16.07.2018  13:59    <DIR>          Building Web Apps (with React, Ampersand, ES6 and Webpack)
+16.07.2018  14:00    <DIR>          Coercion in JavaScript
+16.07.2018  14:01    <DIR>          Complete Intro to React v2 (feat. Router v4 and Redux)
+16.07.2018  14:03    <DIR>          Complete Introduction to React (feat. Redux and React Router)
+16.07.2018  14:03    <DIR>          Debugging and Fixing Common JavaScript Errors
+16.07.2018  14:04    <DIR>          Deep JavaScript Foundations
+16.07.2018  14:05    <DIR>          ES6- The Right Parts
+16.07.2018  14:05    <DIR>          Four Semesters of Computer Science in 5 Hours
+16.07.2018  14:06    <DIR>          Front-End Tooling and Workflows with Grunt and Beyond
+16.07.2018  14:06    <DIR>          Full Stack for Front End Engineers
+16.07.2018  14:07    <DIR>          Functional-Lite JavaScript
+16.07.2018  14:08    <DIR>          Hardcore Functional Programming in JavaScript
+16.07.2018  14:08    <DIR>          Introduction to JavaScript Programming
+16.07.2018  14:09    <DIR>          Introduction to Vue.js
+16.07.2018  14:09    <DIR>          JavaScript the Good Parts
+16.07.2018  14:10    <DIR>          JavaScript- From Fundamentals to Functional JS
+16.07.2018  14:11    <DIR>          JS.Next- ES6 - ES2015
+16.07.2018  14:12    <DIR>          Lean Front-End Engineering
+16.07.2018  14:13    <DIR>          Mastering Chrome Developer Tools
+16.07.2018  14:14    <DIR>          Organizing JavaScript Functionality
+16.07.2018  14:15    <DIR>          React Native (feat. Redux)
+16.07.2018  14:16    <DIR>          React.js (with Introduction to Flux Architecture)
+16.07.2018  14:16    <DIR>          Reactive Angular 2 with ngrx
+16.07.2018  14:17    <DIR>          Responsive Web Design
+16.07.2018  14:17    <DIR>          Secure Authentication for Web Apps & APIs Using JWTs
+16.07.2018  14:17    <DIR>          The Good Parts of JavaScript and the Web
+16.07.2018  14:18    <DIR>          Vue.js Advanced Features from the Ground Up
+16.07.2018  14:18    <DIR>          Web UI Architecture
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\Pluralsight - 01 Beginer
+
+16.07.2018  15:05    <DIR>          .
+16.07.2018  15:05    <DIR>          ..
+16.07.2018  15:05    <DIR>          01 A Comparison of Microsoft Web Technologies
+16.07.2018  15:05    <DIR>          02 ASP.NET MVC 5 Fundamentals
+16.07.2018  15:05    <DIR>          03 The MVC Request Life Cycle
+16.07.2018  15:05    <DIR>          04 Understanding OWIN and Katana
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\Pluralsight - 02 Intermediate
+
+16.07.2018  15:06    <DIR>          .
+16.07.2018  15:06    <DIR>          ..
+16.07.2018  15:06    <DIR>          01 Implementing an API in ASP.NET Web API
+16.07.2018  15:06    <DIR>          02 Rebuilding Web Forms Applications in MVC
+16.07.2018  15:06    <DIR>          03 Improving Your MVC Applications with 10 Extension Points
+16.07.2018  15:06    <DIR>          04 Consolidating MVC Views Using Single Page Techniques
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\Pluralsight - x02 Intermediate
+
+16.07.2018  15:21    <DIR>          .
+16.07.2018  15:21    <DIR>          ..
+16.07.2018  15:20    <DIR>          01 C# Interfaces 2 jul 2013
+16.07.2018  15:21    <DIR>          02 C# Best Practices Collections and Generics 28 jun 2016
+16.07.2018  15:21    <DIR>          03 C# Events, Delegates and Lambdas 26 apr 2013
+16.07.2018  15:21    <DIR>          04 C# Extension Methods 16 dec 2013
+16.07.2018  15:21    <DIR>          05 Practical LINQ 17 sep 2013
+16.07.2018  15:21    <DIR>          06 Object-Oriented Programming Fundamentals in C# 8 jul 2014
+16.07.2018  15:21    <DIR>          07 Defensive Coding in C# 9 may 2014
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\Pluralsight - x03 Advanced
+
+16.07.2018  15:22    <DIR>          .
+16.07.2018  15:22    <DIR>          ..
+16.07.2018  15:22    <DIR>          01 Getting Started with Asynchronous Programming in .NET 13 aug 2015
+16.07.2018  15:22    <DIR>          02 C# Concurrent Collections 15 may 2015
+16.07.2018  15:22    <DIR>          03 C# Tips and Traps 20 aug 2013
+16.07.2018  15:22    <DIR>          04 C# Tips and Traps 2 18 sep 2013
+16.07.2018  15:22    <DIR>          05 C# Language Internals - Part 1  29 jan 2014
+16.07.2018  15:23    <DIR>          06 C# Language Internals - Part 2 9 jun 2014
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\- Recent\TR
+
+16.07.2018  15:24    <DIR>          .
+16.07.2018  15:24    <DIR>          ..
+16.07.2018  15:23    <DIR>          Delphi TÅrkáe Eßitim Seti
+16.07.2018  15:24    <DIR>          Delphi TÅrkáe ôrnek
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\--- silinecek --- tutorials
+
+01.12.2018  14:02    <DIR>          .
+01.12.2018  14:02    <DIR>          ..
+01.12.2018  13:22    <DIR>          Docker Fundamentals
+01.12.2018  13:27    <DIR>          Full-stack JavaScript with Node and React
+01.12.2018  13:46    <DIR>          Laravel
+01.12.2018  13:47    <DIR>          Laravel Kitap
+01.12.2018  13:48    <DIR>          Linkedin - Express Essential Training
+01.12.2018  13:48    <DIR>          Linkedin - PHP Object-oriented Programming Databases
+01.12.2018  13:48    <DIR>          Lynda - Databases-Node-js-Developers
+01.12.2018  13:49    <DIR>          Lynda - JavaScript Essential Training
+01.12.2018  13:49    <DIR>          Lynda - Laravel 5 Essential Training 1 Basics
+01.12.2018  13:49    <DIR>          Oreilly - Serverless Fundamentals for Microservices
+01.12.2018  13:50    <DIR>          Packt - Mastering TypeScript
+01.12.2018  13:50    <DIR>          Packt - Serverless Javascript by Example
+01.12.2018  13:50    <DIR>          Pluralsight - Building Javascript Development Environment
+01.12.2018  13:51    <DIR>          Pluralsight - Building Real-time Apps with React, Socket.io, and RethinkDB
+01.12.2018  13:51    <DIR>          React Kitabç
+01.12.2018  13:53    <DIR>          Udemy - Building Data-driven React Applications with GraphQL
+01.12.2018  13:53    <DIR>          Udemy - Byte-Sized-Chunks Dynamic Prototypes in Javascript
+01.12.2018  13:54    <DIR>          Udemy - Complete Javascript ES6 Course
+01.12.2018  13:54    <DIR>          Udemy - Fundamentals of VueJS
+01.12.2018  13:56    <DIR>          Udemy - Learn PHP Programming from Scratch
+01.12.2018  13:56    <DIR>          Udemy - Master Advanced JavaScript React
+01.12.2018  13:57    <DIR>          Udemy - Mastering PHP PDO PHP Data Objects with CRUD Application
+01.12.2018  13:59    <DIR>          Udemy - MERN Stack Front To Back Full Stack React, Redux & Node.js
+01.12.2018  14:00    <DIR>          Udemy - Modern JavaScript From The Beginning
+01.12.2018  14:00    <DIR>          Udemy - Modern Javascript Mastering ES6 And ES7
+01.12.2018  14:01    <DIR>          Udemy - Nuxt.js Vue.js on Steroids
+01.12.2018  14:01    <DIR>          Udemy - Projects Electron Building Apps
+01.12.2018  14:01    <DIR>          Udemy - React Up and Running with React ES6 and Open Source API
+01.12.2018  14:02    <DIR>          Udemy - Redux JS
+01.12.2018  14:04    <DIR>          Udemy - Vuejs 2 The Complete Guide
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\--- silinecek --- tutorials\Laravel
+
+01.12.2018  13:46    <DIR>          .
+01.12.2018  13:46    <DIR>          ..
+01.12.2018  13:35    <DIR>          - Laracon 2016 Talk Recordings
+01.12.2018  13:36    <DIR>          -- silinebilir belki -- Bitfumes - Laravel 5.4
+01.12.2018  13:37    <DIR>          -- silinebilir belki youtubeda var aynçsç son 2 video yok listede ama -- tutor - myMovieDB
+01.12.2018  13:38    <DIR>          Codecourse - Laravel Youtube Clone
+01.12.2018  13:38    <DIR>          Codecourse - Learn Laravel
+01.12.2018  13:46    <DIR>          Laracasts
+01.12.2018  13:46    <DIR>          Laravel Kitap
+01.12.2018  13:47    <DIR>          Udemy - RESTful API with Laravel 5.4 Definitive Guide
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\--- silinecek --- tutorials\Laravel\Laracasts
+
+01.12.2018  13:46    <DIR>          .
+01.12.2018  13:46    <DIR>          ..
+01.12.2018  13:44    <DIR>          -- X
+01.12.2018  13:44    <DIR>          Advanced Eloquent
+01.12.2018  13:45    <DIR>          Billing With Stripe
+01.12.2018  13:45    <DIR>          Commands and Domain Events
+01.12.2018  13:45    <DIR>          Digging In
+01.12.2018  13:45    <DIR>          How to be Awesome in PHPStorm
+01.12.2018  13:45    <DIR>          Incremental APIs
+01.12.2018  13:45    <DIR>          Laravel Forge
+01.12.2018  13:45    <DIR>          Laravel From Scratch
+01.12.2018  13:45    <DIR>          Let's Build Larabook From Scratch
+01.12.2018  13:46    <DIR>          Modern CSS Workflow
+01.12.2018  13:46    <DIR>          SOLID Principles in PHP
+01.12.2018  13:46    <DIR>          The Lifecycle of a New Feature
+01.12.2018  13:46    <DIR>          tutor - Laravel
+01.12.2018  13:46    <DIR>          Understand Regular Expressions
+01.12.2018  13:46    <DIR>          VueJS
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\Laracasts
+
+14.10.2018  08:03    <DIR>          .
+14.10.2018  08:03    <DIR>          ..
+13.07.2018  00:10    <DIR>          Laracasts - Advanced Eloquent
+13.07.2018  00:10    <DIR>          Laracasts - Code Katas in PHP
+13.07.2018  00:10    <DIR>          Laracasts - Code Reflections
+13.07.2018  00:10    <DIR>          Laracasts - CSS Grids for Everyone
+13.07.2018  00:10    <DIR>          Laracasts - Design Patterns in PHP
+13.07.2018  00:10    <DIR>          Laracasts - Discover Symfony Components
+13.07.2018  00:10    <DIR>          Laracasts - Eloquent Techniques
+13.07.2018  00:11    <DIR>          Laracasts - ES6 Cliffsnotes
+13.07.2018  00:11    <DIR>          Laracasts - Get Real with Laravel Echo
+13.07.2018  00:11    <DIR>          Laracasts - Git Me Some Version Control
+13.07.2018  00:11    <DIR>          Laracasts - How to Build Command Line Apps in PHP
+13.07.2018  00:11    <DIR>          Laracasts - How to Manage An Open Source Project
+13.07.2018  00:11    <DIR>          Laracasts - Incremental API Development
+13.07.2018  00:11    <DIR>          Laracasts - Intermediate Laravel
+13.07.2018  00:12    <DIR>          Laracasts - Laravel and Vue
+13.07.2018  00:12    <DIR>          Laracasts - Laravel Authentication Techniques
+13.07.2018  00:12    <DIR>          Laracasts - Laravel from Scratch 2017
+13.07.2018  00:12    <DIR>          Laracasts - Learn Flexbox Through Examples
+13.07.2018  00:12    <DIR>          Laracasts - Learn Laravel and Redis Through Examples
+13.07.2018  00:12    <DIR>          Laracasts - Learn Vue 2 Step by Step
+13.07.2018  00:13    <DIR>          Laracasts - Lets Build a Forum with Laravel
+13.07.2018  00:13    <DIR>          Laracasts - Object-oriented Bootcamp in PHP
+13.07.2018  00:13    <DIR>          Laracasts - Painless Builds with Laravel Elixir
+13.07.2018  00:13    <DIR>          Laracasts - PHP for Beginners
+13.07.2018  00:14    <DIR>          Laracasts - PHP7 Up and Running
+13.07.2018  00:14    <DIR>          Laracasts - PHPUnit Testing in Laravel
+13.07.2018  00:14    <DIR>          Laracasts - Professional PHP Workflow in Sublime Text
+13.07.2018  00:14    <DIR>          Laracasts - Real-time-laravel-with-socket-io
+13.07.2018  00:14    <DIR>          Laracasts - Russian Doll Caching in Laravel
+13.07.2018  00:14    <DIR>          Laracasts - Server Management with Forge
+13.07.2018  00:14    <DIR>          Laracasts - Simple Rules for Simpler Code
+13.07.2018  00:14    <DIR>          Laracasts - Solid Principles in PHP
+13.07.2018  00:14    <DIR>          Laracasts - Sublime Text Mastery
+13.07.2018  00:14    <DIR>          Laracasts - Testing Vue
+13.07.2018  00:14    <DIR>          Laracasts - The PHP Practitioner
+13.07.2018  00:14    <DIR>          Laracasts - Understanding Regular Expressions
+13.07.2018  00:14    <DIR>          Laracasts - Vue 2 Step By Step
+13.07.2018  00:14    <DIR>          Laracasts - Webpack for Everyone
+13.07.2018  00:15    <DIR>          Laracasts - What's New in Laravel 5.5
+13.07.2018  00:15    <DIR>          Laracasts - Whatcha Working On
+13.07.2018  00:15    <DIR>          Laracasts - Whip Monstrous Code into Shape
+               0 File(s)              0 bytes
+
+
+ Directory of E:\DOWNLOADS\20181128\Laravel
+
+14.10.2018  08:01    <DIR>          .
+14.10.2018  08:01    <DIR>          ..
+13.07.2018  07:33    <DIR>          - Laracon 2016 Talk Recordings
+13.07.2018  07:34    <DIR>          -- silinebilir belki -- Bitfumes - Laravel 5.4
+13.07.2018  07:35    <DIR>          -- silinebilir belki youtubeda var aynçsç son 2 video yok listede ama -- tutor - myMovieDB
+13.07.2018  07:36    <DIR>          Codecourse - Laravel Youtube Clone
+13.07.2018  07:36    <DIR>          Codecourse - Learn Laravel
+14.10.2018  08:03    <DIR>          Laracasts
+13.07.2018  00:17    <DIR>          Laracasts - Laravel 5.4 From Scratch
+13.07.2018  07:44    <DIR>          Laravel Kitap
+13.07.2018  00:18    <DIR>          Let's Build A Forum with Laravel and TDD
+13.07.2018  00:18    <DIR>          Lynda - Laravel 5 Essential Training - 1 The Basics
+13.07.2018  00:18    <DIR>          Lynda - Laravel 5 Essential Training - 2 Testing, Securing, and Deploying
+13.07.2018  00:19    <DIR>          Packt - Integrating Elasticsearch with PHP and Laravel
+13.07.2018  00:19    <DIR>          Packt - Learning Application Deployment with Laravel
+13.07.2018  00:19    <DIR>          Pluralsight - RESTful Web Services with PHP and Laravel
+13.07.2018  00:20    <DIR>          Test Driven Laravel
+13.07.2018  00:20    <DIR>          Tutsplus - Build a CMS With Laravel
+13.07.2018  00:20    <DIR>          Tutsplus - Build Your First Laravel Site
+13.07.2018  00:20    <DIR>          Udemy - Best Laravel
+13.07.2018  00:21    <DIR>          Udemy - Projects in Laravel Learn Laravel Building 10 Projects
+13.07.2018  07:45    <DIR>          Udemy - RESTful API with Laravel 5.4 Definitive Guide
+13.07.2018  00:21    <DIR>          Udemy - Restful API with Laravel PHP Homestead Passport Hateoas
+               0 File(s)              0 bytes
+
+ Directory of E:\DOWNLOADS\20181128\Laravel\Laracasts
+
+14.10.2018  08:03    <DIR>          .
+14.10.2018  08:03    <DIR>          ..
+13.07.2018  07:42    <DIR>          -- X
+13.07.2018  07:42    <DIR>          Advanced Eloquent
+13.07.2018  07:42    <DIR>          Billing With Stripe
+13.07.2018  07:42    <DIR>          Commands and Domain Events
+13.07.2018  07:42    <DIR>          Digging In
+13.07.2018  07:42    <DIR>          How to be Awesome in PHPStorm
+13.07.2018  07:42    <DIR>          Incremental APIs
+13.07.2018  07:43    <DIR>          Laravel Forge
+13.07.2018  07:43    <DIR>          Laravel From Scratch
+13.07.2018  07:43    <DIR>          Let's Build Larabook From Scratch
+13.07.2018  07:43    <DIR>          Modern CSS Workflow
+13.07.2018  07:43    <DIR>          SOLID Principles in PHP
+13.07.2018  07:43    <DIR>          The Lifecycle of a New Feature
+13.07.2018  07:43    <DIR>          tutor - Laravel
+13.07.2018  07:43    <DIR>          Understand Regular Expressions
+13.07.2018  07:44    <DIR>          VueJS
+               0 File(s)              0 bytes
+
+ Volume in drive E is Seagate Backup Plus Drive
+ Volume Serial Number is 8EEF-9673
+
+ Directory of E:\DOWNLOADS\20181128
+
+16.07.2017  17:19     2.035.700.465 Linkedin - Advance your Skills as a PHP Developer Core PHP.rar
+02.03.2016  21:06       819.426.097 Lynda - Accessing Databases with Object-Oriented PHP.rar
+29.05.2017  09:10       324.525.707 Lynda - Test-Driven Development in PHP with PHPUnit.rar
+24.08.2014  10:38       369.387.970 Lynda - Up and Running with Symfony2 for PHP.rar
+25.12.2015  11:54       991.826.211 Oreilly - PHP Web Services Working With APIs and PHP.rar
+17.05.2017  13:34     2.067.023.908 StoneRiver - PHP Object Oriented Programming Fundamentals.rar
+25.12.2015  10:23       851.939.863 Tutsplus - Advanced OOP in PHP With Tests.rar
+07.01.2016  12:47     1.716.849.667 Udemy - Introduction to Modern Programming with PHP.rar
+20.01.2016  23:50     1.350.604.587 Udemy - Introduction to Testing with PHPUnit.rar
+24.12.2015  18:10     1.217.543.588 Udemy - Learn How to Extract Data From Websites with PHP.rar
+01.10.2016  20:58       745.080.113 Udemy - Learn PhalconPHP Framework.rar
+02.03.2016  21:35     2.596.870.231 Udemy - Learn Top Ten PHP FrameWorks By Building Projects.rar
+28.08.2017  09:58       630.218.201 Udemy - PHP MVC Login.rar
+01.10.2016  19:40     2.084.851.159 Udemy - PHP Object Oriented Programming Fundamentals.rar
+28.08.2017  09:52     1.962.847.212 Udemy - VueJS 2 Essentials.rar
+17.05.2017  15:07     3.755.063.327 Udemy - VueJS 2 The Complete Guide.rar
+              16 File(s) 23.519.758.306 bytes
+               0 Dir(s)  754.519.687.168 bytes free
+
