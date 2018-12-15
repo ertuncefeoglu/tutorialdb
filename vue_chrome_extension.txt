@@ -1,3 +1,0 @@
-﻿https://www.google.com.tr/search?q=vue+chrome+extension&rlz=1C1CHZL_trTR682TR682&oq=vue+chrome+extension&aqs=chrome..69i57.19332j0j1&sourceid=chrome&ie=UTF-8
-https://github.com/YuraDev/vue-chrome-extension-template
-https://vuejsdevelopers.com/2017/05/08/vue-js-chrome-extension/
