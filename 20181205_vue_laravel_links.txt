@@ -1,0 +1,162 @@
+﻿https://codecourse.com/courses/vue-laravel-spa
+https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c
+https://console.firebase.google.com/project/vfad-a51a5/settings/general/
+https://medium.com/@brandon.shar/graphql-laravel-and-vue-part-1-backend-576d0c1095a7
+https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16
+
+https://github.com/darekaze/audifactory
+https://laravel-news.com/your-first-laravel-application
+
+---
+
+Yabancp PHP mvc mamirisine sahip PHP framework yapımı
+Jream
+https://www.youtube.com/watch?v=Aw28-krO7ZM&list=PL7A20112CF84B2229
+jream 
+tek tek oop ile php anlatımı 
+https://www.youtube.com/watch?v=hyXKjAssUGE&list=PL75B9D91CD69ED950
+
+Php ile kendi site botlarınızı yapın.
+howcode
+https://www.youtube.com/watch?v=2RRSw7Ycv0c&list=PLBOh8f9FoHHjdsAWwUjKk-QOlmBw-0Bvr
+
+Selehattin Ünlü
+https://www.youtube.com/watch?v=xCpZ1a9qlwg&list=PL0ncE8cDf6erMZcnSC3ja9EhYQrNl7QAN
+
+İkinci seti Blog geliştirme
+https://www.youtube.com/watch?v=eVjEO8hkvm4&list=PL0ncE8cDf6epGh7Mg9Sh9tPERN3Kv9K3J
+
+Devlob 
+Vuejs Ve larevel 5.3 takip edebilirsiniz çok iyi bir eğitim seti.
+https://www.youtube.com/watch?v=F_kSJ3uz2-Q&t=1s&list=PL3ZhWMazGi9IommUd5zQmjyNeF7s1sP7Y&index=1
+Laravel 53. Tek tek tanıtım
+devlob
+https://www.youtube.com/watch?v=a8ZpAf_tNh0&list=PL3ZhWMazGi9IYymniZgqwnYuPFDvaEHJb
+
+Laravel kullanıcı yetkilendirme. Yetkileri değiştirebilme. Kaldırıp atayabilme.
+Mindspace
+https://www.youtube.com/watch?v=mghrMCsDpug&list=PL55RiY5tL51r_qJPESCy5ScfwTo2klnlW
+Chat uygulaması 
+Vuejs ve Laravel
+Amitav Roy
+https://www.youtube.com/watch?v=WhfAqDy-cgo&list=PLkZU2rKh1mT88ejAxhv_EjkgYThrR2-nA
+
+Yine amitav roy
+Laravel ile yapılan api servisi. Vuejs ile çekilmesi anlatılıyor. Kanal’ın oynatma listelerinde daha fazlası var. Bakabilirsiniz
+https://www.youtube.com/watch?v=JEn16aQoowE&list=PLkZU2rKh1mT9TgMvpFY1QVrX2z4I3D3Jq 
+Laravel redis socket.io chat. Yabancı
+https://www.youtube.com/watch?v=P_HZh7PEvbA&list=PLEyOhcqU3T9WgpfyXFSrcAX9cQ-ZbdBiJ
+Advenced Js
+https://www.youtube.com/watch?v=KGkbXtalJgY&list=PLQw6R3B2BPb0a_30clBueuFDiXVCz9hIB
+
+Javascript Modüler fonksiyonlar.
+Object literal Pattern. Tasarım desenleri ile spagetti kodlardan kurtulmak.
+https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V
+
+Güle Güle Spagetti
+Modüler Javascript 
+Standart Jquery den Object literal pattern’e geçiş Uygulamalı
+https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
+
+---
+
+https://sebastiandedeyne.com/highlighting-code-blocks-with-leaguecommonmark/
+https://sebastiandedeyne.com/
+https://christoph-rumpel.com/2018/01/how-i-redesigned-my-blog-and-moved-it-from-jekyll-to-laravel
+https://github.com/sebastiandedeyne/sebastiandedeyne.com
+https://medium.com/@tabacitu/how-to-serve-a-website-that-uses-oauth-using-laravel-valet-59a237d74cd6
+https://hackernoon.com/simple-and-complete-module-based-laravel-app-5fee7a21bf28
+https://medium.com/@vanfrijooligan/thanks-jessica-villa-for-the-article-edf8638f117e
+https://laravel-news.com/php-opcache-docker
+https://akrabat.com/migrating-to-password_verify/
+https://blog.jetbrains.com/phpstorm/2018/12/deployment-to-multiple-hosts/
+
+https://www.pluralsight.com/courses/playbook-ef-core-2-1-whats-new
+https://hashnode.com/post/web-game-dev-from-zero-part-1-hello-internet-cjp9o4w4s006c0cs1e8f4g5zk
+
+https://akrabat.com/migrating-to-password_verify/
+https://www.reddit.com/r/vuejs/comments/a3c2ao/authentication_without_jwt/
+https://medium.com/@kobededecker/vue-pwa-example-298a8ea953c9
+https://www.telerik.com/blogs/10-more-things-you-didnt-know-create-react-app
+https://sebastiandedeyne.com/debugging-the-dreaded-class-log-does-not-exist-error-in-laravel/
+https://sebastiandedeyne.com/passing-data-to-layouts-in-blade-through-extends/
+https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/
+https://sebastiandedeyne.com/vue-templates-in-jsx/
+
+*** https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16
+*** https://medium.com/@sadnub/hyn-tenancy-5-2-and-laravel-passport-a0d11c5a08eb
+*** https://medium.com/@sadnub/vuejs-and-laravel-api-part-2-711c4986281c
+
+https://www.reddit.com/r/laravel/comments/a2h7pe/how_do_you_typically_use_vue_with_a_laravel/
+https://medium.com/@freekmurze/introducing-laravel-websockets-an-easy-to-use-websocket-server-implemented-in-php-f0797d5d6123
+https://medium.com/@eder.ramirez87/modern-pwa-with-vue-cli-3-vuetify-firestore-workbox-part-1-974383be5540
+
+https://medium.com/@sadnub/hyn-tenancy-5-2-and-laravel-passport-a0d11c5a08eb
+https://medium.com/@sadnub/vuejs-and-laravel-api-part-2-711c4986281c
+
+
+https://www.telerik.com/blogs/10-more-things-you-didnt-know-create-react-app
+https://medium.com/@brandon.shar/graphql-laravel-and-vue-part-1-backend-576d0c1095a7
+https://medium.com/@shakyShane/laravel-docker-part-1-setup-for-development-e3daaefaf3c
+*** https://medium.com/@shakyShane/laravel-docker-part-1-setup-for-development-e3daaefaf3c
+*** https://medium.com/@brandon.shar/graphql-laravel-and-vue-part-1-backend-576d0c1095a7
+*** https://medium.com/@sadnub/vuejs-and-laravel-api-part-2-711c4986281c
+*** https://medium.com/@sadnub/hyn-tenancy-5-2-and-laravel-passport-a0d11c5a08eb
+https://medium.com/@eder.ramirez87/modern-pwa-with-vue-cli-3-vuetify-firestore-workbox-part-1-974383be5540
+https://www.getrevue.co/profile/vuenewsletter/issues/122-vue-v2-5-18-beta-0-state-of-vue-js-survey-vueconf-toronto-talks-more-147638
+
+https://blog.bitsrc.io/turn-your-vue-web-app-into-a-pwa-ca04d8bcdd64
+*** https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16
+https://medium.appbase.io/vue-js-components-for-building-search-uis-7b2a1b6fe159
+
+https://blogs.msdn.microsoft.com/visualstudio/2018/12/04/making-every-developer-more-productive-with-visual-studio-2019/
+https://blogs.msdn.microsoft.com/dotnet/2018/12/04/announcing-entity-framework-core-2-2/
+https://medium.freecodecamp.org/how-to-create-a-vue-js-app-using-single-file-components-without-the-cli-7e73e5b8244f
+https://laracasts.com/series/laravel-from-scratch-2018/episodes/32
+https://code.tutsplus.com/tutorials/basics-of-object-oriented-programming-in-php--cms-31910
+https://www.reddit.com/r/laravel/comments/a2h7pe/how_do_you_typically_use_vue_with_a_laravel/
+https://oren.codes/2018/12/04/packaging-a-net-core-app-with-the-desktop-bridge/
+https://www.getrevue.co/profile/vuenewsletter/issues/122-vue-v2-5-18-beta-0-state-of-vue-js-survey-vueconf-toronto-talks-more-147638
+https://medium.com/@brandon.shar/graphql-laravel-and-vue-part-1-backend-576d0c1095a7
+https://medium.com/@anas.mammeri/vue-2-firebase-how-to-build-a-vue-app-with-firebase-authentication-system-in-15-minutes-fdce6f289c3c
+https://codecourse.com/courses/vue-laravel-spa
+
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
+https://medium.com/technology-learning/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
+https://float-middle.com/json-web-tokens-jwt-vs-sessions/
+https://jwt.io/introduction/
+
+https://medium.com/@jurinliyun/the-beginner-guide-to-laravel-orm-the-legacy-perspective-part-1-c694e90fd548
+https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6
+
+
+https://blog.angularindepth.com/keeping-browser-tabs-in-sync-using-localstorage-ngrx-and-rxjs-87de3bca4e2c
+https://elbruno.com/2018/12/03/machinelearning-free-ebook-pattern-recognition-and-machine-learning-from-christopher-bishop/
+https://www.cloudways.com/blog/connect-sftp-with-phpseclib-symfony/
+https://github.com/pd4d10/debugtron
+
+https://medium.com/@shakyShane/laravel-docker-part-1-setup-for-development-e3daaefaf3c
+https://vuejsdevelopers.com/2018/12/04/vue-js-2019-knowledge-map/
+https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-in-js/
+https://blog.docker.com/2018/12/introducing-desktop-enterprise/
+https://www.telerik.com/blogs/10-more-things-you-didnt-know-create-react-app
+http://brianlagunas.com/enable-net-core-3-in-visual-studio-2017/
+
+https://stackoverflow.com/questions/37482366/is-it-safe-to-expose-firebase-apikey-to-the-public/37484053
+https://support.google.com/firebase/answer/6400741
+https://stackoverflow.com/questions/37482366/is-it-safe-to-expose-firebase-apikey-to-the-public
+https://javebratt.com/hide-firebase-api/
+https://www.construct.net/en/forum/construct-2/how-do-i-18/how-to-secure-my-firebase-api-127351
+
+https://blog.bitsrc.io/4-ways-to-build-your-mobile-app-make-the-right-choice-ef
+
+https://laravel-news.com/php-opcache-docker
+https://medium.com/@brandon.shar/graphql-laravel-and-vue-part-1-backend-576d0c1095a7
+https://medium.com/@djaxho/simple-laravel-package-development-693ad2eea132
+
+https://www.telerik.com/blogs/10-more-things-you-didnt-know-create-react-app
+https://medium.com/@djug/laravel-tips-how-to-redirect-users-to-a-specific-url-route-when-the-validation-fails-2551149d1e4c
+https://www.reddit.com/r/vuejs/comments/a2zou9/help_with_displaying_json_array_in_vuejs/
+https://medium.com/@shakyShane/laravel-docker-part-1-setup-for-development-e3daaefaf3c
+https://vuejsdevelopers.com/2018/12/04/vue-js-2019-knowledge-map/

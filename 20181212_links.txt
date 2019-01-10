@@ -1,0 +1,117 @@
+﻿https://frontendfoc.us/issues/370
+http://mailer.inovica.com/newsletter.php?id=607&eid=6471983
+https://www.tomasvotruba.cz/blog/2018/12/06/dont-learn-to-code/
+
+https://medium.com/the-web-tub/serverless-vue-js-with-graphql-76a1ba4ceb1e
+https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
+https://thepowerofserverless.info/
+
+https://www.jetbrains.com/help/phpstorm/laravel.html
+https://medium.com/@newaeonweb/laravel-restful-api-using-docker-in-three-steps-part-iii-ed1ba993cb7f
+https://alligator.io/vuejs/vue-electron/
+https://developers.google.com/web/updates/2018/12/background-fetch
+https://www.phparch.com/2018/11/the-case-for-generics-in-php/
+https://laravel-news.com/tracking-vue-errors-with-honeybadger-in-laravel
+https://auth0.com/blog/developing-modern-apps-with-symfony-and-react/
+
+https://medium.com/@dushyantsabharwal/https-medium-com-dushyantsabharwal-realtime-app-with-vue-firebase-vuetify-474cdaa895fa
+https://www.monterail.com/blog/top-vuejs-development-articles-2018?utm_medium=social&utm_source=reddit&utm_campaign=vue.js
+?--- https://github.com/d-inquisitor/laravel-blog-example
+wtf??? https://github.com/anubhavsrivastava/awesome-ui-component-library
+
+https://medium.com/the-web-tub/serverless-vue-js-with-graphql-76a1ba4ceb1e
+https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
+https://thepowerofserverless.info/
+
+https://medium.com/@avatech/how-to-use-firebase-realtime-database-in-your-laravel-app-ee273bb3e50f
+https://www.storyblok.com/tp/structuring-content-storyblok-vuejs?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter
+https://medium.com/@zitko/structuring-a-vue-project-authentication-87032e5bfe16
+
+https://medium.com/the-web-tub/serverless-vue-js-with-graphql-76a1ba4ceb1e
+https://css-tricks.com/creating-vue-js-serverless-checkout-part-one/
+https://thepowerofserverless.info/
+
+--->
+
+XXX
+https://github.com/neutralinojs/neutralinojs/releases/tag/v1.0.8
+https://github.com/dotansimha/graphql-code-generator
+https://murze.be/handcrafting-mocks
+https://pineco.de/simple-json-web-token-guard-for-laravel-apis/
+https://www.youtube.com/watch?v=n3WjgZiPZdM&feature=youtu.be
+https://medium.com/@g.dormoy/make-universal-app-with-nuxt-2-0-and-typescript-bb341e2d5c5b
+https://auth0.com/blog/developing-modern-apps-with-symfony-and-react/
+https://medium.com/@Taha_Shashtari/reset-vuex-module-state-like-a-pro-1acb7f8d9e21
+https://alligator.io/react/expo-intro/
+https://medium.com/quasar-framework/quasar-1-0-sneak-peek-727b4e490899
+$ https://medium.com/@dushyantsabharwal/https-medium-com-dushyantsabharwal-realtime-app-with-vue-firebase-vuetify-474cdaa895fa
+https://medium.com/@codeandcam/singular-stack-style-monorepo-d151e1d6e12
+
+https://www.reddit.com/r/laravel/comments/a4c971/intro_to_laravel_build_an_api_w_57/
+https://medium.com/employbl/build-an-api-with-laravel-5-7-b3aa16ca2e69
+https://www.reddit.com/r/laravel/comments/a54lfk/laravel_blog_example_github/
+https://www.reddit.com/r/laravel/comments/a5dotb/build_authentication_into_your_laravel_api_with/
+https://www.reddit.com/r/laravel/comments/a5hxjs/our_gitlab_ci_pipeline_for_laravel_applications/
+https://www.reddit.com/r/laravel/comments/a5liwc/using_jwt_with_existing_user_model_in_laravel/
+https://www.reddit.com/r/laravel/comments/a5lq08/full_laracon_website_is_live/
+
+--->
+
+https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-Web-APIs-Part-1?MC=ASPNET&MC=WebDev&MC=Vstudio
+https://medium.com/digitalcloud/micro-tdd-its-hard-but-it-s-worth-it-45017643b4b3
+https://alligator.io/vuejs/vue-electron/
+https://medium.com/@newaeonweb/laravel-restful-api-using-docker-in-three-steps-part-iii-ed1ba993cb7f
+https://www.jetbrains.com/help/phpstorm/laravel.html
+
+http://mailer.inovica.com/newsletter.php?id=607&eid=6471983
+https://frontendfoc.us/issues/370
+
+https://frontnet.eu/amazon-machine-learning-courses-open-for-free-to-all-developers/
+https://medium.com/digitalcloud/micro-tdd-its-hard-but-it-s-worth-it-45017643b4b3
+
+https://alligator.io/vuejs/vue-electron/
+https://medium.com/@newaeonweb/laravel-restful-api-using-docker-in-three-steps-part-iii-ed1ba993cb7f
+https://www.jetbrains.com/help/phpstorm/laravel.html
+
+https://medium.com/@Gbxnga/deploying-and-scaling-a-laravel-app-on-aws-1349dcd7d17a
+https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+https://medium.com/@connorleech/build-authentication-into-your-laravel-api-with-json-web-tokens-jwt-cd223ace8d1a
+
+---
+https://vuejsdevelopers.com/2018/02/05/vue-laravel-crud/
+https://vuejsdevelopers.com/2017/06/04/vue-js-backend-laravel-beats-node/
+https://github.com/codecasts/spa-starter-kit
+https://github.com/alefesouza/laravel-vue-boilerplate
+https://medium.com/codingthesmartway-com-blog/vue-js-2-firebase-e4b2479e35a8
+https://firebase.googleblog.com/2016/04/vuefire-firebase-meets-vuejs_0.html
+https://vueschool.io/courses/vuejs-firebase-realtime-database
+https://github.com/aofdev/vue-firebase-auth-vuex
+https://github.com/sejr/vuefire-quickstart
+
+--->
+ÇERÇÖP
+https://simplestweb.in/blog/adding-rss-feed-to-your-blog
+https://github.com/JustComments/newsletter-cli
+https://gist.github.com/christiannwamba/f5d8b849ee80cccdc6ddcf37b9597948
+
+
+https://ericlbarnes.com/2018/12/11/refactoring-for-prose/
+
+https://github.com/sandervanhooft/laravel-blade-readable-numbers
+https://github.com/kamerk22/ipfuscator
+- https://phppackagedevelopment.com/
+- https://devdojo.com/articles/programming-happiness
+https://github.com/f/graphql.js
+https://blog.jetbrains.com/phpstorm/2018/12/doctrine-query-language-support/
+https://www.cloudways.com/blog/php/symfony/
+https://medium.com/@Taha_Shashtari/how-to-add-emoji-picker-to-text-fields-using-vue-js-a406653fa60b
+- https://blog.bitsrc.io/8-react-application-deployment-and-hosting-options-for-2019-ab4d668309fd
+- https://blog.bitsrc.io/using-less-with-create-react-app-without-ejecting-510a3344ef5d
+https://laravel-news.com/tracking-vue-errors-with-honeybadger-in-laravel
+https://medium.com/@Taha_Shashtari/simplify-your-components-with-computed-setters-2f687f193fb0
+WOV!!! https://blogs.oracle.com/opal/php-oci8-220-has-database-call-timeouts
+? https://www.dotnetcurry.com/aspnet-core/1469/facade-pattern
+
+https://wanago.io/2018/12/10/express-mongodb-typescript-env-var/
+- https://code-maze.com/consuming-github-api-rest-with-flurl/
+- https://www.buraksenyurt.com/post/Net-Core-Daha-Verimli-Konfigurasyon-Yonetimi

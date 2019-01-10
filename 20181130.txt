@@ -1,4 +1,56 @@
-﻿
+﻿VUE LARAVEL IMPORTANT
+https://codeburst.io/build-a-todo-app-with-electron-d6c61f58b55a
+https://www.cloudways.com/blog/create-todo-app-laravel-5-4/
+https://hackernoon.com/deep-to-github-ocean-with-create-asset-management-system-in-laravel-d3dedf411c7c
+https://hackernoon.com/learn-from-open-source-create-gym-management-with-laravel-5-7-87e33ada6ed9
+https://medium.com/@mining016/using-laravel-instead-of-conventional-html-for-web-designing-7ad02664e7d8
+https://medium.com/@mkt_43322/unleash-the-power-of-notifications-with-laravel-vue-js-and-pusher-aad85b02f146
+https://medium.com/@ed_stphnsn/docker-laravel-development-continous-deployment-part-1-intro-what-is-this-cefbecd7ac03
+https://medium.com/@weehong/laravel-5-7-vue-vue-router-spa-5e07fd591981
+https://medium.com/@angelalockhart91/large-scale-laravel-application-cfd558c81ad0
+https://www.reddit.com/r/laravel/comments/9oylxk/making_my_controller_codeblock_a_model_method/
+https://www.reddit.com/r/laravel/comments/9oy960/laravel_vue_passing_some_config_values_from/
+https://www.reddit.com/r/vuejs/comments/9oygu8/struggling_with_vue_pwa_html5_history_mode/
+
+
+https://happy-css.com/articles/component-oriented-ui-webdevelopment-with-vanilla-js/
+https://auth0.com/blog/vuejs-kanban-board-the-development-process/
+https://www.cloudways.com/en/laravel-hosting.php
+https://blog.devcenter.co/the-ultimate-cheatsheet-for-deploying-laravel-apps-to-heroku-f0c4f281e0f3
+https://medium.com/@marybrown9884/laravel-simplepaginate-more-effective-with-bigger-data-30a463f85950
+
+https://hackernoon.com/kubernetes-deploy-laravel-the-easy-way-a3508d8130c0
+
+https://pineco.de/laravel-package-development-basics/
+https://medium.com/maatwebsite/picking-your-pattern-947ff43a0f43
+https://medium.com/@marybrown9884/redesigning-laravel-io-88089504b0da
+https://www.reddit.com/r/laravel/comments/9olijr/making_a_modelphp_vue_counterpart/
+https://www.reddit.com/r/laravel/comments/9olm4u/a_maintained_and_complete_api_package_using_jwt/
+https://github.com/nahidulhasan/laravel-jwt
+https://medium.com/@juliancanderson/creating-simple-kanban-application-with-vue-and-firebase-53de42dceb01
+https://www.reddit.com/r/laravel/comments/9ou2w4/give_me_a_legit_reason_as_to_why_you_use_laravel/
+https://medium.com/helpspace/fresh-database-once-befor-testing-starts-faa2b10dc76f
+
+https://www.reddit.com/r/laravel/comments/9op4mb/error_connecting_laravel_with_wp_database/
+https://medium.com/@vivekdhumal/how-to-remove-default-registration-routes-from-laravels-auth-routes-efad4caa9aa4
+https://itnext.io/how-to-make-form-submissions-secure-on-an-api-website-d80bcfdb5149
+https://www.codementor.io/anastasionico/interfaces-and-polymorphism-in-php-ode18q096
+https://github.com/sethsandaru/laravel-hmvc-sample
+https://pusher.com/tutorials/search-laravel-vue
+
+https://medium.com/applab/6-web-app-10de2dd1b6d8
+
+http://www.advanceidea.co.in/blog/phpstorm
+
+https://snipcart.com/blog/vuepress-tutorial-vuejs-documentation
+https://medium.com/@tomquinonero/creating-a-vuejs-component-for-the-community-a-walk-through-485ea88922c7
+https://developer.here.com/blog/searching-for-points-of-interest-with-the-here-places-api-in-a-vue.js-application
+
+VUE CHROME EXTENSION
+https://www.google.com.tr/search?q=vue+chrome+extension&rlz=1C1CHZL_trTR682TR682&oq=vue+chrome+extension&aqs=chrome..69i57.19332j0j1&sourceid=chrome&ie=UTF-8
+https://github.com/YuraDev/vue-chrome-extension-template
+https://vuejsdevelopers.com/2017/05/08/vue-js-chrome-extension/
+
 20 EKİM
 
 okunmayanlar
