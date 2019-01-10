@@ -1628,3 +1628,74 @@
               16 File(s) 23.519.758.306 bytes
                0 Dir(s)  754.519.687.168 bytes free
 
+ Volume in drive E is Seagate Backup Plus Drive
+ Volume Serial Number is 8EEF-9673
+
+ Directory of E:\20181224
+
+04.01.2019  08:55    <DIR>          .
+04.01.2019  08:55    <DIR>          ..
+24.12.2018  23:06    <DIR>          Linkedin - Building RESTful APIs in Laravel
+26.12.2018  07:43    <DIR>          Packt - Advanced Firebase Building an Uber Clone
+27.12.2018  08:03    <DIR>          Packt - AWS Lambda and the Serverless Framework - Hands-On Learning
+24.12.2018  23:06    <DIR>          Packt - Learn JavaScript Build Your Own Blockchain
+27.12.2018  08:04    <DIR>          Pluralsight - Blockchain Fundamentals
+24.12.2018  23:10    <DIR>          TeamTreehouse - Full-Stack Javascript
+26.12.2018  07:51    <DIR>          Udacity - React nd019 v2.0.0
+26.12.2018  07:45    <DIR>          Udemy - Data Structures using Javascript
+27.12.2018  08:05    <DIR>          Udemy - Laravel - Learn How to Create Charts with Vue.js and Laravel
+24.12.2018  23:10    <DIR>          Udemy - Laravel PHP Framework Advanced
+26.12.2018  07:50    <DIR>          Udemy - Learn and Understand NodeJS
+24.12.2018  23:10    <DIR>          Udemy - Learn VueJS from Scratch The Complete 1 Hour Crash Course!
+               0 File(s)              0 bytes
+              14 Dir(s)  470.030.721.024 bytes free
+
+ Volume in drive E is Seagate Backup Plus Drive
+ Volume Serial Number is 8EEF-9673
+
+ Directory of E:\20181230
+
+09.01.2019  12:15    <DIR>          .
+09.01.2019  12:15    <DIR>          ..
+06.01.2019  19:00    <DIR>          CodeWithMosh - The Complete Node.js Course
+30.12.2018  17:04    <DIR>          Frontend Masters - Introduction to Node.js
+06.01.2019  19:01    <DIR>          Frontend Masters - Rapid Development on AWS - React, Node.js & GraphQL
+31.12.2018  10:15    <DIR>          Javascript Application Design
+06.01.2019  19:03    <DIR>          Packt - A RESTful API Node Exercise for Beginners JavaScript and JQuery
+02.01.2019  19:08    <DIR>          Packt - Advanced Server-Side Programming with Node.js
+09.01.2019  12:14    <DIR>          Packt - Functional Programming in 7 Days
+04.01.2019  08:54    <DIR>          Packt - Hands-on Serverless JavaScript Using AWS Lambda
+04.01.2019  08:53    <DIR>          Packt - Learning dart Build Your First App with Flutter
+31.12.2018  10:15    <DIR>          Packt - Practical Projects VueJS2
+02.01.2019  19:10    <DIR>          Packt - React Native - The Practical Guide
+02.01.2019  15:38    <DIR>          Packt - Real World Projects with Vue.js
+30.12.2018  16:53    <DIR>          Packt - The Complete MySQL Developer Course
+06.01.2019  19:03    <DIR>          Pluralsight - Become a Full-stack .NET Developer - Architecture and Testing
+02.01.2019  15:38    <DIR>          Secrets of Javascript Ninja {2nd Edition}
+06.01.2019  19:09    <DIR>          Udacity - Android Developer Nanodegree v7.0.0
+30.12.2018  17:07    <DIR>          Udacity - Front-End Web Developer Nanodegree nd001 v7.0.0
+30.12.2018  16:46    <DIR>          Udemy - Angular Progressive Web Apps (PWA) MasterClass & Free E-book
+02.01.2019  19:11    <DIR>          Udemy - ASP.NET Web API from Basic to Advanced
+02.01.2019  19:17    <DIR>          Udemy - AWS DynamoDB - The Complete Guide (Build 18+ Hands On Demos)
+02.01.2019  19:19    <DIR>          Udemy - AWS Serverless APIs & Apps - A Complete Introduction
+06.01.2019  19:10    <DIR>          Udemy - Become an iOSAndroid Game Developer with Unity 2017
+06.01.2019  19:10    <DIR>          Udemy - Beginner React Course (2018) Create a Movie Web App
+02.01.2019  19:20    <DIR>          Udemy - Complete Python Web Course Build 8 Python Web Apps
+06.01.2019  19:10    <DIR>          Udemy - Design Patterns in Java Concepts & Hands On Projects
+02.01.2019  19:21    <DIR>          Udemy - Git and GitHub Bootcamp  Learn Step by Step
+30.12.2018  17:08    <DIR>          Udemy - GitHub Ultimate Master Git and GitHub - Beginner to Expert
+30.12.2018  16:46    <DIR>          Udemy - JavaScript Course Build Real World Applications
+30.12.2018  17:09    <DIR>          Udemy - Learn Web Scraping with NodeJs - The Crash Course
+30.12.2018  17:10    <DIR>          Udemy - Microservices with Lumen A Distributed Architecture
+06.01.2019  19:12    <DIR>          Udemy - Node JS Advanced Concepts
+06.01.2019  19:14    <DIR>          Udemy - PHP Symfony 4 API Platform + React.js Full Stack Masterclass
+02.01.2019  19:22    <DIR>          Udemy - SQL & PostgreSQL From Beginner to Pro
+30.12.2018  17:12    <DIR>          Udemy - The Complete Python & PostgreSQL Developer Course
+30.12.2018  16:44    <DIR>          Udemy - The Complete Vue JS Course
+02.01.2019  19:22    <DIR>          Udemy - The Total Kotlin Course Learn  Kotlin Today
+06.01.2019  19:15    <DIR>          Udemy - Vue JS Build Interactive Apps using Vue JS
+31.12.2018  10:16    <DIR>          Vueschool - Nuxt.js Fundamentals
+               0 File(s)              0 bytes
+              40 Dir(s)  413.592.899.584 bytes free
+
+              
